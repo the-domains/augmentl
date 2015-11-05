@@ -1,0 +1,23 @@
+name: Augmentl
+favicon: null
+layout_spectrum: 0.1749838732648641
+typography_spectrum: 0.09943569032475352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3771054120734334
+  lightness: 0.8636724431999028
+  saturation: 0.5760985855013132
+  rhythmicContrast: 0.03832629160024226
+purpose: []
