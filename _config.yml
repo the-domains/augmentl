@@ -1,6 +1,6 @@
 name: Augmentl
 favicon: null
-layout_spectrum: 0.767
+layout_spectrum: 0.46515
 typography_spectrum: 0.6603
 title: 'Augmentl: the Mixed Reality Website'
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#171717'
-    - '#705965'
-    - '#9c9cbd'
-    - '#937592'
-    - '#d7ddcc'
-  brandStrength: 0.0625
+    - '#65a9c8'
+    - '#0a1932'
+    - '#fdda5e'
+    - '#ed613e'
+    - '#8e6553'
+  brandStrength: 0.25
   lightness: 0.6875
   saturation: 0.25
   rhythmicContrast: 0.25
