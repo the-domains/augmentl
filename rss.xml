@@ -4,7 +4,7 @@
         <description><![CDATA[Augmentl: the Mixed Reality Website]]></description>
         <link>https://thegrid.ai/augmentl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 17:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 17:30:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/augmentl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>https://www.youtube.com/watch?v=L2Uar6PncuI</link>
             <guid isPermaLink="false">f7eaf93a-6b6b-40db-843e-7d10984d4c00</guid>
             <pubDate>Thu, 05 Nov 2015 17:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://vrfocus.com/wp-content/uploads/2015/10/PalmerLuckey_Header2-790x300.png">]]></description>
-            <link>https://thegrid.ai/augmentl/40017720-2ee7-4f19-9f78-3dc1c5fdf04b/index.html</link>
-            <guid isPermaLink="false">40017720-2ee7-4f19-9f78-3dc1c5fdf04b</guid>
-            <pubDate>Thu, 05 Nov 2015 16:58:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
