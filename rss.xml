@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Augmentl: the Mixed Reality Website]]></title>
-        <description><![CDATA[Augmentl: the Mixed Reality Website]]></description>
+        <title><![CDATA[Augmentl: remixing reality]]></title>
+        <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>https://thegrid.ai/augmentl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 17:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 17:54:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/augmentl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[YouTube's Grand Plan to Make VR Accessible to Everybody]]></title>
+            <description><![CDATA[<article><h1>YouTube's Grand Plan to Make VR Accessible to Everybody</h1><p>Today, YouTube is unveiling 360-degree virtual reality videos and a virtual movie theater for all YouTube videos, available to anyone with a Google Cardboard headset. The goal is to “democratize virtual reality” and “bring VR to everybody, no matter who you are or what your favorite piece of content is,” YouTube says. “Virtual reality makes the experience of being there even more awesome and immersive.”</p><img src="http://www.wired.com/wp-content/uploads/2015/11/G3A01053-1200x630-e1446681365283.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/11/youtube-360-virtual-reality-video/</link>
+            <guid isPermaLink="false">6fe4fe47-6081-40d5-87bb-d778d8753aeb</guid>
+            <pubDate>Thu, 05 Nov 2015 17:53:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Earthlight VR is the closest you can get to outer space without leaving Earth]]></title>
             <description><![CDATA[<article><h1>Earthlight VR is the closest you can get to outer space without leaving Earth</h1><p>On a mission to fix a leaky valve, I'm pulling myself rung by rung along the International Space Station. The Earth is shimmering below in a way I've only seen in pictures, and if I turn my head, I can see the outer reaches of the station, and beyond them, endless space.</p><img src="http://rack.1.mshcdn.com/media/ZgkyMDE1LzExLzA0LzMwL2VhcnRobGlnaHQuM2VlZWMuanBnCnAJdGh1bWIJMTIwMHg2MjcjCmUJanBn/3453b92f/7c5/earthlight.jpg"></article>]]></description>
