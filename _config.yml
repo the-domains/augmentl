@@ -1,7 +1,7 @@
 name: Augmentl
 favicon: null
 layout_spectrum: 0.46515
-typography_spectrum: 0.73728
+typography_spectrum: 0.6603
 title: 'Augmentl: remixing reality'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#0f1922'
     - '#74a3b7'
     - '#37454e'
-  brandStrength: 0.3125
+  brandStrength: 0.1875
   lightness: 0.1875
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
