@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Augmentl]]></title>
         <description><![CDATA[Augmentl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/augmentl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 17:21:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 Nov 2015 17:22:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/augmentl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[White Day - SCEK Press Conference Trailer (Gameplay)]]></title>
+            <description><![CDATA[<article><h1>White Day - SCEK Press Conference Trailer (Gameplay)</h1><p>Sony revealed debut gameplay footage in a new trailer for PSVR title White Day, a new reveal for Sony's virtual reality (VR) system. The game was revealed as part of Sony Computer Entertainment Korea (SCEK)'s November 4th press conference presented by Shuhei Yoshida.</p><img src="https://i.ytimg.com/vi/L2Uar6PncuI/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=L2Uar6PncuI</link>
+            <guid isPermaLink="false">f7eaf93a-6b6b-40db-843e-7d10984d4c00</guid>
+            <pubDate>Thu, 05 Nov 2015 17:03:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://vrfocus.com/wp-content/uploads/2015/10/PalmerLuckey_Header2-790x300.png">]]></description>
-            <link>undefined40017720-2ee7-4f19-9f78-3dc1c5fdf04b/index.html</link>
+            <link>https://thegrid.ai/augmentl/40017720-2ee7-4f19-9f78-3dc1c5fdf04b/index.html</link>
             <guid isPermaLink="false">40017720-2ee7-4f19-9f78-3dc1c5fdf04b</guid>
             <pubDate>Thu, 05 Nov 2015 16:58:42 GMT</pubDate>
         </item>
