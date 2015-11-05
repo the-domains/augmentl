@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Augmentl]]></title>
+        <description><![CDATA[Augmentl]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 Nov 2015 17:21:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://vrfocus.com/wp-content/uploads/2015/10/PalmerLuckey_Header2-790x300.png">]]></description>
+            <link>undefined40017720-2ee7-4f19-9f78-3dc1c5fdf04b/index.html</link>
+            <guid isPermaLink="false">40017720-2ee7-4f19-9f78-3dc1c5fdf04b</guid>
+            <pubDate>Thu, 05 Nov 2015 16:58:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
