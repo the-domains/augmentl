@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 20:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 20:11:57 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Interview: JB McRee of HTC talks about HTC Vive and the future of virtual reality]]></title>
+            <description><![CDATA[<article><h1>Interview: JB McRee of HTC talks about HTC Vive and the future of virtual reality</h1><p>That's a very exciting thing for us to be able to do, unlike with phones. We always use the example of having so many more people involved with phones, whether it's marketing agencies, or carriers, you've got marketing collateral moving everywhere, device images, things like that. You also have people hunting for it.</p><img src="http://www.gadgette.com/wp-content/uploads/2015/11/11221558_670900249706721_7547105971644040284_o.jpg"></article>]]></description>
+            <link>http://www.gadgette.com/2015/11/05/interview-jb-mcree-of-htc-talks-about-vive-and-the-future-of-virtual-reality/</link>
+            <guid isPermaLink="false">05232ba5-613e-4e77-8b51-27b1a02a1e65</guid>
+            <pubDate>Fri, 06 Nov 2015 20:11:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HTC Vive - hands on]]></title>
             <description><![CDATA[<article><h1>HTC Vive - hands on</h1><p>I'd seen videos of the Vive before - watching unsuspecting users stumble around with big childish grins painted on their face - but nothing could prepare me for what I was about to experience.</p><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/styles/teaser-image/public/brands/AEG/emoji-keyboard.jpg?itok=mGgzxeoI"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Recognizing Trouble in VR</h1><p>I recently wrote an article on my favorite virtual reality games. I think that ensuring people experience the best virtual reality games is extremely important to the health of the medium- a bad VR game is all it takes to make someone lose interest in VR... and maybe lose their lunch, too.</p><img src="http://www.brokenjoysticks.net/wp-content/uploads/2015/11/Oculus-Rift-5-600x338.jpg"></article>]]></description>
             <link>http://www.brokenjoysticks.net/2015/11/05/recognizing-trouble-in-vr/</link>
             <guid isPermaLink="false">2bf35b86-ec85-4d5f-a0ac-38e988cbef9d</guid>
-            <pubDate>Thu, 05 Nov 2015 17:11:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>VR World Congress is the UK's biggest and best conference focused on the world of Virtual Reality, taking place in Bristol on the 12th of April, 2016.</p><img src="http://vrworldcongress.com/assets/Images/tall2.jpg"></article>]]></description>
-            <link>http://vrworldcongress.com/</link>
-            <guid isPermaLink="false">0c83d4d0-da4e-4973-b0de-b17133495513</guid>
             <pubDate>Thu, 05 Nov 2015 17:11:30 GMT</pubDate>
         </item>
     </channel>
