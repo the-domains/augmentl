@@ -17,20 +17,20 @@ keywords:
   - hunt
   - know
 description: "That's a very exciting thing for us to be able to do, unlike with phones. We always use the example of having so many more people involved with phones, whether it's marketing agencies, or carriers, you've got marketing collateral moving everywhere, device images, things like that. You also have people hunting for it."
-datePublished: '2015-11-06T20:11:51.610Z'
-dateModified: '2015-11-06T20:11:20.621Z'
+datePublished: '2015-11-06T20:18:25.397Z'
+dateModified: '2015-11-06T20:18:13.857Z'
 author: []
 related: []
 app_links: []
 title: 'Interview: JB McRee of HTC talks about HTC Vive and the future of virtual reality'
+sourcePath: _posts/2015-11-06-interview-jb-mcree-of-htc-talks-about-htc-vive-and-the-futu.md
+published: true
 authors: []
 publisher:
   name: Gadgette
   domain: www.gadgette.com
   url: 'http://www.gadgette.com'
   favicon: 'http://3ocrxvz5y3b46ifqm2s90u91.wpengine.netdna-cdn.com/wp-content/themes/thememo3/img/favicon.ico'
-sourcePath: _posts/2015-11-06-interview-jb-mcree-of-htc-talks-about-htc-vive-and-the-futu.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
