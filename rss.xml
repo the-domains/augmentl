@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 20:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 20:53:32 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NEC's New Augmented Reality Device Turns Your Arm Into A Tablet]]></title>
+            <description><![CDATA[<article><h1>NEC's New Augmented Reality Device Turns Your Arm Into A Tablet</h1><p>Tablets can be very useful in places like factories, with maintenance workers being able to carry them around and check on tasks as they go. Soon, however, factory workers might not need to carry anything around, with researchers in Japan working on a system that will transform the human body into tablet, touchpads, keyboards and so on, enabling them to keep their hands free for other things.</p><img src="http://images.techtimes.com/data/images/full/165380/arm-tablet.jpg"></article>]]></description>
+            <link>http://www.techtimes.com/articles/104091/20151106/necs-new-augmented-reality-device-turns-arm-tablet.htm</link>
+            <guid isPermaLink="false">f9c3150d-a26a-43de-805d-9855bf056367</guid>
+            <pubDate>Fri, 06 Nov 2015 20:52:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vision VR/AR Summit]]></title>
             <description><![CDATA[<article><h1>Vision VR/AR Summit</h1><p>Vision VR/AR Summit is an all-new cross industry event for artists, engineers, programmers, designers, musicians, directors and producers, hardware manufacturers and researchers. It will be a unique event focused on furthering the knowledge base of anyone developing virtual and/or augmented reality content.</p><img src="http://unity3d.com/profiles/unity3d/themes/unity/images/pages/vision/vr-guy.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Hunger Games - Virtual Reality Experience (VR Video)</h1><p>This is a VR video-a brand new kind of video that gives you a sense of depth in every direction so you feel like you're actually there. For full effect, watch it in a Google Cardboard viewer (g.co/cardboard).</p><img src="https://i.ytimg.com/vi/EIx6642wphw/hqdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=EIx6642wphw&amp;feature=youtu.be</link>
             <guid isPermaLink="false">2a366995-b3d4-41e6-ab67-5b83afaf602e</guid>
-            <pubDate>Fri, 06 Nov 2015 15:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virtual-Comics | Apps | Oculus Share]]></title>
-            <description><![CDATA[<article><h1>Virtual-Comics | Apps | Oculus Share</h1><p>Updated Oculus SDK to 0.7.0.0. Improved memory usage. implemented first pass of multi-threaded thumbnail generation(still needs some work). Included VirtualComicsLauncher.exe with Windows file browser for direct opening of comicbooks. Added experimental HMD pitch reset option to setting to allow for reclined viewing.</p><img src="https://d11g5bl75h7gks.cloudfront.net/shareuploads/apps/1422574365381mp0tgr2j4i/screens/142213745744004kqae2ke29_1422138543300.jpg"></article>]]></description>
-            <link>https://share.oculus.com/app/virtual-comics</link>
-            <guid isPermaLink="false">1b340d32-ac96-412a-9829-ab3576e72ed0</guid>
             <pubDate>Fri, 06 Nov 2015 15:48:26 GMT</pubDate>
         </item>
     </channel>
