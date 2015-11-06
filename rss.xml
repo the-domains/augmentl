@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 20:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 20:37:52 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lytro's 'Immerge' 360 3D Light-field Pipeline is Poised to Redefine VR Video - Road to VR]]></title>
+            <description><![CDATA[<article><h1>Lytro's 'Immerge' 360 3D Light-field Pipeline is Poised to Redefine VR Video - Road to VR</h1><p>Lytro have today revealed plans which take the company's expertise in 'still' light-field photography into the realm of VR film. The company have developed a scalable end-to-end solution for shooting, processing, editing and rendering next-generation 360 footage that allows a viewer to move around the captured scene in real time.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/Lytro_Immerge_Coast.jpg"></article>]]></description>
+            <link>http://www.roadtovr.com/lytros-immerge-360-3d-light-field-pipeline-is-poised-to-redefine-vr-video/</link>
+            <guid isPermaLink="false">e8998852-7d40-4727-9f3b-66838155bf97</guid>
+            <pubDate>Fri, 06 Nov 2015 20:35:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RoomsVR]]></title>
             <description><![CDATA[<article><h1>RoomsVR</h1><p>With Rooms VR I want to give the user the ability to create their own space in VR, or why not REcreate their real world spaces and places, and fill them with the most amazing furniture and art they can think of.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://uploadvr.com/tekken-robinson-journey-highlight-new-psvr-games/</link>
             <guid isPermaLink="false">97b7e075-aef0-4d7e-95d1-3a9c5b458340</guid>
             <pubDate>Thu, 05 Nov 2015 18:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YouTube's Grand Plan to Make VR Accessible to Everybody]]></title>
-            <description><![CDATA[<article><h1>YouTube's Grand Plan to Make VR Accessible to Everybody</h1><p>Today, YouTube is unveiling 360-degree virtual reality videos and a virtual movie theater for all YouTube videos, available to anyone with a Google Cardboard headset. The goal is to “democratize virtual reality” and “bring VR to everybody, no matter who you are or what your favorite piece of content is,” YouTube says. “Virtual reality makes the experience of being there even more awesome and immersive.”</p><img src="http://www.wired.com/wp-content/uploads/2015/11/G3A01053-1200x630-e1446681365283.jpg"></article>]]></description>
-            <link>http://www.wired.com/2015/11/youtube-360-virtual-reality-video/</link>
-            <guid isPermaLink="false">6fe4fe47-6081-40d5-87bb-d778d8753aeb</guid>
-            <pubDate>Thu, 05 Nov 2015 17:53:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
