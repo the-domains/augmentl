@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 20:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 20:11:12 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HTC Vive - hands on]]></title>
+            <description><![CDATA[<article><h1>HTC Vive - hands on</h1><p>I'd seen videos of the Vive before - watching unsuspecting users stumble around with big childish grins painted on their face - but nothing could prepare me for what I was about to experience.</p><img src="http://images.cdn.stuff.tv/sites/stuff.tv/files/styles/teaser-image/public/brands/AEG/emoji-keyboard.jpg?itok=mGgzxeoI"></article>]]></description>
+            <link>http://www.stuff.tv/me/features/htc-vive-hands-1</link>
+            <guid isPermaLink="false">3bbcab3f-5b11-48cb-98d4-50d1a222106b</guid>
+            <pubDate>Fri, 06 Nov 2015 20:10:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reconsider]]></title>
             <description><![CDATA[<article><h1>Reconsider</h1><p>A refreshing perspective on the obsession with unicorns in the startup world, which is more than a bit relevant for the burgeoning VR startup marketplace. From the founder of Basecamp.</p><img src="https://cdn-images-1.medium.com/max/2000/1*aQrgExniHXF_37Hxemw8TA.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://vrworldcongress.com/</link>
             <guid isPermaLink="false">0c83d4d0-da4e-4973-b0de-b17133495513</guid>
             <pubDate>Thu, 05 Nov 2015 17:11:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Affected]]></title>
-            <description><![CDATA[<article><h1>Affected</h1><p>Affected offers a new level of immersion for gamers, heightened feelings of tension and more importantly, unprecedented levels of fear. The Oculus Rift has ushered in a new era in gaming and as a result, a new dimension in which to experience the ultimate in scare factors.</p><img src="http://www.fallenplanetstudios.com/wordpress/wp-content/uploads/2014/08/maxresdefault.jpg"></article>]]></description>
-            <link>http://www.fallenplanetstudios.com/affected/</link>
-            <guid isPermaLink="false">644405b8-fb14-4745-b14b-cf08957e5212</guid>
-            <pubDate>Thu, 05 Nov 2015 17:05:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
