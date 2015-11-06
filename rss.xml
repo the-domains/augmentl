@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 15:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 15:49:15 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Hunger Games - Virtual Reality Experience (VR Video)]]></title>
+            <description><![CDATA[<article><h1>The Hunger Games - Virtual Reality Experience (VR Video)</h1><p>This is a VR video-a brand new kind of video that gives you a sense of depth in every direction so you feel like you're actually there. For full effect, watch it in a Google Cardboard viewer (g.co/cardboard).</p><img src="https://i.ytimg.com/vi/EIx6642wphw/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=EIx6642wphw&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">2a366995-b3d4-41e6-ab67-5b83afaf602e</guid>
+            <pubDate>Fri, 06 Nov 2015 15:48:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Virtual-Comics | Apps | Oculus Share]]></title>
             <description><![CDATA[<article><h1>Virtual-Comics | Apps | Oculus Share</h1><p>Updated Oculus SDK to 0.7.0.0. Improved memory usage. implemented first pass of multi-threaded thumbnail generation(still needs some work). Included VirtualComicsLauncher.exe with Windows file browser for direct opening of comicbooks. Added experimental HMD pitch reset option to setting to allow for reclined viewing.</p><img src="https://d11g5bl75h7gks.cloudfront.net/shareuploads/apps/1422574365381mp0tgr2j4i/screens/142213745744004kqae2ke29_1422138543300.jpg"></article>]]></description>
