@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 20:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 15:49:10 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Virtual-Comics | Apps | Oculus Share]]></title>
+            <description><![CDATA[<article><h1>Virtual-Comics | Apps | Oculus Share</h1><p>Updated Oculus SDK to 0.7.0.0. Improved memory usage. implemented first pass of multi-threaded thumbnail generation(still needs some work). Included VirtualComicsLauncher.exe with Windows file browser for direct opening of comicbooks. Added experimental HMD pitch reset option to setting to allow for reclined viewing.</p><img src="https://d11g5bl75h7gks.cloudfront.net/shareuploads/apps/1422574365381mp0tgr2j4i/screens/142213745744004kqae2ke29_1422138543300.jpg"></article>]]></description>
+            <link>https://share.oculus.com/app/virtual-comics</link>
+            <guid isPermaLink="false">1b340d32-ac96-412a-9829-ab3576e72ed0</guid>
+            <pubDate>Fri, 06 Nov 2015 15:48:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Tekken' and 'Robinson: The Journey' highlight new PSVR game trailers - UploadVR]]></title>
             <description><![CDATA[<article><h1>'Tekken' and 'Robinson: The Journey' highlight new PSVR game trailers - UploadVR</h1><p>Sony announced new games for PlayStation VR at Paris Games Week and showed new footage of previously announced titles, showing creepy moments from horror title Until Dawn: Rush of Blood, a breathtaking encounter with dinosaurs in Robinson: The Journey, tank battles from Battlezone and flying robot combat from RIGS.</p><img src="http://uploadvr.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-27-at-2.06.38-PM.png"></article>]]></description>
