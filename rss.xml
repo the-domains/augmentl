@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 20:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 20:49:30 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vision VR/AR Summit]]></title>
+            <description><![CDATA[<article><h1>Vision VR/AR Summit</h1><p>Vision VR/AR Summit is an all-new cross industry event for artists, engineers, programmers, designers, musicians, directors and producers, hardware manufacturers and researchers. It will be a unique event focused on furthering the knowledge base of anyone developing virtual and/or augmented reality content.</p><img src="http://unity3d.com/profiles/unity3d/themes/unity/images/pages/vision/vr-guy.jpg"></article>]]></description>
+            <link>http://visionsummit2016.com/</link>
+            <guid isPermaLink="false">905b449d-7020-474d-801d-510d776ce1b0</guid>
+            <pubDate>Fri, 06 Nov 2015 20:48:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lytro's 'Immerge' 360 3D Light-field Pipeline is Poised to Redefine VR Video - Road to VR]]></title>
             <description><![CDATA[<article><h1>Lytro's 'Immerge' 360 3D Light-field Pipeline is Poised to Redefine VR Video - Road to VR</h1><p>Lytro have today revealed plans which take the company's expertise in 'still' light-field photography into the realm of VR film. The company have developed a scalable end-to-end solution for shooting, processing, editing and rendering next-generation 360 footage that allows a viewer to move around the captured scene in real time.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/Lytro_Immerge_Coast.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://share.oculus.com/app/virtual-comics</link>
             <guid isPermaLink="false">1b340d32-ac96-412a-9829-ab3576e72ed0</guid>
             <pubDate>Fri, 06 Nov 2015 15:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Tekken' and 'Robinson: The Journey' highlight new PSVR game trailers - UploadVR]]></title>
-            <description><![CDATA[<article><h1>'Tekken' and 'Robinson: The Journey' highlight new PSVR game trailers - UploadVR</h1><p>Sony announced new games for PlayStation VR at Paris Games Week and showed new footage of previously announced titles, showing creepy moments from horror title Until Dawn: Rush of Blood, a breathtaking encounter with dinosaurs in Robinson: The Journey, tank battles from Battlezone and flying robot combat from RIGS.</p><img src="http://uploadvr.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-27-at-2.06.38-PM.png"></article>]]></description>
-            <link>http://uploadvr.com/tekken-robinson-journey-highlight-new-psvr-games/</link>
-            <guid isPermaLink="false">97b7e075-aef0-4d7e-95d1-3a9c5b458340</guid>
-            <pubDate>Thu, 05 Nov 2015 18:23:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
