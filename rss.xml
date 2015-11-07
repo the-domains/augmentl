@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 23:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 08:34:02 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Oculus Co-founder Jack McCauley's Next Challenge: The Perfect Head-Tracker for VR]]></title>
+            <description><![CDATA[<article><h1>Oculus Co-founder Jack McCauley's Next Challenge: The Perfect Head-Tracker for VR</h1><p>I'm one of those extremely motion sensitive people who, so far, haven't found Virtual Reality to be a friendly environment. People keep telling me that faster refresh rates and higher resolution displays have gone a long way to eliminate VR sickness for many people-but you couldn't prove it by me.</p><img src="http://spectrum.ieee.org/img/22808536185_5b5dd9f734_k-1446854297862.jpg"></article>]]></description>
+            <link>http://spectrum.ieee.org/view-from-the-valley/consumer-electronics/gadgets/oculus-cofounder-jack-mccauleys-next-challengethe-perfect-headtracker-for-vr</link>
+            <guid isPermaLink="false">9eac6324-2ddb-48a5-927b-7ea1a156d6ef</guid>
+            <pubDate>Sat, 07 Nov 2015 08:33:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Oculus launches 1.0 Audio SDK beta - UploadVR]]></title>
             <description><![CDATA[<article><h1>Oculus launches 1.0 Audio SDK beta - UploadVR</h1><p>The sound inside VR experiences is getting a major upgrade with the 1.0 beta release of an Audio SDK from Oculus. The new software should make it easier for developers to add immersive sound to their apps as Facebook's VR division moves closer to a finalized platform for the launch of the Rift early next year.</p><img src="http://uploadvr.com/wp-content/uploads/2015/11/audio.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.gadgette.com/2015/11/05/interview-jb-mcree-of-htc-talks-about-vive-and-the-future-of-virtual-reality/</link>
             <guid isPermaLink="false">05232ba5-613e-4e77-8b51-27b1a02a1e65</guid>
             <pubDate>Fri, 06 Nov 2015 20:18:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reconsider]]></title>
-            <description><![CDATA[<article><h1>Reconsider</h1><p>A refreshing perspective on the obsession with unicorns in the startup world, which is more than a bit relevant for the burgeoning VR startup marketplace. From the founder of Basecamp.</p><img src="https://cdn-images-1.medium.com/max/2000/1*aQrgExniHXF_37Hxemw8TA.png"></article>]]></description>
-            <link>https://medium.com/@dhh/reconsider-41adf356857f</link>
-            <guid isPermaLink="false">a9734104-b813-4bc3-bc95-4c868bee74fc</guid>
-            <pubDate>Fri, 06 Nov 2015 20:08:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
