@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 08:59:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 09:41:53 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Augmentl is back with a vengeance</p></article>]]></description>
+            <link>http://augmentl.io/about/index.html</link>
+            <guid isPermaLink="false">224b47f6-c7e5-49c1-a745-b7217c466694</guid>
+            <pubDate>Sat, 07 Nov 2015 09:41:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TechDay | If Magic Leap Isn't Yet on Your Radar--Here's Why it Should Be:]]></title>
             <description><![CDATA[<article><h1>TechDay | If Magic Leap Isn't Yet on Your Radar--Here's Why it Should Be:</h1><p>You may have heard of the secretive, mysterious Magic Leap around this time last year - the company made headlines when Google announced it was investing $542 million in the tech startup. One year later, our knowledge of exactly what Magic Leap is working on is still limited.</p><img src="https://techdayhq.com/system/posts/images/000/000/218/original/magic_leap.jpg?1446673000"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.eriksaar.net/roomsvr</link>
             <guid isPermaLink="false">c98c5486-0824-4563-86ed-89b6b0243c3d</guid>
             <pubDate>Fri, 06 Nov 2015 20:34:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTC shares boosted by VR device, Bill Gates praise | Economics | FOCUS TAIWAN - CNA ENGLISH NEWS]]></title>
-            <description><![CDATA[<article><h1>HTC shares boosted by VR device, Bill Gates praise | Economics | FOCUS TAIWAN - CNA ENGLISH NEWS</h1><p>Taipei, Nov. 6 (CNA) Shares of Taiwan-based smartphone vendor HTC Corp. (宏達電) were boosted Friday morning by optimism toward its bottom line as it prepares to release its HTC Vive, a virtual reality device, likely in December, dealers said. The optimism was also fueled by praise for the HTC Vive from Microsoft Corp.</p><img src="http://img1.cna.com.tw/Eng/WebEngPhotos//CEP/20151106/201511060008t0001.jpg"></article>]]></description>
-            <link>http://focustaiwan.tw/news/aeco/201511060008.aspx</link>
-            <guid isPermaLink="false">bcb78eeb-055c-4b1b-aa60-afdbc808ff67</guid>
-            <pubDate>Fri, 06 Nov 2015 20:21:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
