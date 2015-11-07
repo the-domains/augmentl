@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 20:58:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 23:06:05 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Oculus launches 1.0 Audio SDK beta - UploadVR]]></title>
+            <description><![CDATA[<article><h1>Oculus launches 1.0 Audio SDK beta - UploadVR</h1><p>The sound inside VR experiences is getting a major upgrade with the 1.0 beta release of an Audio SDK from Oculus. The new software should make it easier for developers to add immersive sound to their apps as Facebook's VR division moves closer to a finalized platform for the launch of the Rift early next year.</p><img src="http://uploadvr.com/wp-content/uploads/2015/11/audio.jpg"></article>]]></description>
+            <link>http://uploadvr.com/oculus-launches-audio-sdk-beta/</link>
+            <guid isPermaLink="false">f9ef0f89-15b6-4eed-8234-a0ec7667b02d</guid>
+            <pubDate>Fri, 06 Nov 2015 23:05:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scare Campaign-The VR experience - Download now in VR]]></title>
             <description><![CDATA[<article><h1>Scare Campaign-The VR experience - Download now in VR</h1><p>When I saw this press release last week I was excited, I love horror in VR and can admit to occasionally taking pleasure in terrifying my sister in law to death with scary VR demos. The promo pictures looked great,set in an asylum with professional actors and produced by award winning producer Julie Ryan.</p><img src="http://4.bp.blogspot.com/-J9vZ8TLEIr4/VV55UHkpzsI/AAAAAAAAB3g/QDDeHBwhr5s/s640/Olivia%2BDeJonge.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Reconsider</h1><p>A refreshing perspective on the obsession with unicorns in the startup world, which is more than a bit relevant for the burgeoning VR startup marketplace. From the founder of Basecamp.</p><img src="https://cdn-images-1.medium.com/max/2000/1*aQrgExniHXF_37Hxemw8TA.png"></article>]]></description>
             <link>https://medium.com/@dhh/reconsider-41adf356857f</link>
             <guid isPermaLink="false">a9734104-b813-4bc3-bc95-4c868bee74fc</guid>
-            <pubDate>Fri, 06 Nov 2015 20:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CDF Starfighter]]></title>
-            <description><![CDATA[<article><h1>CDF Starfighter</h1><p>Shaun T Williams is raising funds for CDF Starfighter on Kickstarter! An epic space combat simulator inspired by Freespace, Wing Commander & Star Wars which is designed for VR and next-gen technology.</p><img src="https://ksr-ugc.imgix.net/projects/2151384/photo-original.jpg?v=1445698598&w=1536&h=1152&fit=crop&auto=format&q=92&s=d7f92d5c0fe6fbe0ec0bad1c8230a408"></article>]]></description>
-            <link>https://www.kickstarter.com/projects/236569441/cdf-starfighter</link>
-            <guid isPermaLink="false">212e6b1a-2c33-4b47-88b6-d33af2d921da</guid>
             <pubDate>Fri, 06 Nov 2015 20:08:21 GMT</pubDate>
         </item>
     </channel>
