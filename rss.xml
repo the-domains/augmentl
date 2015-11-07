@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Augmentl: remixing reality]]></title>
-        <description><![CDATA[Augmentl: remixing reality]]></description>
+        <title><![CDATA[Augmentl]]></title>
+        <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 09:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 12:26:01 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Facebook Poaches Microsoft Engineers to Build Virtual Reality Tools for Facebook]]></title>
+            <description><![CDATA[<article><h1>Facebook Poaches Microsoft Engineers to Build Virtual Reality Tools for Facebook</h1><p>Facebook has hired three longtime Microsoft veterans to head up a new computational photography team at the company, a small group tasked with building new ways to share photos and videos to the platform. The team, led by 20-year Microsoft researcher Rick Szeliski, has a fascinating job: To create tools so that Facebook users can share 3-D video and virtual reality video to their profiles.</p><img src="https://i2.wp.com/recodetech.files.wordpress.com/2015/03/virtual-reality-at-ted.jpg?fit=440%2C330&quality=80&strip=info"></article>]]></description>
+            <link>http://recode.net/2015/11/05/facebook-poaches-microsoft-engineers-to-build-virtual-reality-tools-for-facebook/</link>
+            <guid isPermaLink="false">2c4fdca9-3517-4df4-88c7-bac29be2da1f</guid>
+            <pubDate>Sat, 07 Nov 2015 12:25:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Sony's PS4 VR headset will bump 60 fps to 120 fps]]></title>
             <description><![CDATA[<article><h1>How Sony's PS4 VR headset will bump 60 fps to 120 fps</h1><p>Sony announced the new Project Morpheus prototype at GDC with vastly improved specs. One of the things that really stood out was that Project Morpheus will support a frame rate of 120 fps - far more than competing headsets from Oculus and HTC/Valve.</p><img src="http://ps4daily.com/wp-content/uploads/2015/03/ps4-vr-120fps-640x363.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://visionsummit2016.com/</link>
             <guid isPermaLink="false">905b449d-7020-474d-801d-510d776ce1b0</guid>
             <pubDate>Fri, 06 Nov 2015 20:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lytro's 'Immerge' 360 3D Light-field Pipeline is Poised to Redefine VR Video - Road to VR]]></title>
-            <description><![CDATA[<article><h1>Lytro's 'Immerge' 360 3D Light-field Pipeline is Poised to Redefine VR Video - Road to VR</h1><p>Lytro have today revealed plans which take the company's expertise in 'still' light-field photography into the realm of VR film. The company have developed a scalable end-to-end solution for shooting, processing, editing and rendering next-generation 360 footage that allows a viewer to move around the captured scene in real time.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/Lytro_Immerge_Coast.jpg"></article>]]></description>
-            <link>http://www.roadtovr.com/lytros-immerge-360-3d-light-field-pipeline-is-poised-to-redefine-vr-video/</link>
-            <guid isPermaLink="false">e8998852-7d40-4727-9f3b-66838155bf97</guid>
-            <pubDate>Fri, 06 Nov 2015 20:35:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
