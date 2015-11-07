@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 09:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 09:53:04 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Sony's PS4 VR headset will bump 60 fps to 120 fps]]></title>
+            <description><![CDATA[<article><h1>How Sony's PS4 VR headset will bump 60 fps to 120 fps</h1><p>Sony announced the new Project Morpheus prototype at GDC with vastly improved specs. One of the things that really stood out was that Project Morpheus will support a frame rate of 120 fps - far more than competing headsets from Oculus and HTC/Valve.</p><img src="http://ps4daily.com/wp-content/uploads/2015/03/ps4-vr-120fps-640x363.jpg"></article>]]></description>
+            <link>http://ps4daily.com/2015/03/ps4-vr-headset-120-fps/</link>
+            <guid isPermaLink="false">555718ee-68ca-4d4c-9a1c-0d93ddfb8b0b</guid>
+            <pubDate>Sat, 07 Nov 2015 09:51:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p>Augmentl is back with a vengeance</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.roadtovr.com/lytros-immerge-360-3d-light-field-pipeline-is-poised-to-redefine-vr-video/</link>
             <guid isPermaLink="false">e8998852-7d40-4727-9f3b-66838155bf97</guid>
             <pubDate>Fri, 06 Nov 2015 20:35:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RoomsVR]]></title>
-            <description><![CDATA[<article><h1>RoomsVR</h1><p>With Rooms VR I want to give the user the ability to create their own space in VR, or why not REcreate their real world spaces and places, and fill them with the most amazing furniture and art they can think of.</p></article>]]></description>
-            <link>http://www.eriksaar.net/roomsvr</link>
-            <guid isPermaLink="false">c98c5486-0824-4563-86ed-89b6b0243c3d</guid>
-            <pubDate>Fri, 06 Nov 2015 20:34:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
