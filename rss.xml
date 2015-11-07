@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 12:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 12:28:39 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Americans Really Think About Virtual Reality]]></title>
+            <description><![CDATA[<article><h1>What Americans Really Think About Virtual Reality</h1><p>Minorities are more likely than whites to be passionate about virtual reality. And despite the attention paid to Facebook-owned Oculus in the media, Sony's PlayStation VR is the most recognized brand.</p><img src="http://e.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2015/11/3053235-inline-i-1-exclusive-vr-industry-report-1.jpg"></article>]]></description>
+            <link>http://www.fastcompany.com/3053235/tech-forecast/what-americans-really-think-about-virtual-reality</link>
+            <guid isPermaLink="false">7f4f848d-5b2b-47ec-9957-b7c6afb061ee</guid>
+            <pubDate>Sat, 07 Nov 2015 12:28:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook Poaches Microsoft Engineers to Build Virtual Reality Tools for Facebook]]></title>
             <description><![CDATA[<article><h1>Facebook Poaches Microsoft Engineers to Build Virtual Reality Tools for Facebook</h1><p>Facebook has hired three longtime Microsoft veterans to head up a new computational photography team at the company, a small group tasked with building new ways to share photos and videos to the platform. The team, led by 20-year Microsoft researcher Rick Szeliski, has a fascinating job: To create tools so that Facebook users can share 3-D video and virtual reality video to their profiles.</p><img src="https://i2.wp.com/recodetech.files.wordpress.com/2015/03/virtual-reality-at-ted.jpg?fit=440%2C330&quality=80&strip=info"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.techtimes.com/articles/104091/20151106/necs-new-augmented-reality-device-turns-arm-tablet.htm</link>
             <guid isPermaLink="false">f9c3150d-a26a-43de-805d-9855bf056367</guid>
             <pubDate>Fri, 06 Nov 2015 20:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vision VR/AR Summit]]></title>
-            <description><![CDATA[<article><h1>Vision VR/AR Summit</h1><p>Vision VR/AR Summit is an all-new cross industry event for artists, engineers, programmers, designers, musicians, directors and producers, hardware manufacturers and researchers. It will be a unique event focused on furthering the knowledge base of anyone developing virtual and/or augmented reality content.</p><img src="http://unity3d.com/profiles/unity3d/themes/unity/images/pages/vision/vr-guy.jpg"></article>]]></description>
-            <link>http://visionsummit2016.com/</link>
-            <guid isPermaLink="false">905b449d-7020-474d-801d-510d776ce1b0</guid>
-            <pubDate>Fri, 06 Nov 2015 20:48:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
