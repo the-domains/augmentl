@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl: remixing reality]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 08:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 08:54:04 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TechDay | If Magic Leap Isn't Yet on Your Radar--Here's Why it Should Be:]]></title>
+            <description><![CDATA[<article><h1>TechDay | If Magic Leap Isn't Yet on Your Radar--Here's Why it Should Be:</h1><p>You may have heard of the secretive, mysterious Magic Leap around this time last year - the company made headlines when Google announced it was investing $542 million in the tech startup. One year later, our knowledge of exactly what Magic Leap is working on is still limited.</p><img src="https://techdayhq.com/system/posts/images/000/000/218/original/magic_leap.jpg?1446673000"></article>]]></description>
+            <link>https://techdayhq.com/news/if-magic-leap-isn-t-yet-on-your-radar-here-s-why-it-should-be</link>
+            <guid isPermaLink="false">c5af4eac-c213-4476-bcba-543840e99834</guid>
+            <pubDate>Sat, 07 Nov 2015 08:53:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sony Not Looking to Profit with PlayStation VR Hardware]]></title>
             <description><![CDATA[<article><h1>Sony Not Looking to Profit with PlayStation VR Hardware</h1><p>Here's some good news for PlayStation VR: Sony has suggested that it's not looking to profit on the initial hardware launch. We've been saying for a while now that if the headset has any shot at succeeding, the platform holder needs to eat the cost on the peripheral - and that's exactly what Worldwide Studios president Shuhei Yoshida has suggested that it will be doing.</p><img src="http://images.pushsquare.com/news/2015/11/sony_not_looking_to_profit_with_playstation_vr_hardware/large.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://focustaiwan.tw/news/aeco/201511060008.aspx</link>
             <guid isPermaLink="false">bcb78eeb-055c-4b1b-aa60-afdbc808ff67</guid>
             <pubDate>Fri, 06 Nov 2015 20:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Augmented Reality Market Worth 56.8 Billion USD by 2020 | news.sys-con.com]]></title>
-            <description><![CDATA[<article><h1>Augmented Reality Market Worth 56.8 Billion USD by 2020 | news.sys-con.com</h1><p>According to a new market research report "Augmented Reality Market by Component (Sensor, Display, & Software), Display Type (Head Mounted, Head-Up, Handheld, & Spatial), Application (Aerospace & Defense, Consumer, Commercial), and Geography - Global Forecast to 2020", published by MarketsandMarkets, the total market is expected to reach USD 56.8 Billion by 2020, at a CAGR of 79.6% between 2015 and 2020.</p><img src="http://res.sys-con.com/story/oct15/3520891/Hannah%20Smalltree%20226.jpg"></article>]]></description>
-            <link>http://news.sys-con.com/node/3542713</link>
-            <guid isPermaLink="false">5c1b6518-c2ce-4496-a03e-98bebeab0fd0</guid>
-            <pubDate>Fri, 06 Nov 2015 20:19:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
