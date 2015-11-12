@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.thesixthaxis.com/2015/11/11/stepping-into-htc-vives-immersive-virtual-realities/'
 title: "Stepping Into HTC Vive's Immersive Virtual Realities"
-datePublished: '2015-11-12T08:03:45.489Z'
-dateModified: '2015-11-12T08:02:54.410Z'
+datePublished: '2015-11-12T08:14:55.378Z'
+dateModified: '2015-11-12T08:13:21.020Z'
 sourcePath: _posts/2015-11-12-stepping-into-htc-vives-immersive-virtual-realities.md
 published: true
 inFeed: true
