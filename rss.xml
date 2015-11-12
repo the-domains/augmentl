@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 11:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 19:03:04 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Simulation startup Improbable wants to make The Matrix possible]]></title>
+            <description><![CDATA[<article><h1>Simulation startup Improbable wants to make The Matrix possible</h1><p>Virtual reality on the scale of the science fiction film The Matrix has moved into the realm of the technologically possible, according to a London startup, following the launch of a massive-scale simulation platform. The SpatialOS platform, developed by Improbable, was unveiled at the Slush startup conference in Helsinki on Wednesday (11 November).</p><img src="http://d.ibtimes.co.uk/en/full/1468848/virtual-reality-matrix-improbable-spatialos.jpg"></article>]]></description>
+            <link>http://www.ibtimes.co.uk/simulation-startup-improbable-wants-make-matrix-possible-1528281</link>
+            <guid isPermaLink="false">5a93215a-fd97-44d2-aeeb-efaef765cc5d</guid>
+            <pubDate>Thu, 12 Nov 2015 19:02:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GameWorks VR To Be Included In Unreal Engine 4, Helps Getting Up To 50% More Performance]]></title>
             <description><![CDATA[<article><h1>GameWorks VR To Be Included In Unreal Engine 4, Helps Getting Up To 50% More Performance</h1><p>NVIDIA's GameWorks VR will be included in Epic's Unreal Engine 4. NVIDIA announced this during the VRX 2015 conference in San Francisco, while noting that UE4 " powers hundreds of games on PCs and consoles. And it's becoming a key tool to create immersive experiences of all kinds ".</p><img src="http://cdn.wccftech.com/wp-content/uploads/2015/08/GameWorks-VR.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://recode.net/2015/11/05/facebook-poaches-microsoft-engineers-to-build-virtual-reality-tools-for-facebook/</link>
             <guid isPermaLink="false">2c4fdca9-3517-4df4-88c7-bac29be2da1f</guid>
             <pubDate>Sat, 07 Nov 2015 12:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Sony's PS4 VR headset will bump 60 fps to 120 fps]]></title>
-            <description><![CDATA[<article><h1>How Sony's PS4 VR headset will bump 60 fps to 120 fps</h1><p>Sony announced the new Project Morpheus prototype at GDC with vastly improved specs. One of the things that really stood out was that Project Morpheus will support a frame rate of 120 fps - far more than competing headsets from Oculus and HTC/Valve.</p><img src="http://ps4daily.com/wp-content/uploads/2015/03/ps4-vr-120fps-640x363.jpg"></article>]]></description>
-            <link>http://ps4daily.com/2015/03/ps4-vr-headset-120-fps/</link>
-            <guid isPermaLink="false">555718ee-68ca-4d4c-9a1c-0d93ddfb8b0b</guid>
-            <pubDate>Sat, 07 Nov 2015 09:51:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
