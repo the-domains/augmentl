@@ -17,8 +17,8 @@ keywords:
   - headsets
   - pcs
 description: "NVIDIA's GameWorks VR will be included in Epic's Unreal Engine 4. NVIDIA announced this during the VRX 2015 conference in San Francisco, while noting that UE4 \" powers hundreds of games on PCs and consoles. And it's becoming a key tool to create immersive experiences of all kinds \"."
-datePublished: '2015-11-12T11:22:27.261Z'
-dateModified: '2015-11-12T11:22:11.510Z'
+datePublished: '2015-11-12T11:29:37.549Z'
+dateModified: '2015-11-12T11:22:27.261Z'
 author:
   - name: Alessio Palumbo
     url: 'http://wccftech.com/author/alessio/'
