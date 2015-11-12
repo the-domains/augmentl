@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 08:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 09:32:07 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hyundai is launching augmented reality owner's manuals for its cars]]></title>
+            <description><![CDATA[<article><h1>Hyundai is launching augmented reality owner's manuals for its cars</h1><p>Tablet-based electronic car owner's manuals are par for the course these days, but Hyundai's taking it a step further, announcing this week that it'll be launching an augmented reality (AR) manual later this year.</p><img src="https://cdn0.vox-cdn.com/thumbor/MKdbnfE0u2Iq8jy-DjE_Qnuso9c=/0x252:3600x2277/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47639161/44459_Hyundai_Virtual_Guide__1_.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2015/11/11/9715784/hyundai-augmented-reality-ar-owners-manual</link>
+            <guid isPermaLink="false">d0d4305f-dc34-4bc2-9b10-e0275be2c581</guid>
+            <pubDate>Thu, 12 Nov 2015 09:32:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stockholm Vive Jam: World Of Water (Virtual Reality Game)]]></title>
             <description><![CDATA[<article><h1>Stockholm Vive Jam: World Of Water (Virtual Reality Game)</h1><p>World of Water is a Vive Jam game made during 48 hours in November 2015. This was our team's first time developing for the Vive. We are VR consultants, and work with the Oculus dev kits, Samsung GearVR, and Google Cardboard daily, so this was a nice change of pace!</p><img src="https://i.ytimg.com/vi/nueb4--RRRw/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/about/index.html</link>
             <guid isPermaLink="false">224b47f6-c7e5-49c1-a745-b7217c466694</guid>
             <pubDate>Sat, 07 Nov 2015 09:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TechDay | If Magic Leap Isn't Yet on Your Radar--Here's Why it Should Be:]]></title>
-            <description><![CDATA[<article><h1>TechDay | If Magic Leap Isn't Yet on Your Radar--Here's Why it Should Be:</h1><p>You may have heard of the secretive, mysterious Magic Leap around this time last year - the company made headlines when Google announced it was investing $542 million in the tech startup. One year later, our knowledge of exactly what Magic Leap is working on is still limited.</p><img src="https://techdayhq.com/system/posts/images/000/000/218/original/magic_leap.jpg?1446673000"></article>]]></description>
-            <link>https://techdayhq.com/news/if-magic-leap-isn-t-yet-on-your-radar-here-s-why-it-should-be</link>
-            <guid isPermaLink="false">c5af4eac-c213-4476-bcba-543840e99834</guid>
-            <pubDate>Sat, 07 Nov 2015 08:58:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
