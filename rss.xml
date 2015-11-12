@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 09:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 11:23:32 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GameWorks VR To Be Included In Unreal Engine 4, Helps Getting Up To 50% More Performance]]></title>
+            <description><![CDATA[<article><h1>GameWorks VR To Be Included In Unreal Engine 4, Helps Getting Up To 50% More Performance</h1><p>NVIDIA's GameWorks VR will be included in Epic's Unreal Engine 4. NVIDIA announced this during the VRX 2015 conference in San Francisco, while noting that UE4 " powers hundreds of games on PCs and consoles. And it's becoming a key tool to create immersive experiences of all kinds ".</p><img src="http://cdn.wccftech.com/wp-content/uploads/2015/08/GameWorks-VR.jpg"></article>]]></description>
+            <link>http://wccftech.com/gameworks-vr-to-be-included-in-unreal-engine-4-helps-getting-up-to-50-more-performance/</link>
+            <guid isPermaLink="false">7972f7fb-2b62-4539-91ad-523bd7cb865a</guid>
+            <pubDate>Thu, 12 Nov 2015 11:22:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hyundai is launching augmented reality owner's manuals for its cars]]></title>
             <description><![CDATA[<article><h1>Hyundai is launching augmented reality owner's manuals for its cars</h1><p>Tablet-based electronic car owner's manuals are par for the course these days, but Hyundai's taking it a step further, announcing this week that it'll be launching an augmented reality (AR) manual later this year.</p><img src="https://cdn0.vox-cdn.com/thumbor/MKdbnfE0u2Iq8jy-DjE_Qnuso9c=/0x252:3600x2277/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47639161/44459_Hyundai_Virtual_Guide__1_.0.0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://ps4daily.com/2015/03/ps4-vr-headset-120-fps/</link>
             <guid isPermaLink="false">555718ee-68ca-4d4c-9a1c-0d93ddfb8b0b</guid>
             <pubDate>Sat, 07 Nov 2015 09:51:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>Augmentl is back with a vengeance</p></article>]]></description>
-            <link>http://augmentl.io/about/index.html</link>
-            <guid isPermaLink="false">224b47f6-c7e5-49c1-a745-b7217c466694</guid>
-            <pubDate>Sat, 07 Nov 2015 09:41:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
