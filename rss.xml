@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 08:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 08:26:32 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stockholm Vive Jam: World Of Water (Virtual Reality Game)]]></title>
+            <description><![CDATA[<article><h1>Stockholm Vive Jam: World Of Water (Virtual Reality Game)</h1><p>World of Water is a Vive Jam game made during 48 hours in November 2015. This was our team's first time developing for the Vive. We are VR consultants, and work with the Oculus dev kits, Samsung GearVR, and Google Cardboard daily, so this was a nice change of pace!</p><img src="https://i.ytimg.com/vi/nueb4--RRRw/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=nueb4--RRRw&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">f4462b13-bdd1-4ec5-8b98-4a21125f59d5</guid>
+            <pubDate>Thu, 12 Nov 2015 08:26:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet the award recipients of the first Microsoft HoloLens academic research grants]]></title>
             <description><![CDATA[<article><h1>Meet the award recipients of the first Microsoft HoloLens academic research grants</h1><p>Today, we're excited to announce the award recipients of the Microsoft HoloLens Academic Research Grant Program. Earlier this year, we challenged academic institutions to submit their ideas to harness the potential of Microsoft HoloLens and push the boundaries of possible applications for holographic computing.</p><img src="http://az648995.vo.msecnd.net/devices/2015/11/HoloLens.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://techdayhq.com/news/if-magic-leap-isn-t-yet-on-your-radar-here-s-why-it-should-be</link>
             <guid isPermaLink="false">c5af4eac-c213-4476-bcba-543840e99834</guid>
             <pubDate>Sat, 07 Nov 2015 08:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sony Not Looking to Profit with PlayStation VR Hardware]]></title>
-            <description><![CDATA[<article><h1>Sony Not Looking to Profit with PlayStation VR Hardware</h1><p>Here's some good news for PlayStation VR: Sony has suggested that it's not looking to profit on the initial hardware launch. We've been saying for a while now that if the headset has any shot at succeeding, the platform holder needs to eat the cost on the peripheral - and that's exactly what Worldwide Studios president Shuhei Yoshida has suggested that it will be doing.</p><img src="http://images.pushsquare.com/news/2015/11/sony_not_looking_to_profit_with_playstation_vr_hardware/large.jpg"></article>]]></description>
-            <link>http://www.pushsquare.com/news/2015/11/sony_not_looking_to_profit_with_playstation_vr_hardware</link>
-            <guid isPermaLink="false">4f8c46f2-3eef-4798-bb6d-ad2dafb8ff9b</guid>
-            <pubDate>Sat, 07 Nov 2015 08:39:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
