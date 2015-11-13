@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: An impressive spec sheet and focused marketing message indicates that Qualcomm is finally getting serious about VR.
-datePublished: '2015-11-13T17:20:34.902Z'
-dateModified: '2015-11-13T17:20:24.123Z'
+datePublished: '2015-11-13T17:31:35.599Z'
+dateModified: '2015-11-13T17:31:27.648Z'
 title: "Will Qualcomm's upcoming Snapdragon 820 be a boost to mobile VR?"
 sourcePath: _posts/2015-11-13-will-qualcomms-snapdragon-820-be-a-boost-for-mobile-vr.md
 published: true
@@ -25,9 +25,9 @@ _type: Article
 
 # **Will Qualcomm's upcoming Snapdragon 820 be a boost to mobile VR?**
 
-In an [article][0] at theinquirer.net, the specifications for Qualcomm's upcoming Snapdragon 820 processor are laid bare. But deep inside the spec sheet the reader will find an interesting, and unprecedented, focus on VR - an area which Qualcomm has somewhat more privately addressed in the past with their behind-the-scenes collaboration with Oculus and Samsung in optimising the GearVR.
+The specifications for Qualcomm's upcoming Snapdragon 820 processor have been laid bare revealing an interesting and unprecedented focus on VR - an area which Qualcomm has somewhat more privately addressed in the past with their behind-the-scenes collaboration with Oculus and Samsung in optimising the GearVR. Is the Snapdragon 820 Qualcomm's first "made for VR" chipset?
 
-Some highlights from Adam Kerin, Qualcomm's senior marketing manager:
+The upcoming chipset's extensive spec sheet was discussed at The Inquirer where Adam Kerin, Qualcomm's senior Marketing Manager, had some revealing quotes:
 
 > "The Snapdragon 820 is at the forefront of all the areas essential in delivering that feeling of true immersion"
 
@@ -39,6 +39,9 @@ Kerin adds that the new GPU architecture on the Snapdragon 820 offers high enoug
 
 The sensor processing used in the Snapdragon 820's brand new Hexagon 680 DSP and the visual rendering of the Adreno 530 GPU work together to make this happen, "nearly instantaneously", so that users genuinely feel as though they are looking around within a 3D world. 
 
-You can read the whole article [here][0].
+You can read the whole spec sheet breakdown [**here**][0].
+
+So, do you think the Snapdragon 820 Qualcomm's first "made for VR" chipset? Let us know on [**twitter**][1].
 
 [0]: http://www.theinquirer.net/inquirer/feature/2434392/how-qualcomms-snapdragon-820-will-improve-future-android-devices
+[1]: http://twitter.com/augmentl
