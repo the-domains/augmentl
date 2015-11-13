@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: An impressive spec sheet and focused marketing message indicates that Qualcomm is finally getting serious about VR.
-datePublished: '2015-11-13T17:31:35.599Z'
-dateModified: '2015-11-13T17:31:27.648Z'
+datePublished: '2015-11-13T17:50:00.076Z'
+dateModified: '2015-11-13T17:49:52.902Z'
 title: "Will Qualcomm's upcoming Snapdragon 820 be a boost to mobile VR?"
 sourcePath: _posts/2015-11-13-will-qualcomms-snapdragon-820-be-a-boost-for-mobile-vr.md
 published: true
@@ -40,6 +40,8 @@ Kerin adds that the new GPU architecture on the Snapdragon 820 offers high enoug
 The sensor processing used in the Snapdragon 820's brand new Hexagon 680 DSP and the visual rendering of the Adreno 530 GPU work together to make this happen, "nearly instantaneously", so that users genuinely feel as though they are looking around within a 3D world. 
 
 You can read the whole spec sheet breakdown [**here**][0].
+
+There's another interesting prospect not made obvious from the specs. The Hexagon 680 DSP's new HVX extensions are specifically designed to optimise the performance of the types of operations required for fast visual processing, used for things like facial recognition and Augmented Reality applications. Another important computer vision task related to VR? Inside-out positional tracking.
 
 So, do you think the Snapdragon 820 Qualcomm's first "made for VR" chipset? Let us know on [**twitter**][1].
 
