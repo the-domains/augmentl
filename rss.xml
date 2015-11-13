@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 14:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 16:26:30 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will Qualcomm's Snapdragon 820 be a boost for mobile VR?]]></title>
+            <description><![CDATA[<article><h1>Will Qualcomm's Snapdragon 820 be a boost for mobile VR?</h1><p>An impressive spec sheet and marketing message indicates that Qualcomm is finally getting serious about VR.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7b99720-7a97-4659-95ad-38b0e1d261b8.jpg"></article>]]></description>
+            <link>http://augmentl.io/will-qualcomms-snapdragon-820-be-a-boost-for-mobile-vr/index.html</link>
+            <guid isPermaLink="false">15c8b2e9-62eb-4e76-8edb-e1bddd9d1d85</guid>
+            <pubDate>Fri, 13 Nov 2015 16:25:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Leap Motion Shooter is Inspired by Dreamcast Classic 'Rez' - Road to VR]]></title>
             <description><![CDATA[<article><h1>This Leap Motion Shooter is Inspired by Dreamcast Classic 'Rez' - Road to VR</h1><p>Motion sensing peripheral specialists Leap Motion's second development event '3D Jam' has had over 180 submissions for projects that fuse the Leap's input capabilities with virtual reality. This entry 'VRez', inspired by classic Dreamcast shooter Rez, caught our eye as a nicely intuitive application of modern input techniques to a traditional gameplay mechanic.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/maxresdefault15.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=nueb4--RRRw&amp;feature=youtu.be</link>
             <guid isPermaLink="false">f4462b13-bdd1-4ec5-8b98-4a21125f59d5</guid>
             <pubDate>Thu, 12 Nov 2015 08:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the award recipients of the first Microsoft HoloLens academic research grants]]></title>
-            <description><![CDATA[<article><h1>Meet the award recipients of the first Microsoft HoloLens academic research grants</h1><p>Today, we're excited to announce the award recipients of the Microsoft HoloLens Academic Research Grant Program. Earlier this year, we challenged academic institutions to submit their ideas to harness the potential of Microsoft HoloLens and push the boundaries of possible applications for holographic computing.</p><img src="http://az648995.vo.msecnd.net/devices/2015/11/HoloLens.png"></article>]]></description>
-            <link>http://blogs.windows.com/devices/2015/11/11/meet-the-award-recipients-of-the-first-microsoft-hololens-academic-research-grants/?ocid=EVERGREEN_Social_HoloLens_tw_Photo_Announce_HLAcademicResearch_Organic_LearnMore&amp;wt_mc_id=smm_tw_HoloLens_HLAcademicResearch</link>
-            <guid isPermaLink="false">e60f502f-320b-4909-b43e-ded2d7300917</guid>
-            <pubDate>Thu, 12 Nov 2015 08:23:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
