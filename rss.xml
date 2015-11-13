@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 17:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 22:44:03 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hands-on: LucidCam is a Sleek and Pocketable VR Camera]]></title>
+            <description><![CDATA[<article><h1>Hands-on: LucidCam is a Sleek and Pocketable VR Camera</h1><p>In a world all too full of crowdfunding campaigns built on an idea and some rendered mockups, I was impressed to see LucidCam CEO Han Jin pull a polished and functional VR camera out of his pocket-even more so when I saw the quality of the imagery it could capture.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/lucidcam-virtual-reality-camera-2.jpg"></article>]]></description>
+            <link>http://www.roadtovr.com/hands-on-lucidcam-captures-surprising-vr-imagery-from-a-sleek-and-pocketable-package/</link>
+            <guid isPermaLink="false">2d8def8b-9fa0-4104-8cb7-847275b677a1</guid>
+            <pubDate>Fri, 13 Nov 2015 22:43:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will Qualcomm's upcoming Snapdragon 820 be a boost to mobile VR?]]></title>
             <description><![CDATA[<article><h1>Will Qualcomm's upcoming Snapdragon 820 be a boost to mobile VR?</h1><p>An impressive spec sheet and focused marketing message indicates that Qualcomm is finally getting serious about VR.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d18fbc81-57f2-4dbe-9688-94111718fd04.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2015/11/11/9715784/hyundai-augmented-reality-ar-owners-manual</link>
             <guid isPermaLink="false">d0d4305f-dc34-4bc2-9b10-e0275be2c581</guid>
             <pubDate>Thu, 12 Nov 2015 09:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stockholm Vive Jam: World Of Water (Virtual Reality Game)]]></title>
-            <description><![CDATA[<article><h1>Stockholm Vive Jam: World Of Water (Virtual Reality Game)</h1><p>World of Water is a Vive Jam game made during 48 hours in November 2015. This was our team's first time developing for the Vive. We are VR consultants, and work with the Oculus dev kits, Samsung GearVR, and Google Cardboard daily, so this was a nice change of pace!</p><img src="https://i.ytimg.com/vi/nueb4--RRRw/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=nueb4--RRRw&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">f4462b13-bdd1-4ec5-8b98-4a21125f59d5</guid>
-            <pubDate>Thu, 12 Nov 2015 08:26:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
