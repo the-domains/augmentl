@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: An impressive spec sheet and marketing message indicates that Qualcomm is finally getting serious about VR.
-datePublished: '2015-11-13T17:16:01.628Z'
-dateModified: '2015-11-13T17:15:01.946Z'
-title: "Will Qualcomm's Snapdragon 820 be a boost for mobile VR?"
+datePublished: '2015-11-13T17:19:42.354Z'
+dateModified: '2015-11-13T17:19:31.944Z'
+title: "Will Qualcomm's upcoming Snapdragon 820 be a boost to mobile VR?"
 sourcePath: _posts/2015-11-13-will-qualcomms-snapdragon-820-be-a-boost-for-mobile-vr.md
 published: true
 authors: []
@@ -21,7 +21,9 @@ url: will-qualcomms-snapdragon-820-be-a-boost-for-mobile-vr/index.html
 _type: Article
 
 ---
-**Will Qualcomm's upcoming Snapdragon 820 be a boost to mobile VR?**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d18fbc81-57f2-4dbe-9688-94111718fd04.jpg)
+
+# **Will Qualcomm's upcoming Snapdragon 820 be a boost to mobile VR?**
 
 In an [article][0] at theinquirer.net, the specifications for Qualcomm's upcoming Snapdragon 820 processor are laid bare. But deep inside the spec sheet the reader will find an interesting, and unprecedented, focus on VR - an area which Qualcomm has somewhat more privately addressed in the past with their behind-the-scenes collaboration with Oculus and Samsung in optimising the GearVR.
 
