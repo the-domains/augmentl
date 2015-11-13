@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: An impressive spec sheet and marketing message indicates that Qualcomm is finally getting serious about VR.
-datePublished: '2015-11-13T17:19:42.354Z'
-dateModified: '2015-11-13T17:19:31.944Z'
+description: An impressive spec sheet and focused marketing message indicates that Qualcomm is finally getting serious about VR.
+datePublished: '2015-11-13T17:20:34.902Z'
+dateModified: '2015-11-13T17:20:24.123Z'
 title: "Will Qualcomm's upcoming Snapdragon 820 be a boost to mobile VR?"
 sourcePath: _posts/2015-11-13-will-qualcomms-snapdragon-820-be-a-boost-for-mobile-vr.md
 published: true
