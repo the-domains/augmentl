@@ -19,10 +19,10 @@ related:
     thumbnail_url: 'http://zdnet1.cbsistatic.com/hub/i/r/2015/07/27/10bebd15-2fe6-42c4-b0e9-0ae09569b1fd/thumbnail/770x578/052c4964cea52bf98c4007803f96904a/cortana-and-master-chief.gif'
     thumbnail_width: 770
 publisher:
-  url: 'http://www.theverge.com'
   name: The Verge
-  favicon: 'https://cdn0.vox-cdn.com/images/verge/favicon.vc44a54f.ico'
   domain: www.theverge.com
+  url: 'http://www.theverge.com'
+  favicon: 'https://cdn0.vox-cdn.com/images/verge/favicon.vc44a54f.ico'
 keywords:
   - hololens
   - asus
@@ -39,13 +39,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theverge.com/2015/11/12/9720808/asus-augmented-reality-ar-headset'
 title: "Asus says it's building an augmented reality headset to release in 2016"
-datePublished: '2015-11-13T10:11:52.933Z'
-dateModified: '2015-11-13T10:09:26.388Z'
+datePublished: '2015-11-13T14:10:55.257Z'
+dateModified: '2015-11-13T14:10:49.289Z'
 sourcePath: _posts/2015-11-13-asus-says-its-building-an-augmented-reality-headset-to-rele.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
