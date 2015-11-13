@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 10:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 10:17:45 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Asus says it's building an augmented reality headset to release in 2016]]></title>
+            <description><![CDATA[<article><h1>Asus says it's building an augmented reality headset to release in 2016</h1><p>Taiwanese PC manufacturer Asus has confirmed that it's building an augmented reality device, and is aiming to release it next year. According to a report from CNET , Asus CEO Jerry Shen confirmed the plans during an earnings call on Wednesday, arguing that augmented reality or AR will be more useful than virtual reality.</p><img src="https://cdn1.vox-cdn.com/thumbor/iMc_-3ZN87q5KAgMfayCcmn6jcY=/249x224:1799x1096/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47645413/DSCF1850.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2015/11/12/9720808/asus-augmented-reality-ar-headset</link>
+            <guid isPermaLink="false">90ada0d0-1137-4c58-9265-6fdda363d9da</guid>
+            <pubDate>Fri, 13 Nov 2015 10:11:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook Adds Virtual Reality Support for 360 Videos - VRScout]]></title>
             <description><![CDATA[<article><h1>Facebook Adds Virtual Reality Support for 360 Videos - VRScout</h1><p>It's been just over a month since Facebook began rolling out 360-degree video publishing support to a handful of brands. Some of the initial publishers included Star Wars, Discovery, GoPro, and Vice. Now Facebook is ramping up their 360-degree video efforts even further and jumping into virtual reality with the addition of Samsung Gear VR ...</p><img src="http://vrscout.com/wp-content/uploads/2015/11/gear-vr-facebook-watch-in-vr.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.roadtovr.com/oculus-arcade-release-all-samsung-gear-vr-compatibility-21-arcade-games/</link>
             <guid isPermaLink="false">7e6810c9-3b37-4c8e-bfa6-645f250870a7</guid>
             <pubDate>Wed, 11 Nov 2015 12:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JanusVR Announces Support for HTC Vive]]></title>
-            <description><![CDATA[<article><h1>JanusVR Announces Support for HTC Vive</h1><p>San Francisco based virtual reality project JanusVR today announced the release of version 48 of its popular Internet browser, adding support for the HTC Vive head mounted display and the OpenVR SDK.</p><img src="http://www.thevrexperts.com/wp-content/uploads/2015/11/insert-897x1024.jpg"></article>]]></description>
-            <link>http://www.thevrexperts.com/janusvr-announces-support-for-htc-vive/?utm_content=bufferd029d&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">ac365312-5729-40b7-9980-41b9c0a1f99f</guid>
-            <pubDate>Sun, 08 Nov 2015 10:58:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
