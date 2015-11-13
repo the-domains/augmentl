@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 10:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 10:55:00 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The sense of touch may finally be coming to virtual reality]]></title>
+            <description><![CDATA[<article><h1>The sense of touch may finally be coming to virtual reality</h1><p>Strap on an HTC Vive or Oculus Rift virtual reality headset, and what you see is so lifelike it's almost scary. Companies are getting closer and closer to mastering visuals in virtual reality, but there's still one major hurdle: reproducing the sense of touch.</p><img src="http://static.businessinsider.com/image/5644fdf1dd089560678b46d8/image.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com.au/impacto-adds-hands-to-virtual-reality-2015-11</link>
+            <guid isPermaLink="false">03dca055-33f0-4227-a906-6d235323f4dc</guid>
+            <pubDate>Fri, 13 Nov 2015 10:54:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Asus says it's building an augmented reality headset to release in 2016]]></title>
             <description><![CDATA[<article><h1>Asus says it's building an augmented reality headset to release in 2016</h1><p>Taiwanese PC manufacturer Asus has confirmed that it's building an augmented reality device, and is aiming to release it next year. According to a report from CNET , Asus CEO Jerry Shen confirmed the plans during an earnings call on Wednesday, arguing that augmented reality or AR will be more useful than virtual reality.</p><img src="https://cdn1.vox-cdn.com/thumbor/iMc_-3ZN87q5KAgMfayCcmn6jcY=/249x224:1799x1096/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47645413/DSCF1850.0.0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.thesixthaxis.com/2015/11/11/stepping-into-htc-vives-immersive-virtual-realities/</link>
             <guid isPermaLink="false">12e6fd3c-6ae9-4b87-9e1f-924b5d9ab50d</guid>
             <pubDate>Thu, 12 Nov 2015 08:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oculus Arcade Now Available on All Gear VR With 21 Titles]]></title>
-            <description><![CDATA[<article><h1>Oculus Arcade Now Available on All Gear VR With 21 Titles</h1><p>With the reveal of today's pre-order for the first consumer Gear VR, Oculus has launched the beta version of Arcade, the company's first-party title currently featuring 21 classic arcade games from Sega, Midway, and Bandai Namco. Oculus Arcade beta is available on all Gear VR units old and new.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/oculus-arcade-gear-vr.jpg"></article>]]></description>
-            <link>http://www.roadtovr.com/oculus-arcade-release-all-samsung-gear-vr-compatibility-21-arcade-games/</link>
-            <guid isPermaLink="false">7e6810c9-3b37-4c8e-bfa6-645f250870a7</guid>
-            <pubDate>Wed, 11 Nov 2015 12:38:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
