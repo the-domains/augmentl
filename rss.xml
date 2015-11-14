@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 23:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2015 08:33:07 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tim Sweeney on Magic Leap: "It felt like if you teleported back to 1972 and saw the first mouse, the first graphical user interface, the future of computing right there."]]></title>
+            <description><![CDATA[<article><h1>Tim Sweeney on Magic Leap: "It felt like if you teleported back to 1972 and saw the first mouse, the first graphical user interface, the future of computing right there."</h1><p>It seems like we just can't get enough of Tim Sweeney, chief executive of Epic Games. Sweeney has been a video game graphics guru for more than two decades. During that time, he has seen computing technology get 100,000 times faster.</p><img src="http://i1.wp.com/venturebeat.com/wp-content/uploads/2015/11/vrx-3.jpg?resize=800%2C563"></article>]]></description>
+            <link>http://venturebeat.com/2015/11/13/epics-tim-sweeney-believes-vr-will-evolve-more-like-console-games-than-mobile/3/</link>
+            <guid isPermaLink="false">a4d39e3e-f98a-453a-a2ab-b2d741709456</guid>
+            <pubDate>Sat, 14 Nov 2015 08:32:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hands-on: LucidCam is a Sleek and Pocketable VR Camera]]></title>
             <description><![CDATA[<article><h1>Hands-on: LucidCam is a Sleek and Pocketable VR Camera</h1><p>In a world all too full of crowdfunding campaigns built on an idea and some rendered mockups, I was impressed to see LucidCam CEO Han Jin pull a polished and functional VR camera out of his pocket-even more so when I saw the quality of the imagery it could capture.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/lucidcam-virtual-reality-camera-2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://wccftech.com/gameworks-vr-to-be-included-in-unreal-engine-4-helps-getting-up-to-50-more-performance/</link>
             <guid isPermaLink="false">7972f7fb-2b62-4539-91ad-523bd7cb865a</guid>
             <pubDate>Thu, 12 Nov 2015 11:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hyundai is launching augmented reality owner's manuals for its cars]]></title>
-            <description><![CDATA[<article><h1>Hyundai is launching augmented reality owner's manuals for its cars</h1><p>Tablet-based electronic car owner's manuals are par for the course these days, but Hyundai's taking it a step further, announcing this week that it'll be launching an augmented reality (AR) manual later this year.</p><img src="https://cdn0.vox-cdn.com/thumbor/MKdbnfE0u2Iq8jy-DjE_Qnuso9c=/0x252:3600x2277/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47639161/44459_Hyundai_Virtual_Guide__1_.0.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2015/11/11/9715784/hyundai-augmented-reality-ar-owners-manual</link>
-            <guid isPermaLink="false">d0d4305f-dc34-4bc2-9b10-e0275be2c581</guid>
-            <pubDate>Thu, 12 Nov 2015 09:32:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
