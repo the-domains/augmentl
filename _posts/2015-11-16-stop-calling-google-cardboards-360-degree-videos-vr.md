@@ -17,8 +17,8 @@ keywords:
   - head
   - apps
 description: 'I love seeing people get excited about their first taste of VR. The sooner more people experience the transformative power of VR, the better. But if the high-powered, desktop headsets that are coming next year are the main course for virtual reality, then viewing 360-degree video using Google Cardboard is an amuse-bouche at best.'
-datePublished: '2015-11-16T14:40:15.953Z'
-dateModified: '2015-11-16T14:40:11.474Z'
+datePublished: '2015-11-16T20:54:16.892Z'
+dateModified: '2015-11-16T14:40:15.953Z'
 author: []
 related: []
 app_links: []
