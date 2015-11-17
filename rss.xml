@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 19:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2015 19:52:17 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HTC: There's a 'big story' regarding the Vive's launch games]]></title>
+            <description><![CDATA[<article><h1>HTC: There's a 'big story' regarding the Vive's launch games</h1><img src="http://cdn.mos.techradar.com/art/games/Valve/HalfLife%203/Half%20Life%203%20hub%20hero-1200-80.jpg"></article>]]></description>
+            <link>http://augmentl.io/htc-thereand39s-a-and39big-storyand39-regarding-the-viveand3/index.html</link>
+            <guid isPermaLink="false">91d04e40-697a-4032-927b-6695009934f9</guid>
+            <pubDate>Tue, 17 Nov 2015 19:51:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lenovo to launch a VR headset with Vibe X3 smartphone - UploadVR]]></title>
             <description><![CDATA[<article><h1>Lenovo to launch a VR headset with Vibe X3 smartphone - UploadVR</h1><p>Today at a launch event in China, Lenovo unveiled its newest smartphone, the Vibe X3. The phone will look to help the company capture some of the market share it lost to fellow Chinese companies, Xiaomi and Huawei. Interestingly, virtual reality may be one of the ways the company is choosing to differentiate itself.</p><img src="http://uploadvr.com/wp-content/uploads/2015/11/Lenovo-VR.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.businessinsider.com.au/impacto-adds-hands-to-virtual-reality-2015-11</link>
             <guid isPermaLink="false">03dca055-33f0-4227-a906-6d235323f4dc</guid>
             <pubDate>Fri, 13 Nov 2015 10:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asus says it's building an augmented reality headset to release in 2016]]></title>
-            <description><![CDATA[<article><h1>Asus says it's building an augmented reality headset to release in 2016</h1><p>Taiwanese PC manufacturer Asus has confirmed that it's building an augmented reality device, and is aiming to release it next year. According to a report from CNET , Asus CEO Jerry Shen confirmed the plans during an earnings call on Wednesday, arguing that augmented reality or AR will be more useful than virtual reality.</p><img src="https://cdn1.vox-cdn.com/thumbor/iMc_-3ZN87q5KAgMfayCcmn6jcY=/249x224:1799x1096/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47645413/DSCF1850.0.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2015/11/12/9720808/asus-augmented-reality-ar-headset</link>
-            <guid isPermaLink="false">90ada0d0-1137-4c58-9265-6fdda363d9da</guid>
-            <pubDate>Fri, 13 Nov 2015 14:10:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
