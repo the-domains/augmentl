@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 15:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2015 21:31:53 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Swayze Effect]]></title>
+            <description><![CDATA[<article><h1>The Swayze Effect</h1><p>Oculus Story Studio: "The Swayze Effect"</p><img src="https://s3.amazonaws.com/static.oculus.com/website/2015/11/swayze-thumbnail.jpg"></article>]]></description>
+            <link>http://augmentl.io/oculus-story-studio-andquotthe-swayze-effectandquot/index.html</link>
+            <guid isPermaLink="false">f06c09df-d1c3-4f8b-a456-7a278467defa</guid>
+            <pubDate>Wed, 18 Nov 2015 21:31:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[APX Labs Grabs $13 Million For Enterprise Smart Glasses Platform]]></title>
             <description><![CDATA[<article><h1>APX Labs Grabs $13 Million For Enterprise Smart Glasses Platform</h1><p>APX Labs, makers of the Skylight smart glasses development platform, announced a $13 million investment today. The round was led by NEA, but there were several others parties involved including CNF Investments, GE Ventures, Salesforce Ventures, SineWave Ventures, and other unnamed investors. Today's round brings the total raised to $29 million.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/11/a_google_glass_wearer.jpg?w=764&h=400&crop=1"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.roadtovr.com/hands-on-lucidcam-captures-surprising-vr-imagery-from-a-sleek-and-pocketable-package/</link>
             <guid isPermaLink="false">2d8def8b-9fa0-4104-8cb7-847275b677a1</guid>
             <pubDate>Fri, 13 Nov 2015 23:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Qualcomm's upcoming Snapdragon 820 be a boost to mobile VR?]]></title>
-            <description><![CDATA[<article><h1>Will Qualcomm's upcoming Snapdragon 820 be a boost to mobile VR?</h1><p>An impressive spec sheet and focused marketing message indicates that Qualcomm is finally getting serious about VR.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d18fbc81-57f2-4dbe-9688-94111718fd04.jpg"></article>]]></description>
-            <link>http://augmentl.io/will-qualcomms-snapdragon-820-be-a-boost-for-mobile-vr/index.html</link>
-            <guid isPermaLink="false">15c8b2e9-62eb-4e76-8edb-e1bddd9d1d85</guid>
-            <pubDate>Fri, 13 Nov 2015 17:50:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
