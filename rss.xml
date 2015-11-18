@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 10:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2015 14:59:17 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[APX Labs Grabs $13 Million For Enterprise Smart Glasses Platform]]></title>
+            <description><![CDATA[<article><h1>APX Labs Grabs $13 Million For Enterprise Smart Glasses Platform</h1><p>APX Labs, makers of the Skylight smart glasses development platform, announced a $13 million investment today. The round was led by NEA, but there were several others parties involved including CNF Investments, GE Ventures, Salesforce Ventures, SineWave Ventures, and other unnamed investors. Today's round brings the total raised to $29 million.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/11/a_google_glass_wearer.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <link>http://techcrunch.com/2015/11/18/apx-labs-grabs-13-million-for-enterprise-smart-glasses-platform/?ncid=rss</link>
+            <guid isPermaLink="false">7ba7c7b6-20b0-4cf7-afde-6c285e9e0cdf</guid>
+            <pubDate>Wed, 18 Nov 2015 14:58:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kevin Spacey picks virtual reality as next Netflix]]></title>
             <description><![CDATA[<article><h1>Kevin Spacey picks virtual reality as next Netflix</h1><p>Hollywood actor Kevin Spacey thinks virtual reality will be the next big consumer media trend, and he has a track record of getting such calls right. Mr Spacey not only had the foresight to star in the first original series commissioned by a streaming service, Netflix's House Of Cards, he also had enough confidence to invest in the project.</p><img src="http://www.afr.com/content/dam/images/g/i/n/t/z/7/image.related.afrArticleLead.620x365.gl0y0q.png/1447795846889.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/will-qualcomms-snapdragon-820-be-a-boost-for-mobile-vr/index.html</link>
             <guid isPermaLink="false">15c8b2e9-62eb-4e76-8edb-e1bddd9d1d85</guid>
             <pubDate>Fri, 13 Nov 2015 17:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Leap Motion Shooter is Inspired by Dreamcast Classic 'Rez' - Road to VR]]></title>
-            <description><![CDATA[<article><h1>This Leap Motion Shooter is Inspired by Dreamcast Classic 'Rez' - Road to VR</h1><p>Motion sensing peripheral specialists Leap Motion's second development event '3D Jam' has had over 180 submissions for projects that fuse the Leap's input capabilities with virtual reality. This entry 'VRez', inspired by classic Dreamcast shooter Rez, caught our eye as a nicely intuitive application of modern input techniques to a traditional gameplay mechanic.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/maxresdefault15.jpg"></article>]]></description>
-            <link>http://www.roadtovr.com/this-leap-motion-shooter-is-inspired-by-dreamcast-classic-rez/?utm_source=hootsuite</link>
-            <guid isPermaLink="false">63f67099-d068-467d-aeaa-821a5e80fd01</guid>
-            <pubDate>Fri, 13 Nov 2015 14:36:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
