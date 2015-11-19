@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'There’s no graceful way to put this. Vuzix’s recently announced [link] win of the CES 2016 Innovation Award [link] in the Gaming and Virtual Reality is undeserved. '
-datePublished: '2015-11-19T11:54:35.190Z'
-dateModified: '2015-11-19T11:54:24.467Z'
+datePublished: '2015-11-19T13:08:59.095Z'
+dateModified: '2015-11-19T13:08:46.726Z'
 title: CES Does Not Understand VR
 sourcePath: _posts/2015-11-19-ces-does-not-understand-vr.md
 published: true
@@ -27,7 +27,7 @@ _type: Article
 
 There's no graceful way to put this. Vuzix's recently announced win of the CES 2016 Innovation Award in the Gaming and Virtual Reality category is wholly undeserved.
 
-_by Giuliano Maciocci ([@augmentl][0]), November 2015_
+_by Augmentl ([@augmentl][0]), November 2015_
 
 The past year has seen the field of consumer virtual reality take a massive step closer to mass market, with a veritable surge in investment in hardware and software alike. Competition on the hardware side has also been healthy, with Valve and HTC entering the fray and threatening to scoop the first-to-market position which only a year ago seemed to be in the hands of Facebook's Oculus VR. Samsung's GearVR followed the launch of last year's GearVR Innovator Edition with a mass-market product launch, and the OSVR initiative has started gaining some traction with the release of their first open development kits for VR. So how is it, that among all this, a company selling a pair of movie-watching goggles based on positively ageing micro-display technology manage to bag [an award in the Virtual Reality category][1]?
 
@@ -42,6 +42,8 @@ So what's the deal with CES awarding this company with an innovation award in ou
 You see, the real problem here is one of definition. Firstly, lumping "Gaming" and "Virtual Reality" under the same award does a disservice to VR, a technology whose applications span far beyond entertainment to encompass training, education, architecture, engineering, medicine and many more. Secondly, the accepted definition of VR is currently so loose as to be easily applied (mistakenly, in this author's humble opinion) to things like 360º videos. Essentially, anything that sticks some moving images in front of one's eyes can currently claim, with relative impunity, to be playing in the ever-so-trendy Virtual Reality arena.
 
 This is only natural. Despite the concept of VR having been with us for decades the actual real-world, practical advent of the technology in a non-research capacity is barely a few years old. We're only now starting to see the first consumer applications of VR hitting the market, and with all the investment going into anything sporting the "VR" suffix it's only natural to expect companies to jump on the bandwagon, deservedly or otherwise. Remember [3DHead][4]? Exactly.
+
+> VR also needs to define itself, to transition from the theoretical ideal of VR to the successful mass-market applications that undeniably define what VR actually is.
 
 Sure, CES should know better. An event generally accepted as the Mecca of all consumer technology should do a better job of encouraging this exciting new market segment with its own well-defined awards category, and reward innovation within it accordingly. It should make sure to help promote "good" VR rather than helping to blur the definition even further. But maybe VR also needs to define itself, to transition from the theoretical ideal of VR to the successful mass-market applications that undeniably define what VR actually is. And that may take some time.
 
