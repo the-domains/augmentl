@@ -1,6 +1,6 @@
 name: Augmentl
 favicon: null
-layout_spectrum: 0.24913
+layout_spectrum: 0.42676
 typography_spectrum: 0.67204
 title: Augmentl
 collections:
@@ -34,7 +34,7 @@ color:
     - '#bfbfbf'
     - '#ff6666'
     - '#990000'
-  brandStrength: 0.1875
+  brandStrength: 0.25
   lightness: 0.546595
   saturation: 0.375
   rhythmicContrast: 0.75
