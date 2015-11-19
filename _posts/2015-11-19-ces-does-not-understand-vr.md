@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'There’s no graceful way to put this. Vuzix’s recently announced [link] win of the CES 2016 Innovation Award [link] in the Gaming and Virtual Reality is undeserved. '
-datePublished: '2015-11-19T09:44:31.469Z'
-dateModified: '2015-11-19T09:44:27.417Z'
+datePublished: '2015-11-19T09:48:17.230Z'
+dateModified: '2015-11-19T09:48:08.167Z'
 title: CES Does Not Understand VR
 sourcePath: _posts/2015-11-19-ces-does-not-understand-vr.md
 published: true
@@ -25,9 +25,9 @@ _type: Article
 
 # CES Does Not Understand VR
 
-There's no graceful way to put this. Vuzix's [recently announced][0] win of the CES 2016 Innovation Award in the Gaming and Virtual Reality category is undeserved.
+There's no graceful way to put this. Vuzix's recently announced win of the CES 2016 Innovation Award in the Gaming and Virtual Reality category is wholly undeserved.
 
-The past year has seen the field of consumer virtual reality take a massive step closer to mass market, with a veritable surge in investment in hardware and software alike. Competition on the hardware side has also been healthy, with Valve and HTC entering the fray and threatening to scoop the first-to-market position which only a year ago seemed to be in the hands of Facebook's Oculus VR. Samsung's GearVR followed the launch of last year's GearVR Innovator Edition with a mass-market product launch, and the OSVR initiative has started gaining some traction with the release of their first open development kits for VR. So how is it, that among all this, a company selling a pair of movie-watching goggles based on positively ageing micro-display technology manage to bag an award in the Virtual Reality category?
+The past year has seen the field of consumer virtual reality take a massive step closer to mass market, with a veritable surge in investment in hardware and software alike. Competition on the hardware side has also been healthy, with Valve and HTC entering the fray and threatening to scoop the first-to-market position which only a year ago seemed to be in the hands of Facebook's Oculus VR. Samsung's GearVR followed the launch of last year's GearVR Innovator Edition with a mass-market product launch, and the OSVR initiative has started gaining some traction with the release of their first open development kits for VR. So how is it, that among all this, a company selling a pair of movie-watching goggles based on positively ageing micro-display technology manage to bag [an award in the Virtual Reality category][0]?
 
 The [Vuzix iWear][1] is primarily marketed as a set of video headphones. It is specifically designed to replicate the effect of watching TV in a portable form factor very reminiscent of last year's (arguably superior) [Avegant Glyph][2]. 
 
