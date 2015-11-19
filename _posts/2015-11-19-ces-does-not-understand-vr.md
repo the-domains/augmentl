@@ -6,21 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'There’s no graceful way to put this. Vuzix’s recently announced [link] win of the CES 2016 Innovation Award [link] in the Gaming and Virtual Reality is undeserved. '
-datePublished: '2015-11-19T09:41:16.673Z'
-dateModified: '2015-11-19T09:37:43.347Z'
-title: CES Does Not Understand VR.
+datePublished: '2015-11-19T09:44:31.469Z'
+dateModified: '2015-11-19T09:44:27.417Z'
+title: CES Does Not Understand VR
+sourcePath: _posts/2015-11-19-ces-does-not-understand-vr.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-19-ces-does-not-understand-vr.md
-published: true
 url: ces-does-not-understand-vr/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/416ce7f8-88e9-4393-a411-f370e4f24ceb.jpg)
+
+# CES Does Not Understand VR
+
 There's no graceful way to put this. Vuzix's [recently announced][0] win of the CES 2016 Innovation Award in the Gaming and Virtual Reality category is undeserved.
 
 The past year has seen the field of consumer virtual reality take a massive step closer to mass market, with a veritable surge in investment in hardware and software alike. Competition on the hardware side has also been healthy, with Valve and HTC entering the fray and threatening to scoop the first-to-market position which only a year ago seemed to be in the hands of Facebook's Oculus VR. Samsung's GearVR followed the launch of last year's GearVR Innovator Edition with a mass-market product launch, and the OSVR initiative has started gaining some traction with the release of their first open development kits for VR. So how is it, that among all this, a company selling a pair of movie-watching goggles based on positively ageing micro-display technology manage to bag an award in the Virtual Reality category?
@@ -40,7 +44,6 @@ This is only natural. Despite the concept of VR having been with us for decades 
 Sure, CES should know better. An event generally accepted as the Mecca of all consumer technology should do a better job of encouraging this exciting new market segment with its own well-defined awards category, and reward innovation within it accordingly. It should make sure to help promote "good" VR rather than helping to blur the definition even further. But maybe VR also needs to define itself, to transition from the theoretical ideal of VR to the successful mass-market applications that undeniably define what VR actually is. And that may take some time.
 
 So when CES Innovation Awards finally feature their own Virtual Reality category, we'll know one thing for sure: VR is here to stay.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/416ce7f8-88e9-4393-a411-f370e4f24ceb.jpg)
 
 [0]: http://www.prnewswire.com/news-releases/vuzix-awarded-eight-ces-2016-innovation-awards-including-best-of-in-gaming-and-virtual-reality-for-iwear-wireless-video-headphones-300176571.html?utm_content=buffer210a7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 [1]: https://www.vuzix.com/consumer/iwear-video-headphones/
