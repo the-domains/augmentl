@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 13:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 13:44:44 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Solfar's photoreal Mt Everest in VR is as close as you'll get to the real thing (Wired UK)]]></title>
+            <description><![CDATA[<article><h1>Solfar's photoreal Mt Everest in VR is as close as you'll get to the real thing (Wired UK)</h1><p>Staring down into the blackness of an icy crevasse in Everest VR, whilst balancing on a precarious ladder walkway buffeted by freezing wind, you realise just why people set out to climb the world's highest mountain. And also, why that those who do just might be a little insane.</p><img src="http://cdni.wired.co.uk/620x413/d_f/Everest%20VR%201.jpg"></article>]]></description>
+            <link>http://www.wired.co.uk/news/archive/2015-11/17/everest-vr-experience-solfar-studios</link>
+            <guid isPermaLink="false">983562c2-e2fa-4744-a2e7-e94c6def231b</guid>
+            <pubDate>Thu, 19 Nov 2015 13:43:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Magic Leap Poaches HTC Vive's Executive Director of Global Marketing Ahead of Launch [Exclusive] - UploadVR]]></title>
             <description><![CDATA[<article><h1>Magic Leap Poaches HTC Vive's Executive Director of Global Marketing Ahead of Launch [Exclusive] - UploadVR</h1><p>Eight months ago, Jeff Gattis stood on the stage in Barcelona at the Mobile World Conference and introduced us to the HTC Vive, a VR headset he was confident would "set the new industry standard" and would ship to consumers by the end of the year.</p><img src="http://uploadvr.com/wp-content/uploads/2015/11/Jeff-Gattis-on-stage-introducing-the-htc-vive.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2015/11/360-video-isnt-virtual-reality/</link>
             <guid isPermaLink="false">2104de56-b894-47ca-8b7c-5feb6d181f78</guid>
             <pubDate>Mon, 16 Nov 2015 20:54:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Epic's Tim Sweeney believes virtual reality will evolve more like console games than mobile]]></title>
-            <description><![CDATA[<article><h1>Epic's Tim Sweeney believes virtual reality will evolve more like console games than mobile</h1><p>It seems like we just can't get enough of Tim Sweeney, chief executive of Epic Games. Sweeney has been a video game graphics guru for more than two decades. During that time, he has seen computing technology get 100,000 times faster.</p><img src="http://i1.wp.com/venturebeat.com/wp-content/uploads/2015/11/vrx-3.jpg?resize=800%2C563"></article>]]></description>
-            <link>http://venturebeat.com/2015/11/13/epics-tim-sweeney-believes-vr-will-evolve-more-like-console-games-than-mobile/3/</link>
-            <guid isPermaLink="false">5c9a8b27-f630-430b-bc11-d75be76aaaa2</guid>
-            <pubDate>Sat, 14 Nov 2015 09:35:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
