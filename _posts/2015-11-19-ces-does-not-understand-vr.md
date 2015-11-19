@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'There’s no graceful way to put this. Vuzix’s recently announced [link] win of the CES 2016 Innovation Award [link] in the Gaming and Virtual Reality is undeserved. '
-datePublished: '2015-11-19T09:36:17.894Z'
-dateModified: '2015-11-19T09:35:55.490Z'
+datePublished: '2015-11-19T09:37:43.347Z'
+dateModified: '2015-11-19T09:36:17.894Z'
 title: CES Does Not Understand VR.
 authors: []
 publisher:
