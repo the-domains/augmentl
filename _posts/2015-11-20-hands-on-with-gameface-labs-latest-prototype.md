@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "If you've been plugged into the Virtual Reality scene for the past two years you probably heard of GameFace Labs, a company working on the first true \"console on your face.\" Today I paid them a visit."
-datePublished: '2015-11-20T20:43:28.030Z'
-dateModified: '2015-11-20T20:43:16.417Z'
+datePublished: '2015-11-20T21:03:06.695Z'
+dateModified: '2015-11-20T21:02:58.396Z'
 title: "Hands on with GameFace Labs' Latest Prototype"
 author: []
 sourcePath: _posts/2015-11-20-hands-on-with-gameface-labs-latest-prototype.md
@@ -28,9 +28,7 @@ _type: Article
 
 If you've been plugged into the Virtual Reality scene for the past two years you probably heard of GameFace Labs, a company that over the past couple of years has been working on the first true wireless, self-contained "console on your face." Today I paid them a visit. 
 
-The kind folks over at [GameFace Labs][0] ([@gamefacelabs][1]) hosted an open day in London to demonstrate their latest prototype hardware to devs and VR enthusiasts alike. As a member of the latter group I of course jumped at the opportunity as soon as the call went out on Reddit. On my way there I must admit that I did not really know what to expect. How would their HMD live up to their ambitious goals? How can we even really define what makes a console-like experience when mobile VR is advancing so rapidly? 
-
-I'd first spoken to to the GameFace Labs team a couple of years back, when the Samsung GearVR was not yet announced and the DK1 was the best thing a VR enthusiast could get their hands on. Back then, the thought of a fully self contained VR headset capable of console-like gaming feats (["Like two Xbox-360's strapped to your face"][2]) was an ambitious dream - and arguably still is. So how had the GameFace hardware evolved in the face of a Mobile VR explosion? I was keen to find out. 
+The kind folks over at [GameFace Labs][0] ([@gamefacelabs][1]) hosted an open day in London to demonstrate their latest prototype hardware to devs and VR enthusiasts alike. As a member of the latter group I of course jumped at the opportunity as soon as the call went out on Reddit. On my way there I must admit that I did not really know what to expect. How would their HMD live up to their ambitious goals? How can we even really define what makes a console-like experience when mobile VR is advancing so rapidly? I'd first spoken to to the GameFace Labs team a couple of years back, when the Samsung GearVR was not yet announced and the DK1 was the best thing a VR enthusiast could get their hands on. Back then, the thought of a fully self contained VR headset capable of console-like gaming feats (["Like two Xbox-360's strapped to your face"][2]) was an ambitious dream - and arguably still is. So how had the GameFace hardware evolved in the face of a Mobile VR explosion? I was keen to find out. 
 > 
 > Like two Xbox-360's strapped to your face
 
