@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "If you've been plugged into the Virtual Reality scene for the past two years you probably heard of GameFace Labs, a company working on the first true \"console on your face.\" Today I paid them a visit."
-datePublished: '2015-11-20T21:24:27.958Z'
-dateModified: '2015-11-20T21:24:14.800Z'
+datePublished: '2015-11-20T21:27:06.343Z'
+dateModified: '2015-11-20T21:27:01.056Z'
 title: "Hands on with GameFace Labs' Latest Prototype"
 author: []
 sourcePath: _posts/2015-11-20-hands-on-with-gameface-labs-latest-prototype.md
