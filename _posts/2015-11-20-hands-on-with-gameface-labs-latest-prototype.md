@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "If you've been plugged into the Virtual Reality scene for the past two years you probably heard of GameFace Labs, a company working on the first true \"console on your face.\" Today I paid them a visit."
-datePublished: '2015-11-20T20:41:46.531Z'
-dateModified: '2015-11-20T20:41:32.896Z'
+datePublished: '2015-11-20T20:43:28.030Z'
+dateModified: '2015-11-20T20:43:16.417Z'
 title: "Hands on with GameFace Labs' Latest Prototype"
 author: []
 sourcePath: _posts/2015-11-20-hands-on-with-gameface-labs-latest-prototype.md
@@ -39,9 +39,7 @@ The demo session was held in a well appointed flat near Euston, in London, lovin
 At face value, the GameFace device looks like a robustly built, 3D printed prototype sporting two rather unusual features: a set of air vents for a small fan and an external battery pack. These are currently artefacts of the prototype's Nvidia Tegra X1 platform, whose power requirements in the context of the prototype build ended up somewhat exceeding the team's original expectations. 
 I was in fact told that, contrary to the advertised 5W power draw, the X1 was normally pulling closer to 12W, occasionally peaking at 20W. The GameFace team hopes to address this aspect as they continue to iterate the prototype. 
 
-Despite the physical bulk added by these constraints, I did not find the headset to be particularly heavy or uncomfortable, although I can't say whether that would have held true in a longer demo session. The same can't be said of the IPD which, not being adjustable in the current prototype, did cause some minor eye strain. The belt-clipped battery pack, while unusual, was not an issue and stayed neatly out of the way. 
-
-I got to try a number of short demos on the GameFace hardware, from a lovely undersea scene in which I was surrounded by frolicking Dolphins, to a tour of the solar system, to a tabletop action game reminiscent of the classic Bomberman. These were a mix of Cardboard and custom demos, running on the headset's stock Android OS with a custom launcher UI. I was able to control most of these experiences with standard Bluetooth gamepad, whereas others required nothing more than gazing in the right direction. 
+Despite the physical bulk added by these constraints, I did not find the headset to be particularly heavy or uncomfortable, although I can't say whether that would have held true in a longer demo session. The same can't be said of the IPD which, not being adjustable in the current prototype, did cause some minor eye strain. The belt-clipped battery pack, while unusual, was not an issue and stayed neatly out of the way. I got to try a number of short demos on the GameFace hardware, from a lovely undersea scene in which I was surrounded by frolicking Dolphins, to a tour of the solar system, to a tabletop action game reminiscent of the classic Bomberman. These were a mix of Cardboard and custom demos, running on the headset's stock Android OS with a custom launcher UI. I was able to control most of these experiences with standard Bluetooth gamepad, whereas others required nothing more than gazing in the right direction. 
 
 The device's screen is sharp and bright, with vivid colours, deep blacks and no visible black smearing. The screen door effect was present but easy to ignore. Having previously used a GearVR, I can confirm that at least visually the screen appears similar if not identical to that used in the Samsung Galaxy Note 4 powering the GearVR Innovator Edition. The perceived field of view is also very similar, not quite yet the 140º GameFace Labs are [ultimately aiming for.][2]
 Low persistence was however clearly absent, which made the scene blur somewhat in response to rapid head movements. This is exacerbated by the overall latency of the system with regards to head tracking, which I found to be surprisingly lagging behind my experience of the GearVR. 
