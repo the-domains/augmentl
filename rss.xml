@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 08:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 20:36:13 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hands on with GameFace Labs' Latest Prototype]]></title>
+            <description><![CDATA[<article><h1>Hands on with GameFace Labs' Latest Prototype</h1><p>If you've been plugged into the Virtual Reality scene for the past two years you probably heard of GameFace Labs, a company that over the past couple of years has been working on the first true wireless, self-contained "console on your face." Today I paid them a visit. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0729e3c-c144-4f68-8609-c0c8929a8f58.jpg"></article>]]></description>
+            <link>http://augmentl.io/hands-on-with-gameface-labs-latest-prototype/index.html</link>
+            <guid isPermaLink="false">d91c6ccc-164d-4279-8d19-8594b9ade715</guid>
+            <pubDate>Fri, 20 Nov 2015 20:34:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GameWorks VR Gives a Boost to Virtual Reality]]></title>
             <description><![CDATA[<article><h1>GameWorks VR Gives a Boost to Virtual Reality</h1><p>Jason Paul, General Manager at NVIDIA, discusses the incredible advances GameWorks VR brings to virtual reality developers. Included in this is NVIDIA's Multi-Res Shading technology, which brings up to a 50% increase in virtual reality performance. Learn more: developer.nvidia.com/vr</p><img src="https://i.ytimg.com/vi/09dT3vkwXBA/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://uploadvr.com/lenovo-vr/</link>
             <guid isPermaLink="false">ac668448-2b25-457c-8b9e-4e1d5e37a366</guid>
             <pubDate>Tue, 17 Nov 2015 19:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 Thoughts on Carmack's 'VrScript' from the Creator of VRML]]></title>
-            <description><![CDATA[<article><h1>4 Thoughts on Carmack's 'VrScript' from the Creator of VRML</h1><p>Oculus CTO John Carmack has been working on a VR scripting environment called-simply enough-VrScript. After getting a glimpse glimpse of the environment at Oculus Connect, Tony Parisi had some thoughts to share. Guest article by Sophia Dominguez Sophia is the founder of AllThingsVR, a curated newsletter that brings you the week's best virtual reality news, innovators and content.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/tonyparisi2014bw-cropped-medres.png"></article>]]></description>
-            <link>http://www.roadtovr.com/4-thoughts-on-carmacks-vrscript-from-tony-parisi-creator-of-vrml/</link>
-            <guid isPermaLink="false">d5526d47-e60c-4f02-941d-138226d9568a</guid>
-            <pubDate>Tue, 17 Nov 2015 07:52:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
