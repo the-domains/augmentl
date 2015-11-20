@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "If you've been plugged into the Virtual Reality scene for the past two years you probably heard of GameFace Labs, a company working on the first true \"console on your face.\" Today I paid them a visit."
-datePublished: '2015-11-20T21:08:28.987Z'
-dateModified: '2015-11-20T21:08:24.930Z'
+datePublished: '2015-11-20T21:23:05.653Z'
+dateModified: '2015-11-20T21:23:01.035Z'
 title: "Hands on with GameFace Labs' Latest Prototype"
 author: []
 sourcePath: _posts/2015-11-20-hands-on-with-gameface-labs-latest-prototype.md
@@ -49,7 +49,7 @@ GameFace Labs have also been experimenting with a wireless Softkinetic-like dept
 > 
 > Can the model of mobile VR represented by the GearVR and, to a lesser extent, the various iterations of Cardboard-like mobile head mounts, truly be challenged by a small, if highly motivated, independent startup? 
 
-Overall, the GameFace remains the same ambitious undertaking it was two years ago, but one that is somewhat more difficult to place in the context of a post-GearVR world. While the team's future aspirations encompass 4K screens, Fresnel optics and much higher system performance, their device raises some interesting questions as to the future of mobile VR: can the model of mobile VR represented by the GearVR and, to a lesser extent, the various iterations of Cardboard-like mobile head mounts, truly be challenged by a small, if highly motivated, independent startup? GameFace Labs say they will be showcasing a more refined iteration of their hardware at CES 2016\. If they are to truly stand out at the event, they will need to make significant progress in tackling system-wide latency issues, and perhaps showcase a first pass at their Lighthouse positional tracking integration. I for one wish them the best, and will be watching closely to see whether the unorthodox choices they have embarked on for their hardware will ultimately live up to their sizeable ambitions. 
+Overall, the GameFace remains the same ambitious undertaking it was two years ago, but one that is somewhat more difficult to place in the context of a post-GearVR world. While the team's future aspirations encompass 4K screens, Fresnel optics and much higher system performance, their device raises some interesting questions as to the future of mobile VR: can the model of mobile VR represented by the GearVR and, to a lesser extent, the various iterations of Cardboard-like mobile head mounts, truly be challenged by a small, if highly motivated, independent startup? GameFace Labs say they will be showcasing a more refined iteration of their hardware at CES 2016\. If they are to truly stand out at the event, they will need to make significant progress in tackling system-wide latency issues, and perhaps showcase a first pass at their Lighthouse positional tracking integration. I for one wish them the best, and will be watching closely to see whether the unorthodox choices they have embarked on for their hardware will ultimately live up to their sizeable ambitions.
 
 [@augmentl
 ][3]
