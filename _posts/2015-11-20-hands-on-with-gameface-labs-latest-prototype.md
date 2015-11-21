@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "If you've been plugged into the Virtual Reality scene for the past two years you probably heard of GameFace Labs, a company working on the first true \"console on your face.\" Today I paid them a visit."
-datePublished: '2015-11-20T21:29:41.892Z'
-dateModified: '2015-11-20T21:29:35.482Z'
+datePublished: '2015-11-21T09:03:33.673Z'
+dateModified: '2015-11-21T09:03:25.454Z'
 title: "Hands on with GameFace Labs' Latest Prototype"
 author: []
 sourcePath: _posts/2015-11-20-hands-on-with-gameface-labs-latest-prototype.md
@@ -38,8 +38,8 @@ I'd first spoken to to the GameFace Labs team a couple of years back, when the S
 
 The demo session was held in a well appointed flat near Euston, in London, lovingly populated by some impressive Dr Who memorabilia. This was not the team's permanent location, but rather a convenient space for a bit of demo action. The flat also sported a spacious living room area where the team gave their guests the opportunity to also experience one of the few HTC Vive headsets in the UK, an added bonus my impressions of which I'll discuss separately. 
 
-At face value, the GameFace device looks like a robustly built, 3D printed prototype sporting two rather unusual features: a set of air vents for a small fan and an external battery pack. These are currently artefacts of the prototype's Nvidia Tegra X1 platform, whose power requirements in the context of the prototype build ended up somewhat exceeding the team's original expectations. 
-I was in fact told that, contrary to the advertised 5W power draw, the X1 was normally pulling closer to 12W, occasionally peaking at 20W. The GameFace team hopes to address this aspect as they continue to iterate the prototype. 
+At face value, the GameFace device looks like a robustly built, 3D printed prototype sporting two rather unusual features: a set of air vents for a small fan and an external battery pack. These are currently artefacts of the prototype's Nvidia Tegra K1 platform, whose power requirements in the context of the prototype build ended up somewhat exceeding the team's original expectations. 
+I was in fact told that, contrary to the advertised 5W power draw, the K1 was normally pulling closer to 12W, occasionally peaking at 20W. The GameFace team hopes to address this aspect as they continue to iterate the prototype. 
 
 Despite the physical bulk added by these constraints, I did not find the headset to be particularly heavy or uncomfortable, although I can't say whether that would have held true in a longer demo session. The same can't be said of the IPD which, not being adjustable in the current prototype, did cause some minor eye strain. The belt-clipped battery pack, while unusual, was not an issue and stayed neatly out of the way. I got to try a number of short demos on the GameFace hardware, from a lovely undersea scene in which I was surrounded by frolicking Dolphins, to a tour of the solar system, to a tabletop action game reminiscent of the classic Bomberman. These were a mix of Cardboard and custom demos, running on the headset's stock Android OS with a custom launcher UI. I was able to control most of these experiences with standard Bluetooth gamepad, whereas others required nothing more than gazing in the right direction. 
 
@@ -58,6 +58,10 @@ GameFace Labs have also been experimenting with a wireless Softkinetic-like dept
 Overall, the GameFace remains the same ambitious undertaking it was two years ago, but one that is somewhat more difficult to place in the context of a post-GearVR world. While the team's future aspirations encompass 4K screens, Fresnel optics and much higher system performance, their device raises some interesting questions as to the future of mobile VR: can the model of mobile VR represented by the GearVR and, to a lesser extent, the various iterations of Cardboard-like mobile head mounts, truly be challenged by a small, if highly motivated, independent startup?
 
 GameFace Labs say they will be showcasing a more refined iteration of their hardware at CES 2016\. If they are to truly stand out at the event, they will need to make significant progress in tackling system-wide latency issues, and perhaps showcase a first pass at their Lighthouse positional tracking integration. I for one wish them the best, and will be watching closely to see whether the unorthodox choices they have embarked on for their hardware will ultimately live up to their sizeable ambitions.
+
+****
+
+**Correction:** The original version of the article mistakenly mentioned Nvidia's Tegra X1 as the GameFace prototype's core platform. This has been amended to Nvidia Tegra K1\. 
 
 [@augmentl
 ][3]
