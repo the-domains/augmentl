@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'As part of my demo day with GameFace Labs, I was given the opportunity to take their HTC Vice for a spin. I came away generally impressed, but also somewhat let down. '
-datePublished: '2015-11-21T14:59:04.305Z'
-dateModified: '2015-11-21T14:58:36.104Z'
+datePublished: '2015-11-21T15:04:24.494Z'
+dateModified: '2015-11-21T15:04:21.155Z'
 title: 'My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.'
 author: []
 sourcePath: _posts/2015-11-21-my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi.md
@@ -37,7 +37,6 @@ My chance to test the Vive came as part of As part of the demo day organised by 
 The fault was not in the device itself, but rather in the insane amount of expectation and anticipation the generally glowing reviews of the hardware had instilled in me.  I had all the device's specs in my head, and was prepared to test each and every one of them in my limited 45 minute session. 
 
 So when I first got to strap on the Vive, and was put inside the Aperture Science demo, I instantly ran through a mental checklist of specifications: null
-null
 
 _"Screen door effect? I can see it. Damn it. Wait no, I'm really focusing on the screen. Relax. OK it's gone. Theres a kind of a 
 linen texture to the screen. Must be the diffuser. Not bad!"_
@@ -74,7 +73,6 @@ So to anyone getting the opportunity to demo new VR hardware, either at an event
 And as far as the Vive goes, well... Shut up and take my money.
 
 [@augmentl][0]
-
 null
 
 [0]: http://twitter.com/augmentl
