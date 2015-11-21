@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: 'As part of my demo day with GameFace Labs, I was given the opportunity to take their HTC Vice for a spin. I came away generally impressed, but also somewhat let down. '
-datePublished: '2015-11-21T16:31:21.969Z'
-dateModified: '2015-11-21T16:31:18.708Z'
+description: 'As part of my demo day with GameFace Labs, I was given the opportunity to take their HTC Vive for a spin. I came away generally impressed, but also somewhat let down. '
+datePublished: '2015-11-21T23:16:07.293Z'
+dateModified: '2015-11-21T23:16:01.610Z'
 title: 'My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.'
 author: []
 sourcePath: _posts/2015-11-21-my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi.md
@@ -28,11 +28,11 @@ _type: Article
 
 # My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.
 
-I was given the opportunity to take their HTC Vice for a spin. I was not impressed. At first. 
+I was given the opportunity to take their HTC Vive for a spin. I was not impressed. At first. 
 
 By Augmentl ([@augmentl][0]). November 21, 2015\.
 
-My chance to test the Vive came as part of As part of the demo day organised by the excellent folks over at GameFace Labs, where I also had the opportunity to [play with their latest hardware][1]. The Vive was in some ways everything that it was supposed to be, but in other ways not what I was expecting. 
+My chance to test the Vive came as part of the demo day organised by the excellent folks over at GameFace Labs, where I also had the opportunity to [play with their latest hardware][1]. The Vive was in some ways everything that it was supposed to be, but in other ways not what I was expecting. 
 
 The fault was not in the device itself, but rather in the insane amount of expectation and anticipation the generally glowing reviews of the hardware had instilled in me.  I had all the device's specs in my head, and was prepared to test each and every one of them in my limited 45 minute session. 
 
@@ -73,6 +73,7 @@ So to anyone getting the opportunity to demo new VR hardware, either at an event
 And as far as the Vive goes, well... Shut up and take my money.
 
 [@augmentl][0]
+
 null
 
 [0]: http://twitter.com/augmentl
