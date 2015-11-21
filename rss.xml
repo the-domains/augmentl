@@ -4,7 +4,7 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 09:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 14:47:18 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hands on with GameFace Labs' Latest Prototype]]></title>
@@ -12,6 +12,13 @@
             <link>http://augmentl.io/hands-on-with-gameface-labs-latest-prototype/index.html</link>
             <guid isPermaLink="false">d91c6ccc-164d-4279-8d19-8594b9ade715</guid>
             <pubDate>Sat, 21 Nov 2015 09:12:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.]]></title>
+            <description><![CDATA[<article><h1></h1><p>I was given the opportunity to take their HTC Vice for a spin. I was not impressed. At first. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d37f6f6-22c7-4905-aea2-ab360621f0d7.jpg"></article>]]></description>
+            <link>http://augmentl.io/my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi/index.html</link>
+            <guid isPermaLink="false">b78badf7-a9b1-4c71-966d-43a57bd3edd8</guid>
+            <pubDate>Sat, 21 Nov 2015 14:47:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GameWorks VR Gives a Boost to Virtual Reality]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.techradar.com/news/gaming/htc-there-s-a-big-story-regarding-the-vive-s-launch-games-1309114/1</link>
             <guid isPermaLink="false">f4104294-0c44-45aa-82d9-5d5f1afd4ab2</guid>
             <pubDate>Tue, 17 Nov 2015 20:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lenovo to launch a VR headset with Vibe X3 smartphone - UploadVR]]></title>
-            <description><![CDATA[<article><h1>Lenovo to launch a VR headset with Vibe X3 smartphone - UploadVR</h1><p>Today at a launch event in China, Lenovo unveiled its newest smartphone, the Vibe X3. The phone will look to help the company capture some of the market share it lost to fellow Chinese companies, Xiaomi and Huawei. Interestingly, virtual reality may be one of the ways the company is choosing to differentiate itself.</p><img src="http://uploadvr.com/wp-content/uploads/2015/11/Lenovo-VR.jpg"></article>]]></description>
-            <link>http://uploadvr.com/lenovo-vr/</link>
-            <guid isPermaLink="false">ac668448-2b25-457c-8b9e-4e1d5e37a366</guid>
-            <pubDate>Tue, 17 Nov 2015 19:25:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
