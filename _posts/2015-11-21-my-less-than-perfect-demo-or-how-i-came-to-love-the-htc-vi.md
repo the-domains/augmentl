@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'As part of my demo day with GameFace Labs, I was given the opportunity to take their HTC Vice for a spin. I came away generally impressed, but also somewhat let down. '
-datePublished: '2015-11-21T15:04:24.494Z'
-dateModified: '2015-11-21T15:04:21.155Z'
+datePublished: '2015-11-21T15:13:59.195Z'
+dateModified: '2015-11-21T15:13:53.670Z'
 title: 'My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.'
 author: []
 sourcePath: _posts/2015-11-21-my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi.md
@@ -36,7 +36,9 @@ My chance to test the Vive came as part of As part of the demo day organised by 
 
 The fault was not in the device itself, but rather in the insane amount of expectation and anticipation the generally glowing reviews of the hardware had instilled in me.  I had all the device's specs in my head, and was prepared to test each and every one of them in my limited 45 minute session. 
 
-So when I first got to strap on the Vive, and was put inside the Aperture Science demo, I instantly ran through a mental checklist of specifications: null
+So when I first got to strap on the Vive, and was put inside the Aperture Science demo, I instantly ran through a mental checklist of specifications: 
+
+null
 
 _"Screen door effect? I can see it. Damn it. Wait no, I'm really focusing on the screen. Relax. OK it's gone. Theres a kind of a 
 linen texture to the screen. Must be the diffuser. Not bad!"_
@@ -50,7 +52,7 @@ And so on. I just could not relax into just experiencing the moment. All my anti
 
 Initially, I time-shifted between "testing" the device and figuring out what the demo wanted me to do. I needed to open a drawer, but Chaperone was telling me I was about to reach a wall. That's the Ed from GameFace, detecting my helpless floundering, helpfully tipped me off that I could "extend my reach" by pressing down on the controller's touchpad. Aha! OK now I could move on.
 
-The my left controller's trigger started acting up. Was it acting up or was I screwing up? At this point, the elusive holy grail of VR, _Immersion_, was nowhere to be seen. Both myself and those tiny technical glitches were getting in the way.
+Then my left controller's trigger started acting up. Was it acting up or was I screwing up? At this point, the elusive holy grail of VR, _Immersion_, was nowhere to be seen. Both myself and those tiny technical glitches were getting in the way.
 
 But somewhere along the way, it happened. At some point between me failing to fix a broken robot and the floor opening up below me, I was _there_. My stupid brain finally bought into the illusion and I was gobsmacked. 
 
@@ -73,6 +75,7 @@ So to anyone getting the opportunity to demo new VR hardware, either at an event
 And as far as the Vive goes, well... Shut up and take my money.
 
 [@augmentl][0]
+
 null
 
 [0]: http://twitter.com/augmentl
