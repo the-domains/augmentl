@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'As part of my demo day with GameFace Labs, I was given the opportunity to take their HTC Vice for a spin. I came away generally impressed, but also somewhat let down. '
-datePublished: '2015-11-21T14:47:13.925Z'
-dateModified: '2015-11-21T14:46:55.085Z'
+datePublished: '2015-11-21T14:52:30.782Z'
+dateModified: '2015-11-21T14:52:22.364Z'
 title: 'My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.'
 author: []
 authors: []
