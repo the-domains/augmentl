@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'As part of my demo day with GameFace Labs, I was given the opportunity to take their HTC Vive for a spin. I came away generally impressed, but also somewhat let down. '
-datePublished: '2015-11-21T23:16:07.293Z'
-dateModified: '2015-11-21T23:16:01.610Z'
+datePublished: '2015-11-24T08:11:37.154Z'
+dateModified: '2015-11-24T08:11:27.578Z'
 title: 'My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.'
 author: []
 sourcePath: _posts/2015-11-21-my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi.md
