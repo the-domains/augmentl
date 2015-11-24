@@ -17,8 +17,8 @@ keywords:
   - star
   - experience
 description: "This week a combination of releases from Google, Lucasfilm and Disney, and Verizon have lead us to clues about the next big Star Wars virtual reality release. As StarWars.com suggests, the release date for this VR adventure will be December 2nd, 2015. There you'll find what they're describing as \"first-of-its-kind serialized Google Cardboard Virtual Reality (VR) experience.\""
-datePublished: '2015-11-24T08:17:17.190Z'
-dateModified: '2015-11-24T08:17:07.406Z'
+datePublished: '2015-11-24T08:23:57.332Z'
+dateModified: '2015-11-24T08:23:52.753Z'
 author: []
 related:
   - score: 0.5854716301
@@ -37,14 +37,14 @@ related:
     thumbnail_width: 200
 app_links: []
 title: "Star Wars' Millennium Falcon VR coming to Google and Verizon"
+sourcePath: _posts/2015-11-24-star-wars-millennium-falcon-vr-coming-to-google-and-verizon.md
+published: true
 authors: []
 publisher:
   name: SlashGear
   domain: www.slashgear.com
   url: 'http://www.slashgear.com'
   favicon: 'http://www.slashgear.com/favicon.ico'
-sourcePath: _posts/2015-11-24-star-wars-millennium-falcon-vr-coming-to-google-and-verizon.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
