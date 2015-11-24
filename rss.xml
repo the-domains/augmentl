@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 10:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 11:24:19 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[So What Exactly is a Light Field Volume? - UploadVR]]></title>
+            <description><![CDATA[<article><h1>So What Exactly is a Light Field Volume? - UploadVR</h1><p>To understand what a Light Field Volume is, it's important that we first grasp the concept that a captured Light Field consists of rays of light traveling in every direction, with their brightness, color, and their path, which is the direction and position of those rays.</p><img src="http://uploadvr.com/wp-content/uploads/2015/11/Light-Field-Volume.jpg"></article>]]></description>
+            <link>http://uploadvr.com/so-what-exactly-is-a-light-field-volume/</link>
+            <guid isPermaLink="false">ad861c49-fabd-471b-9f11-c10becafe535</guid>
+            <pubDate>Tue, 24 Nov 2015 11:23:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mobile is the gateway for virtual reality becoming a $15.9B industry by 2019]]></title>
             <description><![CDATA[<article><h1>Mobile is the gateway for virtual reality becoming a $15.9B industry by 2019</h1><p>With virtual reality now becoming an actual thing with the launch of the Samsung Gear VR and the Oculus Rift and PlayStation VR in the wings ready to launch, analyst SuperData thinks the future for headset manufacturers is looking really green. How green?</p><img src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/11/samsunggearvr-2.png?resize=1200%2C600"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wired.co.uk/news/archive/2015-11/17/everest-vr-experience-solfar-studios</link>
             <guid isPermaLink="false">983562c2-e2fa-4744-a2e7-e94c6def231b</guid>
             <pubDate>Thu, 19 Nov 2015 13:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Magic Leap Poaches HTC Vive's Executive Director of Global Marketing Ahead of Launch [Exclusive] - UploadVR]]></title>
-            <description><![CDATA[<article><h1>Magic Leap Poaches HTC Vive's Executive Director of Global Marketing Ahead of Launch [Exclusive] - UploadVR</h1><p>Eight months ago, Jeff Gattis stood on the stage in Barcelona at the Mobile World Conference and introduced us to the HTC Vive, a VR headset he was confident would "set the new industry standard" and would ship to consumers by the end of the year.</p><img src="http://uploadvr.com/wp-content/uploads/2015/11/Jeff-Gattis-on-stage-introducing-the-htc-vive.jpg"></article>]]></description>
-            <link>http://uploadvr.com/magic-leap-jeff-gattis-exclusive/</link>
-            <guid isPermaLink="false">66ea0992-6f4c-4578-bb34-2482ba180e9e</guid>
-            <pubDate>Thu, 19 Nov 2015 11:48:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
