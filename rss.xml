@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 08:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 08:18:14 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Star Wars' Millennium Falcon VR coming to Google and Verizon]]></title>
+            <description><![CDATA[<article><h1>Star Wars' Millennium Falcon VR coming to Google and Verizon</h1><p>This week a combination of releases from Google, Lucasfilm and Disney, and Verizon have lead us to clues about the next big Star Wars virtual reality release. As StarWars.com suggests, the release date for this VR adventure will be December 2nd, 2015. There you'll find what they're describing as "first-of-its-kind serialized Google Cardboard Virtual Reality (VR) experience."</p><img src="http://cdn.slashgear.com/wp-content/uploads/2015/11/starwarsvr-828x420.jpg"></article>]]></description>
+            <link>http://www.slashgear.com/star-wars-millennium-falcon-vr-coming-to-google-and-verizon-23415697/</link>
+            <guid isPermaLink="false">be18e98e-c105-4d64-b82f-6e1f82684317</guid>
+            <pubDate>Tue, 24 Nov 2015 08:17:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.]]></title>
             <description><![CDATA[<article><h1></h1><p>I was given the opportunity to take their HTC Vive for a spin. I was not impressed. At first. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d37f6f6-22c7-4905-aea2-ab360621f0d7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/ces-does-not-understand-vr/index.html</link>
             <guid isPermaLink="false">2231a1b8-c41b-4c5d-9bfb-0826e583f235</guid>
             <pubDate>Thu, 19 Nov 2015 13:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[APX Labs Grabs $13 Million For Enterprise Smart Glasses Platform]]></title>
-            <description><![CDATA[<article><h1>APX Labs Grabs $13 Million For Enterprise Smart Glasses Platform</h1><p>APX Labs, makers of the Skylight smart glasses development platform, announced a $13 million investment today. The round was led by NEA, but there were several others parties involved including CNF Investments, GE Ventures, Salesforce Ventures, SineWave Ventures, and other unnamed investors. Today's round brings the total raised to $29 million.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/11/a_google_glass_wearer.jpg?w=764&h=400&crop=1"></article>]]></description>
-            <link>http://techcrunch.com/2015/11/18/apx-labs-grabs-13-million-for-enterprise-smart-glasses-platform/?ncid=rss</link>
-            <guid isPermaLink="false">7ba7c7b6-20b0-4cf7-afde-6c285e9e0cdf</guid>
-            <pubDate>Wed, 18 Nov 2015 15:04:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
