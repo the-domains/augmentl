@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 08:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 18:42:40 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can Virtual Reality escape the exclusivity trap?]]></title>
+            <description><![CDATA[<article><h1>Can Virtual Reality escape the exclusivity trap?</h1><p>With the VR marketplace heating up, and as we approach the release of both the Oculus Rift and the HTC Vive, is VR at risk of repeating the decades-old cycle of content exclusivity, or will VR succeed where consoles failed? </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f96f0ff4-7dfc-407b-8f77-d9803b210fd3.png"></article>]]></description>
+            <link>http://augmentl.io/can-virtual-reality-escape-the-exclusivity-trap/index.html</link>
+            <guid isPermaLink="false">dfe194b2-b8ca-4781-8105-05070b265031</guid>
+            <pubDate>Wed, 25 Nov 2015 18:42:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Magic Leap's plan for the future used to be incredibly weird]]></title>
             <description><![CDATA[<article><h1>Magic Leap's plan for the future used to be incredibly weird</h1><p>As we start learning more about Microsoft's HoloLens augmented reality headset, it's becoming clearer than ever how little we know about rival headset Magic Leap. Since the company was pushed into the public eye by a $542 million funding round, Magic Leap has shown its product to only a handful of viewers, and most people know it through brief videos of holographic games and applications.</p><img src="https://cdn1.vox-cdn.com/thumbor/AotJ6f6aGYY_3JuAtJZ8zrTllM8=/0x0:905x509/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47732791/Screen_Shot_2015-11-24_at_12.10.51_PM.0.0.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>GameWorks VR Gives a Boost to Virtual Reality</h1><p>Jason Paul, General Manager at NVIDIA, discusses the incredible advances GameWorks VR brings to virtual reality developers. Included in this is NVIDIA's Multi-Res Shading technology, which brings up to a 50% increase in virtual reality performance. Learn more: developer.nvidia.com/vr</p><img src="https://i.ytimg.com/vi/09dT3vkwXBA/hqdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=09dT3vkwXBA&amp;feature=share</link>
             <guid isPermaLink="false">d5297e2f-5f69-44f8-ad53-6490bf8d087d</guid>
-            <pubDate>Fri, 20 Nov 2015 08:24:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hands on with HoloLens: Watch out for robot bugs in the wall]]></title>
-            <description><![CDATA[<article><h1>Hands on with HoloLens: Watch out for robot bugs in the wall</h1><p>This week, Microsoft brought a demonstration of its newest augmented reality product, the HoloLens, to my home down of Phoenix, AZ. The Microsoft reps refer to this experience as "mixed reality," it uses a set of goggles that set a transparent screen on your face and add virtual "holograms" to the world in front of your face that you can interact with via voice and gesture.</p><img src="http://siliconangle.com/files/2015/11/Microsoft-HoloLens-PivotPoint-RGB-800x533.png"></article>]]></description>
-            <link>http://siliconangle.com/blog/2015/11/13/hands-on-with-hololens-watch-out-for-robot-bugs-in-the-wall/</link>
-            <guid isPermaLink="false">101df5f3-abbf-452f-ae72-ad14880b1619</guid>
             <pubDate>Fri, 20 Nov 2015 08:24:19 GMT</pubDate>
         </item>
     </channel>
