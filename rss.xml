@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 11:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 08:11:59 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Magic Leap's plan for the future used to be incredibly weird]]></title>
+            <description><![CDATA[<article><h1>Magic Leap's plan for the future used to be incredibly weird</h1><p>As we start learning more about Microsoft's HoloLens augmented reality headset, it's becoming clearer than ever how little we know about rival headset Magic Leap. Since the company was pushed into the public eye by a $542 million funding round, Magic Leap has shown its product to only a handful of viewers, and most people know it through brief videos of holographic games and applications.</p><img src="https://cdn1.vox-cdn.com/thumbor/AotJ6f6aGYY_3JuAtJZ8zrTllM8=/0x0:905x509/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47732791/Screen_Shot_2015-11-24_at_12.10.51_PM.0.0.png"></article>]]></description>
+            <link>http://www.theverge.com/2015/11/24/9790914/magic-leap-bizarre-augmented-reality-patent-filing</link>
+            <guid isPermaLink="false">e087f441-9035-4faf-9803-1b1088bf5589</guid>
+            <pubDate>Wed, 25 Nov 2015 08:11:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[So What Exactly is a Light Field Volume? - UploadVR]]></title>
             <description><![CDATA[<article><h1>So What Exactly is a Light Field Volume? - UploadVR</h1><p>To understand what a Light Field Volume is, it's important that we first grasp the concept that a captured Light Field consists of rays of light traveling in every direction, with their brightness, color, and their path, which is the direction and position of those rays.</p><img src="http://uploadvr.com/wp-content/uploads/2015/11/Light-Field-Volume.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://siliconangle.com/blog/2015/11/13/hands-on-with-hololens-watch-out-for-robot-bugs-in-the-wall/</link>
             <guid isPermaLink="false">101df5f3-abbf-452f-ae72-ad14880b1619</guid>
             <pubDate>Fri, 20 Nov 2015 08:24:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solfar's photoreal Mt Everest in VR is as close as you'll get to the real thing (Wired UK)]]></title>
-            <description><![CDATA[<article><h1>Solfar's photoreal Mt Everest in VR is as close as you'll get to the real thing (Wired UK)</h1><p>Staring down into the blackness of an icy crevasse in Everest VR, whilst balancing on a precarious ladder walkway buffeted by freezing wind, you realise just why people set out to climb the world's highest mountain. And also, why that those who do just might be a little insane.</p><img src="http://cdni.wired.co.uk/620x413/d_f/Everest%20VR%201.jpg"></article>]]></description>
-            <link>http://www.wired.co.uk/news/archive/2015-11/17/everest-vr-experience-solfar-studios</link>
-            <guid isPermaLink="false">983562c2-e2fa-4744-a2e7-e94c6def231b</guid>
-            <pubDate>Thu, 19 Nov 2015 13:43:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
