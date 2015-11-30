@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 09:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Nov 2015 10:56:19 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HoloLens Might Use Different Tech After Microsoft Fires 60 Engineers]]></title>
+            <description><![CDATA[<article><h1>HoloLens Might Use Different Tech After Microsoft Fires 60 Engineers</h1><p>Israeli news website Ynet reports that Microsoft Israel has fired 60 engineers working on the HoloLens project, and that Microsoft will continue development on the HoloLens with different technology from the US. The article was spotted by Neogaf user M.D., who read the article that is written in Hebrew.</p><img src="http://cdn.wccftech.com/wp-content/uploads/2015/04/Hololens-1.png"></article>]]></description>
+            <link>http://wccftech.com/hololens-might-use-different-tech-after-microsoft-fires-60-engineers/</link>
+            <guid isPermaLink="false">d2994446-1ef1-4a68-9c16-5c583f77d26b</guid>
+            <pubDate>Mon, 30 Nov 2015 10:55:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can Virtual Reality escape the exclusivity trap?]]></title>
             <description><![CDATA[<article><h1>Can Virtual Reality escape the exclusivity trap?</h1><p>With the VR marketplace heating up, and as we approach the release of both the Oculus Rift and the HTC Vive, is VR at risk of repeating the decades-old cycle of content exclusivity, or will it succeed where consoles failed? </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f96f0ff4-7dfc-407b-8f77-d9803b210fd3.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/hands-on-with-gameface-labs-latest-prototype/index.html</link>
             <guid isPermaLink="false">d91c6ccc-164d-4279-8d19-8594b9ade715</guid>
             <pubDate>Sat, 21 Nov 2015 14:58:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GameWorks VR Gives a Boost to Virtual Reality]]></title>
-            <description><![CDATA[<article><h1>GameWorks VR Gives a Boost to Virtual Reality</h1><p>Jason Paul, General Manager at NVIDIA, discusses the incredible advances GameWorks VR brings to virtual reality developers. Included in this is NVIDIA's Multi-Res Shading technology, which brings up to a 50% increase in virtual reality performance. Learn more: developer.nvidia.com/vr</p><img src="https://i.ytimg.com/vi/09dT3vkwXBA/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=09dT3vkwXBA&amp;feature=share</link>
-            <guid isPermaLink="false">d5297e2f-5f69-44f8-ad53-6490bf8d087d</guid>
-            <pubDate>Fri, 20 Nov 2015 08:24:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
