@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 10:56:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 11:33:06 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Venture's Investment Strategy and Outlook for Virtual Reality]]></title>
+            <description><![CDATA[<article><h1>Google Venture's Investment Strategy and Outlook for Virtual Reality</h1><p>Joe Kraus is a general partner at Google Ventures, and he was on a panel at the Virtual Reality Intelligence conference in San Francisco talking about VC investment trends in virtual reality. Joe predicts that 2016 will be a "perceptual year of despair" for virtual reality where the market won't really start to take off in a big way until 2017.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/google-ventures.jpg"></article>]]></description>
+            <link>http://www.roadtovr.com/google-ventures-investment-strategy-outlook-virtual-reality/</link>
+            <guid isPermaLink="false">a4433fcd-664b-44d5-8cbd-fb7218e98fe2</guid>
+            <pubDate>Tue, 01 Dec 2015 11:32:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HoloLens Might Use Different Tech After Microsoft Fires 60 Engineers]]></title>
             <description><![CDATA[<article><h1>HoloLens Might Use Different Tech After Microsoft Fires 60 Engineers</h1><p>Israeli news website Ynet reports that Microsoft Israel has fired 60 engineers working on the HoloLens project, and that Microsoft will continue development on the HoloLens with different technology from the US. The article was spotted by Neogaf user M.D., who read the article that is written in Hebrew.</p><img src="http://cdn.wccftech.com/wp-content/uploads/2015/04/Hololens-1.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.roadtovr.com/the-first-6-gear-vr-apps-or-games-new-owners-should-try/?utm_source=hootsuite</link>
             <guid isPermaLink="false">dd14dfd9-042e-4a3b-9b57-7d424a5751d5</guid>
             <pubDate>Mon, 23 Nov 2015 10:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hands on with GameFace Labs' Latest Prototype]]></title>
-            <description><![CDATA[<article><h1></h1><p>If you've been plugged into the Virtual Reality scene for the past two years you probably heard of GameFace Labs, a company that over the past couple of years has been working on the first true wireless, self-contained "console on your face." Today I paid them a visit. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0729e3c-c144-4f68-8609-c0c8929a8f58.jpg"></article>]]></description>
-            <link>http://augmentl.io/hands-on-with-gameface-labs-latest-prototype/index.html</link>
-            <guid isPermaLink="false">d91c6ccc-164d-4279-8d19-8594b9ade715</guid>
-            <pubDate>Sat, 21 Nov 2015 14:58:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
