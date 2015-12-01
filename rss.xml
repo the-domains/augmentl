@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 11:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 11:35:26 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LucidCam Hits Its $100K Campaign Goal, Team Partners With Sephora On VR Content]]></title>
+            <description><![CDATA[<article><h1>LucidCam Hits Its $100K Campaign Goal, Team Partners With Sephora On VR Content</h1><p>When we first met the team building the LucidCam, they aimed to raise $100,000 on Indiegogo. They found their 264 backers to get them there. Their goal remains to bring the ability to shoot immersive virtual reality content with a camera that fits in your pocket. And at a reasonable price ($299).</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/11/screen-shot-2015-11-30-at-10-47-12-am.png?w=764&h=400&crop=1"></article>]]></description>
+            <link>http://techcrunch.com/2015/11/30/lucidcam-hits-its-100k-campaign-goal-team-partners-with-sephora-on-vr-content/?ncid=rss</link>
+            <guid isPermaLink="false">a1a9b7a4-940c-4f91-a142-04196030723a</guid>
+            <pubDate>Tue, 01 Dec 2015 11:34:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google Venture's Investment Strategy and Outlook for Virtual Reality]]></title>
             <description><![CDATA[<article><h1>Google Venture's Investment Strategy and Outlook for Virtual Reality</h1><p>Joe Kraus is a general partner at Google Ventures, and he was on a panel at the Virtual Reality Intelligence conference in San Francisco talking about VC investment trends in virtual reality. Joe predicts that 2016 will be a "perceptual year of despair" for virtual reality where the market won't really start to take off in a big way until 2017.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/google-ventures.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://motherboard.vice.com/read/real-drugs-virtual-reality-meet-the-psychonauts-tripping-in-the-rift</link>
             <guid isPermaLink="false">7e4c69c4-82bc-4fcf-b437-571e69aa10c8</guid>
             <pubDate>Tue, 24 Nov 2015 08:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Top 6 Gear VR Apps & Games for new owners]]></title>
-            <description><![CDATA[<article><h1>The Top 6 Gear VR Apps & Games for new owners</h1><p>Consumer VR is finally here with this week's release of the Samsung Gear VR. If you've never owned a Gear VR (there's two previous 'innovator editions' out since last year) but you've managed to get your hands on a pre-ordered headset and compatible phone, you're ready to plug into the world of virtual reality.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/09/samsung-gear-vr-consumer-version-1.jpg"></article>]]></description>
-            <link>http://www.roadtovr.com/the-first-6-gear-vr-apps-or-games-new-owners-should-try/?utm_source=hootsuite</link>
-            <guid isPermaLink="false">dd14dfd9-042e-4a3b-9b57-7d424a5751d5</guid>
-            <pubDate>Mon, 23 Nov 2015 10:16:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
