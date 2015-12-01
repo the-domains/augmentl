@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Ken Yeung
-    url: 'http://venturebeat.com/author/kenyeung/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://venturebeat.com'
-  name: VentureBeat
-  favicon: 'http://venturebeat.com/wp-content/themes/vbnews/img/favicon.ico'
-  domain: venturebeat.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://venturebeat.com/2015/11/30/microsoft-partners-with-autodesk-to-bring-3d-product-design-to-hololens/'
+inLanguage: en
+starred: false
 keywords:
   - hololens
   - autodesk
@@ -21,17 +17,23 @@ keywords:
   - device
   - augmented
 description: "Microsoft has partnered with Autodesk to make its HoloLens device more useful in the way that we design products. The Redmond, Wash.-based company has built-in support for Autodesk's Fusion 360 within its augmented reality headset to provide designers an innovative way to build 2D and 3D objects."
-inLanguage: en
+datePublished: '2015-12-01T17:05:56.196Z'
+dateModified: '2015-12-01T17:05:50.373Z'
+author:
+  - name: Ken Yeung
+    url: 'http://venturebeat.com/author/kenyeung/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://venturebeat.com/2015/11/30/microsoft-partners-with-autodesk-to-bring-3d-product-design-to-hololens/'
 title: Microsoft partners with Autodesk to bring 3D product design to HoloLens
-datePublished: '2015-12-01T16:01:50.963Z'
-dateModified: '2015-12-01T16:01:37.233Z'
 sourcePath: _posts/2015-12-01-microsoft-partners-with-autodesk-to-bring-3d-product-design.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: VentureBeat
+  domain: venturebeat.com
+  url: 'http://venturebeat.com'
+  favicon: 'http://venturebeat.com/wp-content/themes/vbnews/img/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
