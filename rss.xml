@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 12:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 15:53:10 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft partners with Autodesk to bring 3D product design to HoloLens]]></title>
+            <description><![CDATA[<article><h1>Microsoft partners with Autodesk to bring 3D product design to HoloLens</h1><p>Microsoft has partnered with Autodesk to make its HoloLens device more useful in the way that we design products. The Redmond, Wash.-based company has built-in support for Autodesk's Fusion 360 within its augmented reality headset to provide designers an innovative way to build 2D and 3D objects.</p><img src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/11/6a017c3334c51a970b01b7c7f2f53d970b.jpg?fit=780%2C9999"></article>]]></description>
+            <link>http://venturebeat.com/2015/11/30/microsoft-partners-with-autodesk-to-bring-3d-product-design-to-hololens/</link>
+            <guid isPermaLink="false">4514a185-05c5-4a1b-8002-e5204f480ae9</guid>
+            <pubDate>Tue, 01 Dec 2015 15:52:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Nokia is reinventing itself with a $60,000 virtual reality camera]]></title>
             <description><![CDATA[<article><h1>How Nokia is reinventing itself with a $60,000 virtual reality camera</h1><p>Last July Nokia revealed Ozo, a high-end virtual reality camera designed to capture video and audio in full, 360-degree glory. It's the kind of integrated solution that the VR market has been largely lacking; while artists are regularly creating live-action VR content, most of it is coming from custom rigs or cobbled-together solutions.</p><img src="https://cdn2.vox-cdn.com/thumbor/wXvyqrSpaOvttESZ6BrqUIm2mCY=/cdn0.vox-cdn.com/uploads/chorus_asset/file/4311963/DSC_0102-2040b.0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.slashgear.com/star-wars-millennium-falcon-vr-coming-to-google-and-verizon-23415697/</link>
             <guid isPermaLink="false">be18e98e-c105-4d64-b82f-6e1f82684317</guid>
             <pubDate>Tue, 24 Nov 2015 08:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.]]></title>
-            <description><![CDATA[<article><h1></h1><p>I was given the opportunity to take their HTC Vive for a spin. I was not impressed. At first. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d37f6f6-22c7-4905-aea2-ab360621f0d7.jpg"></article>]]></description>
-            <link>http://augmentl.io/my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi/index.html</link>
-            <guid isPermaLink="false">b78badf7-a9b1-4c71-966d-43a57bd3edd8</guid>
-            <pubDate>Tue, 24 Nov 2015 08:11:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
