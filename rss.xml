@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 08:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Dec 2015 08:17:52 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Samsung Launches Web Browser For Gear VR]]></title>
+            <description><![CDATA[<article><h1>Samsung Launches Web Browser For Gear VR</h1><p>You're strapped into a virtual reality delight and you want to Google something. What do you do? Now you can use a web browser built and optimized specifically for Samsung's Gear VR. The company announced the web browser today, and it's called simply "Samsung Internet for Gear VR."</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/12/g-vr3_main.jpg?w=706"></article>]]></description>
+            <link>http://techcrunch.com/2015/12/01/samsung-launches-web-browser-for-gear-vr/?ncid=rss</link>
+            <guid isPermaLink="false">b022be37-2a9f-4f7a-bffc-929448ae91dd</guid>
+            <pubDate>Wed, 02 Dec 2015 08:17:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Making 3-D imaging 1,000 times better]]></title>
             <description><![CDATA[<article><h1>Making 3-D imaging 1,000 times better</h1><p>MIT researchers have shown that by exploiting the polarization of light - the physical phenomenon behind polarized sunglasses and most 3-D movie systems - they can increase the resolution of conventional 3-D imaging devices as much as 1,000 times.</p><img src="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/og/public/images/2015/MIT-Cheap3D-A1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://uploadvr.com/so-what-exactly-is-a-light-field-volume/</link>
             <guid isPermaLink="false">ad861c49-fabd-471b-9f11-c10becafe535</guid>
             <pubDate>Tue, 24 Nov 2015 11:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mobile is the gateway for virtual reality becoming a $15.9B industry by 2019]]></title>
-            <description><![CDATA[<article><h1>Mobile is the gateway for virtual reality becoming a $15.9B industry by 2019</h1><p>With virtual reality now becoming an actual thing with the launch of the Samsung Gear VR and the Oculus Rift and PlayStation VR in the wings ready to launch, analyst SuperData thinks the future for headset manufacturers is looking really green. How green?</p><img src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/11/samsunggearvr-2.png?resize=1200%2C600"></article>]]></description>
-            <link>http://venturebeat.com/2015/11/23/mobile-is-the-gateway-for-virtual-reality-becoming-a-15-9b-industry-by-2019/</link>
-            <guid isPermaLink="false">aa354d97-4d3b-4cc8-b5c1-bd6924374cee</guid>
-            <pubDate>Tue, 24 Nov 2015 10:48:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
