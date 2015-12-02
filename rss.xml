@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 17:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Dec 2015 08:16:13 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Making 3-D imaging 1,000 times better]]></title>
+            <description><![CDATA[<article><h1>Making 3-D imaging 1,000 times better</h1><p>MIT researchers have shown that by exploiting the polarization of light - the physical phenomenon behind polarized sunglasses and most 3-D movie systems - they can increase the resolution of conventional 3-D imaging devices as much as 1,000 times.</p><img src="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/og/public/images/2015/MIT-Cheap3D-A1.jpg"></article>]]></description>
+            <link>http://news.mit.edu/2015/algorithms-boost-3-d-imaging-resolution-1000-times-1201</link>
+            <guid isPermaLink="false">351dc67d-0753-41e3-a7a2-94dfb8e046bb</guid>
+            <pubDate>Wed, 02 Dec 2015 08:15:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Microsoft partners with Autodesk to bring 3D product design to HoloLens]]></title>
             <description><![CDATA[<article><h1>Microsoft partners with Autodesk to bring 3D product design to HoloLens</h1><p>Microsoft has partnered with Autodesk to make its HoloLens device more useful in the way that we design products. The Redmond, Wash.-based company has built-in support for Autodesk's Fusion 360 within its augmented reality headset to provide designers an innovative way to build 2D and 3D objects.</p><img src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/11/6a017c3334c51a970b01b7c7f2f53d970b.jpg?fit=780%2C9999"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2015/11/23/mobile-is-the-gateway-for-virtual-reality-becoming-a-15-9b-industry-by-2019/</link>
             <guid isPermaLink="false">aa354d97-4d3b-4cc8-b5c1-bd6924374cee</guid>
             <pubDate>Tue, 24 Nov 2015 10:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Star Wars' Millennium Falcon VR coming to Google and Verizon]]></title>
-            <description><![CDATA[<article><h1>Star Wars' Millennium Falcon VR coming to Google and Verizon</h1><p>This week a combination of releases from Google, Lucasfilm and Disney, and Verizon have lead us to clues about the next big Star Wars virtual reality release. As StarWars.com suggests, the release date for this VR adventure will be December 2nd, 2015. There you'll find what they're describing as "first-of-its-kind serialized Google Cardboard Virtual Reality (VR) experience."</p><img src="http://cdn.slashgear.com/wp-content/uploads/2015/11/starwarsvr-828x420.jpg"></article>]]></description>
-            <link>http://www.slashgear.com/star-wars-millennium-falcon-vr-coming-to-google-and-verizon-23415697/</link>
-            <guid isPermaLink="false">be18e98e-c105-4d64-b82f-6e1f82684317</guid>
-            <pubDate>Tue, 24 Nov 2015 08:23:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
