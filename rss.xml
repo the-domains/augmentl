@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 08:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Dec 2015 12:26:09 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pixar co-founder warns virtual-reality moviemakers: 'It's not storytelling']]></title>
+            <description><![CDATA[<article><h1>Pixar co-founder warns virtual-reality moviemakers: 'It's not storytelling'</h1><p>Pixar Animation co-founder Ed Catmull has warned that virtual reality technology may not be the revolution in storytelling that some of its evangelists have claimed. "It's not storytelling. People have been trying to do [virtual reality] storytelling for 40 years. They haven't succeeded. Why is that?</p><img src="https://i.guim.co.uk/img/media/ad72fc809f5c657e3de869b78fdd32d6a997b77e/1242_0_2854_1714/master/2854.jpg?w=1200&q=85&auto=format&sharp=10&s=05b3e51b70fc67d1e87c267b51a7c0b8"></article>]]></description>
+            <link>http://www.theguardian.com/technology/2015/dec/03/pixar-virtual-reality-storytelling-ed-catmull</link>
+            <guid isPermaLink="false">bc2bdd03-d334-41f2-90ab-58d0ea74fbad</guid>
+            <pubDate>Thu, 03 Dec 2015 12:25:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Samsung Launches Web Browser For Gear VR]]></title>
             <description><![CDATA[<article><h1>Samsung Launches Web Browser For Gear VR</h1><p>You're strapped into a virtual reality delight and you want to Google something. What do you do? Now you can use a web browser built and optimized specifically for Samsung's Gear VR. The company announced the web browser today, and it's called simply "Samsung Internet for Gear VR."</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/12/g-vr3_main.jpg?w=706"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2015/11/24/9790914/magic-leap-bizarre-augmented-reality-patent-filing</link>
             <guid isPermaLink="false">e087f441-9035-4faf-9803-1b1088bf5589</guid>
             <pubDate>Wed, 25 Nov 2015 08:11:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[So What Exactly is a Light Field Volume? - UploadVR]]></title>
-            <description><![CDATA[<article><h1>So What Exactly is a Light Field Volume? - UploadVR</h1><p>To understand what a Light Field Volume is, it's important that we first grasp the concept that a captured Light Field consists of rays of light traveling in every direction, with their brightness, color, and their path, which is the direction and position of those rays.</p><img src="http://uploadvr.com/wp-content/uploads/2015/11/Light-Field-Volume.jpg"></article>]]></description>
-            <link>http://uploadvr.com/so-what-exactly-is-a-light-field-volume/</link>
-            <guid isPermaLink="false">ad861c49-fabd-471b-9f11-c10becafe535</guid>
-            <pubDate>Tue, 24 Nov 2015 11:23:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
