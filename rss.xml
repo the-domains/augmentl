@@ -4,11 +4,18 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 08:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 16:25:44 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How Virtual Reality Could Change The Music Industry | Musonomics]]></title>
+            <description><![CDATA[<article><h1>How Virtual Reality Could Change The Music Industry | Musonomics</h1><p>How Virtual Reality Could Change The Music Industry In the 1990's, the concept of a functioning virtual reality (VR) system was still in many ways a science fiction fantasy - but that is no longer the case.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d50dbaee95cce645ac5ff631b8b7583edb3cc07.jpg"></article>]]></description>
+            <link>http://musonomics.org/how-virtual-reality-could-change-the-music-industry/</link>
+            <guid isPermaLink="false">8d690cce-6988-43f2-beef-7a776a296092</guid>
+            <pubDate>Fri, 04 Dec 2015 16:25:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Oculus and Harmonix Announce Rock Band VR - VRScout]]></title>
-            <description><![CDATA[<article><h1>Oculus and Harmonix Announce Rock Band VR - VRScout</h1><p>It looks like our virtual reality dream for rocking on a stage in front of a packed house is finally coming true. Tonight during the 2105 Game Awards, Harmonix and Oculus announced a virtual reality version of the music game Rock Band for Oculus Rift.</p><img src="http://vrscout.com/wp-content/uploads/2015/12/oculus-rock-band-vr-palmer-harmonix5.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Oculus and Harmonix Announce Rock Band VR - VRScout</h1><p>It looks like our virtual reality dream for rocking on a stage in front of a packed house is finally coming true. Tonight during the 2105 Game Awards, Harmonix and Oculus announced a virtual reality version of the music game Rock Band for Oculus Rift.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55fbe62cd764a09788fbcb49efc62184c386e496.png"></article>]]></description>
             <link>http://vrscout.com/news/oculus-rift-rockband-vr-harmonix/</link>
             <guid isPermaLink="false">ac46bbb0-1eac-485b-b344-f948a222ce8b</guid>
             <pubDate>Fri, 04 Dec 2015 08:19:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://wccftech.com/hololens-might-use-different-tech-after-microsoft-fires-60-engineers/</link>
             <guid isPermaLink="false">d2994446-1ef1-4a68-9c16-5c583f77d26b</guid>
             <pubDate>Mon, 30 Nov 2015 10:55:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Virtual Reality escape the exclusivity trap?]]></title>
-            <description><![CDATA[<article><h1>Can Virtual Reality escape the exclusivity trap?</h1><p>With the VR marketplace heating up, and as we approach the release of both the Oculus Rift and the HTC Vive, is VR at risk of repeating the decades-old cycle of content exclusivity, or will it succeed where consoles failed? </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f96f0ff4-7dfc-407b-8f77-d9803b210fd3.png"></article>]]></description>
-            <link>http://augmentl.io/can-virtual-reality-escape-the-exclusivity-trap/index.html</link>
-            <guid isPermaLink="false">dfe194b2-b8ca-4781-8105-05070b265031</guid>
-            <pubDate>Thu, 26 Nov 2015 09:03:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
