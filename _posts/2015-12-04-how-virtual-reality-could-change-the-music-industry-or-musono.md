@@ -1,14 +1,10 @@
 ---
-author:
-  - name: admin
-    url: 'http://musonomics.org/author/admin/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://musonomics.org'
-  name: Musonomics
-  favicon: 'http://musonomics.com/dev/wp-content/uploads/2015/03/favicon.ico'
-  domain: musonomics.org
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://musonomics.org/how-virtual-reality-could-change-the-music-industry/'
+inLanguage: en
+starred: false
 keywords:
   - hmd
   - immersed
@@ -21,19 +17,25 @@ keywords:
   - cardboard
   - audiences
 description: "How Virtual Reality Could Change The Music Industry In the 1990's, the concept of a functioning virtual reality (VR) system was still in many ways a science fiction fantasy - but that is no longer the case."
-inLanguage: en
+datePublished: '2015-12-04T16:30:12.952Z'
+dateModified: '2015-12-04T16:30:09.486Z'
+author:
+  - name: admin
+    url: 'http://musonomics.org/author/admin/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://musonomics.org/how-virtual-reality-could-change-the-music-industry/'
 title: 'How Virtual Reality Could Change The Music Industry | Musonomics'
-datePublished: '2015-12-04T16:25:07.373Z'
-dateModified: '2015-12-04T16:24:51.417Z'
 sourcePath: _posts/2015-12-04-how-virtual-reality-could-change-the-music-industry-or-musono.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Musonomics
+  domain: musonomics.org
+  url: 'http://musonomics.org'
+  favicon: 'http://musonomics.com/dev/wp-content/uploads/2015/03/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>How Virtual Reality Could Change The Music Industry &amp;vert; Musonomics</h1><p>How Virtual Reality Could Change The Music Industry In the 1990's&amp;comma; the concept of a functioning virtual reality &amp;lpar;VR&amp;rpar; system was still in many ways a science fiction fantasy - but that is no longer the case&amp;period;</p><img src="http://musonomics.org/wp-content/uploads/2015/12/PM-jaunt.jpg" /></article>
+<article style=""><h1>How Virtual Reality Could Change The Music Industry</h1><p>How Virtual Reality Could Change The Music Industry In the 1990's, the concept of a functioning virtual reality (VR) system was still in many ways a science fiction fantasy - but that is no longer the case.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d50dbaee95cce645ac5ff631b8b7583edb3cc07.jpg" /></article>
