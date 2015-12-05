@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 16:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Dec 2015 10:10:16 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Look: The Void's 2K 'Rapture' VR Headset]]></title>
+            <description><![CDATA[<article><h1>First Look: The Void's 2K 'Rapture' VR Headset</h1><p>First Look: The Void’s 2K ‘Rapture’ VR Headset with Curved OLED Displays</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a40d08771ff31cd751dbea52ac893a39221b2482.jpg"></article>]]></description>
+            <link>http://augmentl.io/first-look-the-voids-2k-rapture-vr-headset-with-curved-o/index.html</link>
+            <guid isPermaLink="false">3904bd3e-3ca0-4ba4-8c36-55dac05b0ff9</guid>
+            <pubDate>Sat, 05 Dec 2015 10:09:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Virtual Reality Could Change The Music Industry]]></title>
             <description><![CDATA[<article><h1>How Virtual Reality Could Change The Music Industry</h1><p>How Virtual Reality Could Change The Music Industry In the 1990's, the concept of a functioning virtual reality (VR) system was still in many ways a science fiction fantasy - but that is no longer the case.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d50dbaee95cce645ac5ff631b8b7583edb3cc07.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.roadtovr.com/google-ventures-investment-strategy-outlook-virtual-reality/</link>
             <guid isPermaLink="false">a4433fcd-664b-44d5-8cbd-fb7218e98fe2</guid>
             <pubDate>Tue, 01 Dec 2015 11:32:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HoloLens Might Use Different Tech After Microsoft Fires 60 Engineers]]></title>
-            <description><![CDATA[<article><h1>HoloLens Might Use Different Tech After Microsoft Fires 60 Engineers</h1><p>Israeli news website Ynet reports that Microsoft Israel has fired 60 engineers working on the HoloLens project, and that Microsoft will continue development on the HoloLens with different technology from the US. The article was spotted by Neogaf user M.D., who read the article that is written in Hebrew.</p><img src="http://cdn.wccftech.com/wp-content/uploads/2015/04/Hololens-1.png"></article>]]></description>
-            <link>http://wccftech.com/hololens-might-use-different-tech-after-microsoft-fires-60-engineers/</link>
-            <guid isPermaLink="false">d2994446-1ef1-4a68-9c16-5c583f77d26b</guid>
-            <pubDate>Mon, 30 Nov 2015 10:55:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
