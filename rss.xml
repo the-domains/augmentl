@@ -4,8 +4,15 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 10:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 09:24:21 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HTC Teases #GeForceVR Vive Event and Everest VR - VRScout]]></title>
+            <description><![CDATA[<article><h1>HTC Teases #GeForceVR Vive Event and Everest VR - VRScout</h1><p>HTC and NVIDIA have teamed up to bring us a "very special" VR event December 8th in London. Although there is still no word what HTC and NVIDIA will be showcasing at the event, many are hoping they will share details about the consumer launch of the HTC Vive.</p><img src="http://vrscout.com/wp-content/uploads/2015/12/htc-vive-everest-vr-event-nvidia-geforce.jpg"></article>]]></description>
+            <link>http://vrscout.com/news/htc-geforcevr-vive-event-everest-vr/</link>
+            <guid isPermaLink="false">756b68f4-d3b9-4eb3-80d1-2950cc806e03</guid>
+            <pubDate>Tue, 08 Dec 2015 09:23:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Playstation VR Is Very Real And The Games Sony Shared Today Look Amazing]]></title>
             <description><![CDATA[<article><h1>Playstation VR Is Very Real And The Games Sony Shared Today Look Amazing</h1><p>The Playstation VR Games Sony Announced Today Look Amazing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/425e0d4f03b3bbbbcbfde92724e335def23c6d26.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2015/11/30/lucidcam-hits-its-100k-campaign-goal-team-partners-with-sephora-on-vr-content/?ncid=rss</link>
             <guid isPermaLink="false">a1a9b7a4-940c-4f91-a142-04196030723a</guid>
             <pubDate>Tue, 01 Dec 2015 12:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Venture's Investment Strategy and Outlook for Virtual Reality]]></title>
-            <description><![CDATA[<article><h1>Google Venture's Investment Strategy and Outlook for Virtual Reality</h1><p>Joe Kraus is a general partner at Google Ventures, and he was on a panel at the Virtual Reality Intelligence conference in San Francisco talking about VC investment trends in virtual reality. Joe predicts that 2016 will be a "perceptual year of despair" for virtual reality where the market won't really start to take off in a big way until 2017.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/11/google-ventures.jpg"></article>]]></description>
-            <link>http://www.roadtovr.com/google-ventures-investment-strategy-outlook-virtual-reality/</link>
-            <guid isPermaLink="false">a4433fcd-664b-44d5-8cbd-fb7218e98fe2</guid>
-            <pubDate>Tue, 01 Dec 2015 11:32:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
