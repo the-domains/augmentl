@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://blog.htc.com'
-  name: HTC Blog
-  favicon: 'http://blog.htc.com/wp-content/themes/htc_robocar/images/favicon.ico'
-  domain: blog.htc.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://blog.htc.com/2015/12/htc-vive-update/'
+inLanguage: en
+starred: false
 keywords:
   - vive
   - htc
@@ -17,18 +16,21 @@ keywords:
   - sxsw
   - mwc
   - gdc
-description: In an effort to clear up speculation and misinformation surrounding the launch of HTC Vive this month we are excited to give the community an update on the status of HTC Vive.
-inLanguage: en
+description: In an effort to clear up speculation and misinformation surrounding the launch of HTC Vive this month we are excited to give the community an update on its status
+datePublished: '2015-12-10T10:25:57.325Z'
+dateModified: '2015-12-10T10:25:51.778Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://blog.htc.com/2015/12/htc-vive-update/'
 title: HTC Vive Update
-datePublished: '2015-12-10T09:35:18.728Z'
-dateModified: '2015-12-10T09:33:16.094Z'
 sourcePath: _posts/2015-12-10-htc-vive-update.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: HTC Blog
+  domain: blog.htc.com
+  url: 'http://blog.htc.com'
+  favicon: 'http://blog.htc.com/wp-content/themes/htc_robocar/images/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
