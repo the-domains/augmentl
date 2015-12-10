@@ -4,11 +4,18 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 10:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 10:54:49 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Feature: Can Virtual Reality escape the exclusivity trap?]]></title>
+            <description><![CDATA[<article><h1>Feature: Can Virtual Reality escape the exclusivity trap?</h1><p>With the VR marketplace heating up, and as we approach the release of both the Oculus Rift and the HTC Vive, is VR at risk of repeating the decades-old cycle of content exclusivity, or will it succeed where consoles failed? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2cfdd15ea6f3a76a5cb64d90586bd1403b38894.png"></article>]]></description>
+            <link>http://augmentl.io/can-virtual-reality-escape-the-exclusivity-trap/index.html</link>
+            <guid isPermaLink="false">dfe194b2-b8ca-4781-8105-05070b265031</guid>
+            <pubDate>Thu, 10 Dec 2015 10:54:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sony wants PlayStation VR to push the limits of virtual reality gaming]]></title>
-            <description><![CDATA[<article><h1>Sony wants PlayStation VR to push the limits of virtual reality gaming</h1><p>Sony made a big deal about virtual reality at its PlayStation Experience event last weekend, but its on-stage demo of the technology didn't work so well. Richard Marks, head of the PlayStation Magic Lab at Sony, wanted to show two players dueling with each other in the same virtual space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/830e74fb5359c8d0c5f85aa68fcb2704f9e659b9.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Sony wants PlayStation VR to push the limits of virtual reality gaming</h1><p>Sony made a big deal about virtual reality at its PlayStation Experience event last weekend, but its on-stage demo of the technology didn't work so well. Richard Marks, head of the PlayStation Magic Lab at Sony, wanted to show two players dueling with each other in the same virtual space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4be6c7bd12007c57cb85aa32fbdff0e4da69bf8d.jpg"></article>]]></description>
             <link>http://venturebeat.com/2015/12/09/sony-wants-playstation-vr-to-push-the-limits-of-virtual-reality-gaming/</link>
             <guid isPermaLink="false">98750783-1aa2-4c17-abd5-086f90b7d3de</guid>
             <pubDate>Thu, 10 Dec 2015 10:40:22 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://news.mit.edu/2015/algorithms-boost-3-d-imaging-resolution-1000-times-1201</link>
             <guid isPermaLink="false">351dc67d-0753-41e3-a7a2-94dfb8e046bb</guid>
             <pubDate>Wed, 02 Dec 2015 08:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft partners with Autodesk to bring 3D product design to HoloLens]]></title>
-            <description><![CDATA[<article><h1>Microsoft partners with Autodesk to bring 3D product design to HoloLens</h1><p>Microsoft has partnered with Autodesk to make its HoloLens device more useful in the way that we design products. The Redmond, Wash.-based company has built-in support for Autodesk's Fusion 360 within its augmented reality headset to provide designers an innovative way to build 2D and 3D objects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65ba2c5ca7a2e5a2be0d59b8829c35cd26e8ba8f.jpg"></article>]]></description>
-            <link>http://venturebeat.com/2015/11/30/microsoft-partners-with-autodesk-to-bring-3d-product-design-to-hololens/</link>
-            <guid isPermaLink="false">b4a25efa-af2e-4c2a-aa02-1fb387b93fec</guid>
-            <pubDate>Tue, 01 Dec 2015 17:05:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
