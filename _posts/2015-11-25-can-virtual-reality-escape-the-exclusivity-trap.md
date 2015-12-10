@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'With the VR marketplace heating up, and as we approach the release of both the Oculus Rift and the HTC Vive, is VR at risk of repeating the decades-old cycle of content exclusivity, or will VR succeed where consoles failed? '
-datePublished: '2015-11-26T09:03:55.830Z'
-dateModified: '2015-11-26T09:03:50.789Z'
-title: Can Virtual Reality escape the exclusivity trap?
+datePublished: '2015-12-10T10:54:46.690Z'
+dateModified: '2015-12-10T10:54:43.167Z'
+title: 'Feature: Can Virtual Reality escape the exclusivity trap?'
 author: []
 sourcePath: _posts/2015-11-25-can-virtual-reality-escape-the-exclusivity-trap.md
 published: true
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f96f0ff4-7dfc-407b-8f77-d9803b210fd3.png)
 
-# Can Virtual Reality escape the exclusivity trap?
+# Feature: Can Virtual Reality escape the exclusivity trap?
 
 With the VR marketplace heating up, and as we approach the release of both the Oculus Rift and the HTC Vive, is VR at risk of repeating the decades-old cycle of content exclusivity, or will it succeed where consoles failed? 
 
