@@ -4,7 +4,7 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 15:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 15:29:39 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Feature: Can Virtual Reality escape the exclusivity trap?]]></title>
@@ -12,6 +12,13 @@
             <link>http://augmentl.io/can-virtual-reality-escape-the-exclusivity-trap/index.html</link>
             <guid isPermaLink="false">dfe194b2-b8ca-4781-8105-05070b265031</guid>
             <pubDate>Thu, 10 Dec 2015 10:54:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Virtual reality gets a new $10M seed fund from Farmville co-creator and HTC Vive founder]]></title>
+            <description><![CDATA[<article><h1>Virtual reality gets a new $10M seed fund from Farmville co-creator and HTC Vive founder</h1><p>Serial entrepreneur Amitt Mahajan, the co-creator of FarmVille, believes that the best opportunity for game startups is at the beginning of a new platform. That's why he has teamed up with former HTC executive Phil Chen and startup veteran Paul Bragiel to create Presence Capital, a seed fund to finance virtual reality and augmented reality games and apps.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2671046dde8f6cbdfb268f88ebe9e6d89fb82b17.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2015/12/10/farmville-co-creator-and-ex-htc-vive-founder-form-10m-seed-fund-for-virtual-reality/</link>
+            <guid isPermaLink="false">9479e931-7cb8-4bfd-aeeb-4b50fc2e71e6</guid>
+            <pubDate>Thu, 10 Dec 2015 15:29:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MIT's Amazing New App Lets You Program Any Object]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/technology/2015/dec/03/pixar-virtual-reality-storytelling-ed-catmull</link>
             <guid isPermaLink="false">bc2bdd03-d334-41f2-90ab-58d0ea74fbad</guid>
             <pubDate>Thu, 03 Dec 2015 12:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsung Launches Web Browser For Gear VR]]></title>
-            <description><![CDATA[<article><h1>Samsung Launches Web Browser For Gear VR</h1><p>You're strapped into a virtual reality delight and you want to Google something. What do you do? Now you can use a web browser built and optimized specifically for Samsung's Gear VR. The company announced the web browser today, and it's called simply "Samsung Internet for Gear VR."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bf6f3104ba189a8d18f260cc16ecbd73e757856.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2015/12/01/samsung-launches-web-browser-for-gear-vr/?ncid=rss</link>
-            <guid isPermaLink="false">b022be37-2a9f-4f7a-bffc-929448ae91dd</guid>
-            <pubDate>Wed, 02 Dec 2015 08:20:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
