@@ -4,14 +4,21 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 10:54:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 15:22:16 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Feature: Can Virtual Reality escape the exclusivity trap?]]></title>
-            <description><![CDATA[<article><h1>Feature: Can Virtual Reality escape the exclusivity trap?</h1><p>With the VR marketplace heating up, and as we approach the release of both the Oculus Rift and the HTC Vive, is VR at risk of repeating the decades-old cycle of content exclusivity, or will it succeed where consoles failed? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2cfdd15ea6f3a76a5cb64d90586bd1403b38894.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Feature: Can Virtual Reality escape the exclusivity trap?</h1><p>With the VR marketplace heating up, and as we approach the release of both the Oculus Rift and the HTC Vive, is VR at risk of repeating the decades-old cycle of content exclusivity, or will it succeed where consoles failed? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0a7b7a9f5429252ba894215792b94d8a4628f99.png"></article>]]></description>
             <link>http://augmentl.io/can-virtual-reality-escape-the-exclusivity-trap/index.html</link>
             <guid isPermaLink="false">dfe194b2-b8ca-4781-8105-05070b265031</guid>
             <pubDate>Thu, 10 Dec 2015 10:54:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MIT's Amazing New App Lets You Program Any Object]]></title>
+            <description><![CDATA[<article><h1>MIT's Amazing New App Lets You Program Any Object</h1><p>The end goal of the Internet of Things is to make every object in your life programmable. But our smart objects are still pretty dumb. They don't talk to each other, and most are only capable of doing one thing; a smart lightbulb for instance can dim and brighten but it can't tell your TV to change the channel for you.</p><img src="http://c.fastcompany.net/multisite_files/fastcompany/imagecache/620x350/poster/2015/12/3054389-poster-p-1-mits-new-app-allows-you-to-program-any-object.gif"></article>]]></description>
+            <link>http://www.fastcodesign.com/3054389/mits-amazing-new-app-lets-you-program-any-object?partner=rss</link>
+            <guid isPermaLink="false">29489bd3-5508-4278-bb9d-12e383b239c1</guid>
+            <pubDate>Thu, 10 Dec 2015 15:21:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sony wants PlayStation VR to push the limits of virtual reality gaming]]></title>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2015/12/01/samsung-launches-web-browser-for-gear-vr/?ncid=rss</link>
             <guid isPermaLink="false">b022be37-2a9f-4f7a-bffc-929448ae91dd</guid>
             <pubDate>Wed, 02 Dec 2015 08:20:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making 3-D imaging 1,000 times better]]></title>
-            <description><![CDATA[<article><h1>Making 3-D imaging 1,000 times better</h1><p>MIT researchers have shown that by exploiting the polarization of light - the physical phenomenon behind polarized sunglasses and most 3-D movie systems - they can increase the resolution of conventional 3-D imaging devices as much as 1,000 times.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc98a0a883915622bb17056f7b4930002d0259e5.jpg"></article>]]></description>
-            <link>http://news.mit.edu/2015/algorithms-boost-3-d-imaging-resolution-1000-times-1201</link>
-            <guid isPermaLink="false">351dc67d-0753-41e3-a7a2-94dfb8e046bb</guid>
-            <pubDate>Wed, 02 Dec 2015 08:15:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
