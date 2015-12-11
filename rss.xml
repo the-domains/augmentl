@@ -4,7 +4,7 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 10:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2015 17:09:44 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Feature: Can Virtual Reality escape the exclusivity trap?]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 10 Dec 2015 10:54:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Creating Adrift: the space survival game that will make you love VR]]></title>
+            <description><![CDATA[<article><h1>Creating Adrift: the space survival game that will make you love VR</h1><p>Breathe and stop Adrift is a game that takes place in the ruins of a gleaming, futuristic space station, one that has you doing your best Sandra Bullock impersonation as you attempt to navigate the debris and stay alive.</p><img src="https://cdn1.vox-cdn.com/uploads/chorus_asset/file/4339345/ADR1FT_03A.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2015/12/11/9880370/adrift-virtual-reality-oculus-rift</link>
+            <guid isPermaLink="false">c622c559-165f-43a5-a0b9-6df527180766</guid>
+            <pubDate>Fri, 11 Dec 2015 17:09:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meet the Oculus Audio SDK]]></title>
-            <description><![CDATA[<article><h1>Meet the Oculus Audio SDK</h1><p>At Oculus, we're committed to providing great tools to help developers make persuasive experiences - games that make you truly forget where you are, and that bring you into other worlds. We're pleased to move our Audio SDK out of beta, and give our mobile and PC VR developers a free set of powerful tools to provide 3D audio with their games and applications.</p><img src="https://s3.amazonaws.com/static.oculus.com/website/2015/12/audio-sdk-feature.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Meet the Oculus Audio SDK</h1><p>At Oculus, we're committed to providing great tools to help developers make persuasive experiences - games that make you truly forget where you are, and that bring you into other worlds. We're pleased to move our Audio SDK out of beta, and give our mobile and PC VR developers a free set of powerful tools to provide 3D audio with their games and applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4263bce149f58f864f712edf1b11310937724134.jpg"></article>]]></description>
             <link>https://developer.oculus.com/blog/meet-the-oculus-audio-sdk/</link>
             <guid isPermaLink="false">236d38c7-72c1-4333-abdc-3c5ad1baaee5</guid>
             <pubDate>Fri, 11 Dec 2015 10:11:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2015/12/05/playstation-vr-is-very-real-and-the-games-sony-shared-today-look-amazing/</link>
             <guid isPermaLink="false">5a468494-6f1f-4b2a-913b-eb5a22cd1e76</guid>
             <pubDate>Sun, 06 Dec 2015 10:17:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Virtual Reality Could Change The Music Industry]]></title>
-            <description><![CDATA[<article><h1>How Virtual Reality Could Change The Music Industry</h1><p>In the 1990's, the concept of a functioning virtual reality (VR) system was still in many ways a science fiction fantasy - but that is no longer the case.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/903d6234c4cb027ada833fd52a679c913d20367d.jpg"></article>]]></description>
-            <link>http://musonomics.org/how-virtual-reality-could-change-the-music-industry/</link>
-            <guid isPermaLink="false">f2be73f0-aa23-4854-8536-b0a7075a5661</guid>
-            <pubDate>Sat, 05 Dec 2015 12:20:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
