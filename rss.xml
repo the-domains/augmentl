@@ -4,7 +4,7 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 16:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2015 10:12:15 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Feature: Can Virtual Reality escape the exclusivity trap?]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 10 Dec 2015 10:54:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Meet the Oculus Audio SDK]]></title>
+            <description><![CDATA[<article><h1>Meet the Oculus Audio SDK</h1><p>At Oculus, we're committed to providing great tools to help developers make persuasive experiences - games that make you truly forget where you are, and that bring you into other worlds. We're pleased to move our Audio SDK out of beta, and give our mobile and PC VR developers a free set of powerful tools to provide 3D audio with their games and applications.</p><img src="https://s3.amazonaws.com/static.oculus.com/website/2015/12/audio-sdk-feature.jpg"></article>]]></description>
+            <link>https://developer.oculus.com/blog/meet-the-oculus-audio-sdk/</link>
+            <guid isPermaLink="false">236d38c7-72c1-4333-abdc-3c5ad1baaee5</guid>
+            <pubDate>Fri, 11 Dec 2015 10:11:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This Floating Rubik's Cube is the World's First 3D Color Hologram - Futurism]]></title>
-            <description><![CDATA[<article><h1>This Floating Rubik's Cube is the World's First 3D Color Hologram - Futurism</h1><p>South Korean researchers claim to have created the first true 3D hologram, which can be viewed from any angle much like a real object.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec2033b87826b1390a7599eef1957d147ac86bfb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>This Floating Rubik's Cube is the World's First 3D Color Hologram - Futurism</h1><p>South Korean researchers claim to have created the first true 3D hologram, which can be viewed from any angle much like a real object.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/623ea5e11c5200708c985c04807778c45eb97280.jpg"></article>]]></description>
             <link>http://futurism.com/links/19319/</link>
             <guid isPermaLink="false">6414b9de-c279-4039-8248-ba7a720c24c4</guid>
             <pubDate>Thu, 10 Dec 2015 16:01:00 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://musonomics.org/how-virtual-reality-could-change-the-music-industry/</link>
             <guid isPermaLink="false">f2be73f0-aa23-4854-8536-b0a7075a5661</guid>
             <pubDate>Sat, 05 Dec 2015 12:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oculus and Harmonix Announce Rock Band VR - VRScout]]></title>
-            <description><![CDATA[<article><h1>Oculus and Harmonix Announce Rock Band VR - VRScout</h1><p>It looks like our virtual reality dream for rocking on a stage in front of a packed house is finally coming true. Tonight during the 2105 Game Awards, Harmonix and Oculus announced a virtual reality version of the music game Rock Band for Oculus Rift.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55fbe62cd764a09788fbcb49efc62184c386e496.png"></article>]]></description>
-            <link>http://vrscout.com/news/oculus-rift-rockband-vr-harmonix/</link>
-            <guid isPermaLink="false">ac46bbb0-1eac-485b-b344-f948a222ce8b</guid>
-            <pubDate>Fri, 04 Dec 2015 08:19:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
