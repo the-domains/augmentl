@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'As part of my demo day with GameFace Labs, I was given the opportunity to take their HTC Vive for a spin. I came away generally impressed, but also somewhat let down. '
-datePublished: '2015-11-24T08:11:37.154Z'
-dateModified: '2015-11-24T08:11:27.578Z'
+datePublished: '2015-12-14T10:03:30.776Z'
+dateModified: '2015-12-14T10:03:25.159Z'
 title: 'My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.'
 author: []
 sourcePath: _posts/2015-11-21-my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi.md
@@ -73,8 +73,6 @@ So to anyone getting the opportunity to demo new VR hardware, either at an event
 And as far as the Vive goes, well... Shut up and take my money.
 
 [@augmentl][0]
-
-null
 
 [0]: http://twitter.com/augmentl
 [1]: http://augmentl.io/hands-on-with-gameface-labs-latest-prototype/
