@@ -4,18 +4,25 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 08:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2015 08:45:29 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Feature: Can Virtual Reality escape the exclusivity trap?]]></title>
             <description><![CDATA[<article><h1>Feature: Can Virtual Reality escape the exclusivity trap?</h1><p>With the VR marketplace heating up, and as we approach the release of both the Oculus Rift and the HTC Vive, is VR at risk of repeating the decades-old cycle of content exclusivity, or will it succeed where consoles failed? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0a7b7a9f5429252ba894215792b94d8a4628f99.png"></article>]]></description>
             <link>http://augmentl.io/can-virtual-reality-escape-the-exclusivity-trap/index.html</link>
             <guid isPermaLink="false">dfe194b2-b8ca-4781-8105-05070b265031</guid>
-            <pubDate>Thu, 10 Dec 2015 10:54:46 GMT</pubDate>
+            <pubDate>Mon, 14 Dec 2015 08:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[System Shock 3 Devs Looking into Virtual Reality, Platform Choices]]></title>
+            <description><![CDATA[<article><h1>System Shock 3 Devs Looking into Virtual Reality, Platform Choices</h1><p>System Shock 3 was originally revealed by the developer Otherside Entertainment when they put up a teaser page on their website a couple of days ago. The countdown on the teaser ended and got replaced by a newsletter sign up. When you sign up for the newsletter, you are directed towards a survey relating to the game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59e166046d636e8bdc5203ecc38a0801b1469f60.jpg"></article>]]></description>
+            <link>http://segmentnext.com/2015/12/14/system-shock-3-devs-looking-into-virtual-reality-platform-choices/</link>
+            <guid isPermaLink="false">0fcb9320-3726-490d-b906-49019da2e5e9</guid>
+            <pubDate>Mon, 14 Dec 2015 08:44:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Virtual Reality Headsets, Investors Glimpse the Future]]></title>
-            <description><![CDATA[<article><h1>In Virtual Reality Headsets, Investors Glimpse the Future</h1><p>Magic Leap, a secretive company making wearable technology for mixing digital imagery with the real world, is seeking to raise $827 million. Jaunt, maker of a 3-D camera for filming virtual reality video, has nabbed a total of $100 million, including $65 million in September.</p><img src="http://static01.nyt.com/images/2015/12/14/business/14VIRTUAL/14VIRTUAL-facebookJumbo.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>In Virtual Reality Headsets, Investors Glimpse the Future</h1><p>Magic Leap, a secretive company making wearable technology for mixing digital imagery with the real world, is seeking to raise $827 million. Jaunt, maker of a 3-D camera for filming virtual reality video, has nabbed a total of $100 million, including $65 million in September.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56879c860f67309a7f98a520fec89375ea6d8a0c.jpg"></article>]]></description>
             <link>http://www.nytimes.com/2015/12/14/technology/in-virtual-reality-headsets-investors-glimpse-the-future.html</link>
             <guid isPermaLink="false">7ddd5342-ea8b-4b8a-b833-45ca50f7c4a5</guid>
             <pubDate>Mon, 14 Dec 2015 08:39:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://blog.htc.com/2015/12/htc-vive-update/</link>
             <guid isPermaLink="false">f939b167-0bfe-4b19-9c96-45fb2444990f</guid>
             <pubDate>Thu, 10 Dec 2015 10:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTC Teases #GeForceVR Vive Event and Everest VR - VRScout]]></title>
-            <description><![CDATA[<article><h1>HTC Teases #GeForceVR Vive Event and Everest VR - VRScout</h1><p>HTC and NVIDIA have teamed up to bring us a "very special" VR event December 8th in London. Although there is still no word what HTC and NVIDIA will be showcasing at the event, many are hoping they will share details about the consumer launch of the HTC Vive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e52068155bea963608d619ce89eaff30b1674973.jpg"></article>]]></description>
-            <link>http://vrscout.com/news/htc-geforcevr-vive-event-everest-vr/</link>
-            <guid isPermaLink="false">756b68f4-d3b9-4eb3-80d1-2950cc806e03</guid>
-            <pubDate>Tue, 08 Dec 2015 10:20:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
