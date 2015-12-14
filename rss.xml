@@ -4,14 +4,21 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 08:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2015 10:03:35 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.]]></title>
+            <description><![CDATA[<article><h1></h1><p>I was given the opportunity to take their HTC Vive for a spin. I was not impressed. At first. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fec597a1a7d07b9f012d1a823fa0eba0f1784ef.jpg"></article>]]></description>
+            <link>http://augmentl.io/my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi/index.html</link>
+            <guid isPermaLink="false">b78badf7-a9b1-4c71-966d-43a57bd3edd8</guid>
+            <pubDate>Mon, 14 Dec 2015 10:03:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Feature: Can Virtual Reality escape the exclusivity trap?]]></title>
-            <description><![CDATA[<article><h1>Feature: Can Virtual Reality escape the exclusivity trap?</h1><p>With the VR marketplace heating up, and as we approach the release of both the Oculus Rift and the HTC Vive, is VR at risk of repeating the decades-old cycle of content exclusivity, or will it succeed where consoles failed? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0a7b7a9f5429252ba894215792b94d8a4628f99.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Feature: Can Virtual Reality escape the exclusivity trap?</h1><p>With the VR marketplace heating up, and as we approach the release of both the Oculus Rift and the HTC Vive, is VR at risk of repeating the decades-old cycle of content exclusivity, or will it succeed where consoles failed? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41e77e1fdd966e9d1a30820e275b29934e7a396f.png"></article>]]></description>
             <link>http://augmentl.io/can-virtual-reality-escape-the-exclusivity-trap/index.html</link>
             <guid isPermaLink="false">dfe194b2-b8ca-4781-8105-05070b265031</guid>
-            <pubDate>Thu, 10 Dec 2015 10:54:46 GMT</pubDate>
+            <pubDate>Mon, 14 Dec 2015 08:45:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[System Shock 3 Devs Looking into Virtual Reality, Platform Choices]]></title>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2015/12/09/sony-wants-playstation-vr-to-push-the-limits-of-virtual-reality-gaming/</link>
             <guid isPermaLink="false">98750783-1aa2-4c17-abd5-086f90b7d3de</guid>
             <pubDate>Thu, 10 Dec 2015 10:40:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTC Vive Update]]></title>
-            <description><![CDATA[<article><h1>HTC Vive Update</h1><p>In an effort to clear up speculation and misinformation surrounding the launch of HTC Vive this month we are excited to give the community an update on the status of HTC Vive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1a38d3f882004e76e4108d340f9e3a264b8b1f0.jpg"></article>]]></description>
-            <link>http://blog.htc.com/2015/12/htc-vive-update/</link>
-            <guid isPermaLink="false">f939b167-0bfe-4b19-9c96-45fb2444990f</guid>
-            <pubDate>Thu, 10 Dec 2015 10:25:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
