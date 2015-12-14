@@ -4,7 +4,7 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 17:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2015 08:39:57 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Feature: Can Virtual Reality escape the exclusivity trap?]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 10 Dec 2015 10:54:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[In Virtual Reality Headsets, Investors Glimpse the Future]]></title>
+            <description><![CDATA[<article><h1>In Virtual Reality Headsets, Investors Glimpse the Future</h1><p>Magic Leap, a secretive company making wearable technology for mixing digital imagery with the real world, is seeking to raise $827 million. Jaunt, maker of a 3-D camera for filming virtual reality video, has nabbed a total of $100 million, including $65 million in September.</p><img src="http://static01.nyt.com/images/2015/12/14/business/14VIRTUAL/14VIRTUAL-facebookJumbo.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2015/12/14/technology/in-virtual-reality-headsets-investors-glimpse-the-future.html</link>
+            <guid isPermaLink="false">7ddd5342-ea8b-4b8a-b833-45ca50f7c4a5</guid>
+            <pubDate>Mon, 14 Dec 2015 08:39:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Creating Adrift: the space survival game that will make you love VR]]></title>
-            <description><![CDATA[<article><h1>Creating Adrift: the space survival game that will make you love VR</h1><p>Breathe and stop Adrift is a game that takes place in the ruins of a gleaming, futuristic space station, one that has you doing your best Sandra Bullock impersonation as you attempt to navigate the debris and stay alive.</p><img src="https://cdn1.vox-cdn.com/uploads/chorus_asset/file/4339345/ADR1FT_03A.0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Creating Adrift: the space survival game that will make you love VR</h1><p>Creating Adr1ft: the space survival game that will make you love VR</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9c964082b4a391c353ba1e5e8a8426a13855c03.jpg"></article>]]></description>
             <link>http://www.theverge.com/2015/12/11/9880370/adrift-virtual-reality-oculus-rift</link>
             <guid isPermaLink="false">c622c559-165f-43a5-a0b9-6df527180766</guid>
             <pubDate>Fri, 11 Dec 2015 17:09:16 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://vrscout.com/news/htc-geforcevr-vive-event-everest-vr/</link>
             <guid isPermaLink="false">756b68f4-d3b9-4eb3-80d1-2950cc806e03</guid>
             <pubDate>Tue, 08 Dec 2015 10:20:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Playstation VR Is Very Real And The Games Sony Shared Today Look Amazing]]></title>
-            <description><![CDATA[<article><h1>Playstation VR Is Very Real And The Games Sony Shared Today Look Amazing</h1><p>The Playstation VR Games Sony Announced Today Look Amazing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/425e0d4f03b3bbbbcbfde92724e335def23c6d26.png"></article>]]></description>
-            <link>http://techcrunch.com/2015/12/05/playstation-vr-is-very-real-and-the-games-sony-shared-today-look-amazing/</link>
-            <guid isPermaLink="false">5a468494-6f1f-4b2a-913b-eb5a22cd1e76</guid>
-            <pubDate>Sun, 06 Dec 2015 10:17:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
