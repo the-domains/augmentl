@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: UA-46059547-1
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Augmentl
+favicon: null
+layout_spectrum: 0.4345
+typography_spectrum: 0.50116
 collections:
   - index:
       path: /
@@ -18,24 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.4345
-title: Augmentl
+title: ɅUGMΞNTL
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: UA-46059547-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.1875
-  rhythmicContrast: 0.75
   brandColors:
     - '#ff9400'
     - '#000000'
     - '#323232'
     - '#afafaf'
     - '#ffffff'
+  brandStrength: 0.1875
   lightness: 0.6875
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
-favicon: null
-name: Augmentl
-typography_spectrum: 0.50116
