@@ -4,8 +4,15 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 17:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 17:03:55 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Giroptic Is Building The GoPro For Virtual Reality]]></title>
+            <description><![CDATA[<article><h1>Giroptic Is Building The GoPro For Virtual Reality</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1400d33c73443a74e119678ed1b1cfa918ebd35.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2015/12/15/giroptic-is-building-the-gopro-for-virtual-reality/?techcrunch</link>
+            <guid isPermaLink="false">8e754ae1-0d82-4ab4-aac0-01606f596a71</guid>
+            <pubDate>Tue, 15 Dec 2015 17:02:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Interview: Oculus' Jason Rubin Talks Virtual Reality Game Development - Tested]]></title>
             <description><![CDATA[<article><h1>Interview: Oculus' Jason Rubin Talks Virtual Reality Game Development - Tested</h1><p>Interview: Jason Rubin Talks about the First Generation of Oculus VR Games</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cd9ad7deed83dc79d161b259d9838a8e40a1991.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.nytimes.com/2015/12/14/technology/in-virtual-reality-headsets-investors-glimpse-the-future.html</link>
             <guid isPermaLink="false">7ddd5342-ea8b-4b8a-b833-45ca50f7c4a5</guid>
             <pubDate>Mon, 14 Dec 2015 08:39:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating Adrift: the space survival game that will make you love VR]]></title>
-            <description><![CDATA[<article><h1>Creating Adrift: the space survival game that will make you love VR</h1><p>Creating Adr1ft: the space survival game that will make you love VR</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9c964082b4a391c353ba1e5e8a8426a13855c03.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2015/12/11/9880370/adrift-virtual-reality-oculus-rift</link>
-            <guid isPermaLink="false">c622c559-165f-43a5-a0b9-6df527180766</guid>
-            <pubDate>Fri, 11 Dec 2015 17:09:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
