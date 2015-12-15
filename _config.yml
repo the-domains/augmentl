@@ -1,7 +1,7 @@
 name: Augmentl
 favicon: null
-layout_spectrum: 0.4345
-typography_spectrum: 0.4106
+layout_spectrum: 0.50194
+typography_spectrum: 0.62833
 collections:
   - index:
       path: /
