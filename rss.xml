@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Augmentl]]></title>
-        <description><![CDATA[Augmentl]]></description>
+        <title><![CDATA[ɅUGMΞNTL]]></title>
+        <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 08:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 13:49:36 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Virtual mountain climbing game from the people behind Far Cry and Crysis]]></title>
+            <description><![CDATA[<article><h1>Virtual mountain climbing game from the people behind Far Cry and Crysis</h1><p>I entered the demo room - a modified suite in a downtown San Francisco hotel - with a Diet Coke in hand. It was an early morning appointment, and I knew I'd need the caffeine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc577e3a19118eab5cfcb4ff95ef30846cb502dc.jpg"></article>]]></description>
+            <link>http://www.polygon.com/features/2015/12/15/10181740/the-climb-crytek-oculus-rift-virtual-reality</link>
+            <guid isPermaLink="false">03b92019-64b0-45cb-af81-cb377710f4f7</guid>
+            <pubDate>Tue, 15 Dec 2015 13:49:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[These are the VR films and experiences heading to Sundance 2016]]></title>
-            <description><![CDATA[<article><h1>These are the VR films and experiences heading to Sundance 2016</h1><p>No other film festival has shown VR as much early love as Sundance. And after last year's intriguing, experimental line-up of nine experiences, Robert Redford's film festival is now mixing up and coming pioneers with bonafide Hollywood studios in its New Frontier exhibit. Sundance, which runs from 21 - 31 January in Park City, Utah,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e8fa7ce52a519e21ca2aba3ab9986115e34ccac.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>These are the VR films and experiences heading to Sundance 2016</h1><p>No other film festival has shown VR as much early love as Sundance. And after last year's intriguing, experimental line-up of nine experiences, Robert Redford's film festival is now mixing up and coming pioneers with bonafide Hollywood studios in its New Frontier exhibit. Sundance, which runs from 21 - 31 January in Park City, Utah,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c5eea3e0d75f4d80aadcab65c1270136e796ffe.jpg"></article>]]></description>
             <link>http://www.wareable.com/vr/vr-films-experiences-sundance-2016</link>
             <guid isPermaLink="false">a1558792-c4cc-4c22-bbca-fbc11e96c6a4</guid>
             <pubDate>Tue, 15 Dec 2015 08:04:56 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://developer.oculus.com/blog/meet-the-oculus-audio-sdk/</link>
             <guid isPermaLink="false">236d38c7-72c1-4333-abdc-3c5ad1baaee5</guid>
             <pubDate>Fri, 11 Dec 2015 10:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Floating Rubik's Cube is the World's First 3D Color Hologram - Futurism]]></title>
-            <description><![CDATA[<article><h1>This Floating Rubik's Cube is the World's First 3D Color Hologram - Futurism</h1><p>South Korean researchers claim to have created the first true 3D hologram, which can be viewed from any angle much like a real object.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/623ea5e11c5200708c985c04807778c45eb97280.jpg"></article>]]></description>
-            <link>http://futurism.com/links/19319/</link>
-            <guid isPermaLink="false">6414b9de-c279-4039-8248-ba7a720c24c4</guid>
-            <pubDate>Thu, 10 Dec 2015 16:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
