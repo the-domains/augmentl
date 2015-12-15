@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 13:49:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 17:03:45 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Interview: Oculus' Jason Rubin Talks Virtual Reality Game Development - Tested]]></title>
+            <description><![CDATA[<article><h1>Interview: Oculus' Jason Rubin Talks Virtual Reality Game Development - Tested</h1><p>Interview: Jason Rubin Talks about the First Generation of Oculus VR Games</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cd9ad7deed83dc79d161b259d9838a8e40a1991.jpg"></article>]]></description>
+            <link>http://www.tested.com/tech/gaming/557428-interview-oculus-jason-rubin-talks-virtual-reality-game-development/</link>
+            <guid isPermaLink="false">a189054d-59d4-41f8-8a1b-fe533a1271a5</guid>
+            <pubDate>Tue, 15 Dec 2015 17:02:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Virtual mountain climbing game from the people behind Far Cry and Crysis]]></title>
-            <description><![CDATA[<article><h1>Virtual mountain climbing game from the people behind Far Cry and Crysis</h1><p>I entered the demo room - a modified suite in a downtown San Francisco hotel - with a Diet Coke in hand. It was an early morning appointment, and I knew I'd need the caffeine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc577e3a19118eab5cfcb4ff95ef30846cb502dc.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Virtual mountain climbing game from the people behind Far Cry and Crysis</h1><p>I entered the demo room - a modified suite in a downtown San Francisco hotel - with a Diet Coke in hand. It was an early morning appointment, and I knew I'd need the caffeine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/227e1c3033418ba2e2955ef8e8adc80a0d5b3b85.jpg"></article>]]></description>
             <link>http://www.polygon.com/features/2015/12/15/10181740/the-climb-crytek-oculus-rift-virtual-reality</link>
             <guid isPermaLink="false">03b92019-64b0-45cb-af81-cb377710f4f7</guid>
             <pubDate>Tue, 15 Dec 2015 13:49:15 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2015/12/11/9880370/adrift-virtual-reality-oculus-rift</link>
             <guid isPermaLink="false">c622c559-165f-43a5-a0b9-6df527180766</guid>
             <pubDate>Fri, 11 Dec 2015 17:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet the Oculus Audio SDK]]></title>
-            <description><![CDATA[<article><h1>Meet the Oculus Audio SDK</h1><p>At Oculus, we're committed to providing great tools to help developers make persuasive experiences - games that make you truly forget where you are, and that bring you into other worlds. We're pleased to move our Audio SDK out of beta, and give our mobile and PC VR developers a free set of powerful tools to provide 3D audio with their games and applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4263bce149f58f864f712edf1b11310937724134.jpg"></article>]]></description>
-            <link>https://developer.oculus.com/blog/meet-the-oculus-audio-sdk/</link>
-            <guid isPermaLink="false">236d38c7-72c1-4333-abdc-3c5ad1baaee5</guid>
-            <pubDate>Fri, 11 Dec 2015 10:11:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
