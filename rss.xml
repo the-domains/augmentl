@@ -4,11 +4,18 @@
         <description><![CDATA[Augmentl]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 14:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 08:00:57 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Why 'The Walking Dead' Creators Are Exploring Virtual Reality]]></title>
+            <description><![CDATA[<article><h1>Why 'The Walking Dead' Creators Are Exploring Virtual Reality</h1><p>Skybound Entertainment, the company that turned The Walking Dead into a cross-media global juggernaut, has entered the virtual reality fray with the world's first 360-degree episodic thriller. Gone, which was developed with startup Wevr and funded by Samsung for its $99 Gear VR mobile headset, introduces a mystery involving Meredith Clover's missing daughter, Emilia.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4aeebf7468e8c1969a21d768209efa01/croprotate.jpg?cropheight=713&cropwidth=1024&degrees=0&input=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2015%2F12%2Fgone.jpg%3Fquality%3D80%26w%3D1024&x=0&y=0"></article>]]></description>
+            <link>http://fortune.com/2015/12/14/skybound-virtual-reality/</link>
+            <guid isPermaLink="false">e07fffc8-5f65-4986-9996-4afc91f93979</guid>
+            <pubDate>Tue, 15 Dec 2015 08:00:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The YouTube of VR Will Take Virtual Reality Mainstream]]></title>
-            <description><![CDATA[<article><h1>The YouTube of VR Will Take Virtual Reality Mainstream</h1><p>Virtual Reality (VR) technology is going to get a serious boost in 2016 thanks to the proposed commercial availability of several instrumental devices. HTC' Vive headset is all set for an April release, Sony's PlayStation VR should debut next year, Facebook-owned Oculus Rift will be shipping in Q1 and Samsung has already released its Gear VR in the US, which might make its way to India sometime next year too.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b92b77d4a77753a067b54d329c44cff11a092668.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The YouTube of VR Will Take Virtual Reality Mainstream</h1><p>Virtual Reality (VR) technology is going to get a serious boost in 2016 thanks to the proposed commercial availability of several instrumental devices. HTC' Vive headset is all set for an April release, Sony's PlayStation VR should debut next year, Facebook-owned Oculus Rift will be shipping in Q1 and Samsung has already released its Gear VR in the US, which might make its way to India sometime next year too.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71561073206b141265f30a5a328abdcb5ac28ce7.jpg"></article>]]></description>
             <link>http://gadgets.ndtv.com/tv/opinion/the-youtube-of-vr-will-take-virtual-reality-mainstream-777649</link>
             <guid isPermaLink="false">94a20ba5-d2ff-4785-8a77-21a8361c9d33</guid>
             <pubDate>Mon, 14 Dec 2015 14:24:22 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2015/12/10/farmville-co-creator-and-ex-htc-vive-founder-form-10m-seed-fund-for-virtual-reality/</link>
             <guid isPermaLink="false">9479e931-7cb8-4bfd-aeeb-4b50fc2e71e6</guid>
             <pubDate>Thu, 10 Dec 2015 15:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MIT's Amazing New App Lets You Program Any Object]]></title>
-            <description><![CDATA[<article><h1>MIT's Amazing New App Lets You Program Any Object</h1><p>The end goal of the Internet of Things is to make every object in your life programmable. But our smart objects are still pretty dumb. They don't talk to each other, and most are only capable of doing one thing; a smart lightbulb for instance can dim and brighten but it can't tell your TV to change the channel for you.</p><img src="http://c.fastcompany.net/multisite_files/fastcompany/imagecache/620x350/poster/2015/12/3054389-poster-p-1-mits-new-app-allows-you-to-program-any-object.gif"></article>]]></description>
-            <link>http://www.fastcodesign.com/3054389/mits-amazing-new-app-lets-you-program-any-object?partner=rss</link>
-            <guid isPermaLink="false">29489bd3-5508-4278-bb9d-12e383b239c1</guid>
-            <pubDate>Thu, 10 Dec 2015 15:21:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
