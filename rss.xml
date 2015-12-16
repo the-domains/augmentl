@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 11:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2015 12:29:05 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Sequenced is the first animated interactive series for VR]]></title>
+            <description><![CDATA[<article><h1>Sequenced is the first animated interactive series for VR</h1><p>Apelab is creating the first 360-degree animated series for virtual reality, and it's coming to the Oculus Rift in 2016. Back in 2014, a prototype of the "Sequenced" project won the Best in Play Award at the Game Developers Conference. Using the head movements of the player, the storyline changed depending on where the player gazed at critical...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b5cb4cd0414c77e7d8cc492e968a181293be6f1.jpg"></article>]]></description>
+            <link>http://www.theriftarcade.com/sequenced-the-first-animated-interactive-series-on-360-for-vr/</link>
+            <guid isPermaLink="false">08feea72-23f8-4bf3-a8d9-501d38d84dff</guid>
+            <pubDate>Wed, 16 Dec 2015 12:29:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Future Of In-flight Entertainment Is Virtual Reality]]></title>
-            <description><![CDATA[<article><h1>The Future Of In-flight Entertainment Is Virtual Reality</h1><p>If you happened to have flown out of San Francisco to Seattle on Virgin America last week, or back last night, you might have noticed me. I was the guy with the big helmet on his dome, swinging his head around like a weirdo. I didn't see you, though.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12a5af6229b1adf30cccad441225b8255480a7f7.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Future Of In-flight Entertainment Is Virtual Reality</h1><p>If you happened to have flown out of San Francisco to Seattle on Virgin America last week, or back last night, you might have noticed me. I was the guy with the big helmet on his dome, swinging his head around like a weirdo. I didn't see you, though.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae3e2d0f5f3ae3c032f417718beba35a17ea5b68.jpg"></article>]]></description>
             <link>http://techcrunch.com/2015/12/15/the-future-of-in-flight-entertainment-is-virtual-reality/</link>
             <guid isPermaLink="false">628870a2-2c35-48c2-906d-d5e443fd4302</guid>
             <pubDate>Wed, 16 Dec 2015 11:40:29 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://gadgets.ndtv.com/tv/opinion/the-youtube-of-vr-will-take-virtual-reality-mainstream-777649</link>
             <guid isPermaLink="false">94a20ba5-d2ff-4785-8a77-21a8361c9d33</guid>
             <pubDate>Mon, 14 Dec 2015 14:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.]]></title>
-            <description><![CDATA[<article><h1></h1><p>I was given the opportunity to take their HTC Vive for a spin. I was not impressed. At first. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbab05dd53ba52f587c4236e60f9140b239b6b65.jpg"></article>]]></description>
-            <link>http://augmentl.io/my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi/index.html</link>
-            <guid isPermaLink="false">b78badf7-a9b1-4c71-966d-43a57bd3edd8</guid>
-            <pubDate>Mon, 14 Dec 2015 10:03:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
