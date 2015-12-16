@@ -4,8 +4,15 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 17:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2015 10:03:45 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inside the Void, a Virtual-Reality Experience in Utah That Combines Real Heat and Water with Animated Adventures | MIT Technology Review]]></title>
+            <description><![CDATA[<article><h1>Inside the Void, a Virtual-Reality Experience in Utah That Combines Real Heat and Water with Animated Adventures | MIT Technology Review</h1><p>I'm standing on a dark platform at the edge of a maze of gray walls, where two guides are helping me into my gear. They place a bulky helmet crammed with a virtual-reality headset, headphones, and gesture-recognition hardware on my head, and help me strap a modified laptop to my back.</p><img src="http://www.technologyreview.com/sites/default/files/images/v2.thevoid.3.x730.jpg"></article>]]></description>
+            <link>http://www.technologyreview.com/featuredstory/544096/inside-the-first-vr-theme-park/</link>
+            <guid isPermaLink="false">d1efccab-56bf-4edf-8cd8-d31c7f0d283f</guid>
+            <pubDate>Wed, 16 Dec 2015 10:02:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Giroptic Is Building The GoPro For Virtual Reality]]></title>
             <description><![CDATA[<article><h1>Giroptic Is Building The GoPro For Virtual Reality</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1400d33c73443a74e119678ed1b1cfa918ebd35.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://segmentnext.com/2015/12/14/system-shock-3-devs-looking-into-virtual-reality-platform-choices/</link>
             <guid isPermaLink="false">0fcb9320-3726-490d-b906-49019da2e5e9</guid>
             <pubDate>Mon, 14 Dec 2015 08:44:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Virtual Reality Headsets, Investors Glimpse the Future]]></title>
-            <description><![CDATA[<article><h1>In Virtual Reality Headsets, Investors Glimpse the Future</h1><p>Magic Leap, a secretive company making wearable technology for mixing digital imagery with the real world, is seeking to raise $827 million. Jaunt, maker of a 3-D camera for filming virtual reality video, has nabbed a total of $100 million, including $65 million in September.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56879c860f67309a7f98a520fec89375ea6d8a0c.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2015/12/14/technology/in-virtual-reality-headsets-investors-glimpse-the-future.html</link>
-            <guid isPermaLink="false">7ddd5342-ea8b-4b8a-b833-45ca50f7c4a5</guid>
-            <pubDate>Mon, 14 Dec 2015 08:39:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
