@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'As part of my demo day with GameFace Labs, I was given the opportunity to take their HTC Vive for a spin. I came away generally impressed, but also somewhat let down. '
-datePublished: '2015-12-14T10:03:30.776Z'
-dateModified: '2015-12-14T10:03:25.159Z'
+datePublished: '2015-12-17T11:39:44.275Z'
+dateModified: '2015-12-17T11:39:32.881Z'
 title: 'My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.'
 author: []
 sourcePath: _posts/2015-11-21-my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi.md
@@ -50,7 +50,7 @@ And so on. I just could not relax into just experiencing the moment. All my anti
 
 Initially, I time-shifted between "testing" the device and figuring out what the demo wanted me to do. I needed to open a drawer, but Chaperone was telling me I was about to reach a wall. That's the Ed from GameFace, detecting my helpless floundering, helpfully tipped me off that I could "extend my reach" by pressing down on the controller's touchpad. Aha! OK now I could move on.
 
-Then my left controller's trigger started acting up. Was it acting up or was I screwing up? At this point, the elusive holy grail of VR, _Immersion_, was nowhere to be seen. Both myself and those tiny technical glitches were getting in the way.
+Then my left controller's trigger started acting up. Was it acting up or was I screwing up? At this point, the elusive holy grail of VR, _Presence_, was nowhere to be seen. Both myself and those tiny technical glitches were getting in the way.
 
 But somewhere along the way, it happened. At some point between me failing to fix a broken robot and the floor opening up below me, I was _there_. My stupid brain finally bought into the illusion and I was gobsmacked. 
 
@@ -58,15 +58,15 @@ After Aperture Science I was put through TiltBrush (I wish I had talent), The Ga
 
 As I reached the end of Job Simulator, I barely caught myself dropping the controllers onto a kitchen counter that was't there. I don't think me dropping the controllers on the floor would have endeared me to the GameFace team, but that almost-oops moment did confirm one thing for me: this thing is the real deal. And I want one. Now.
 
-> It's a lot easier to experience Immersion when your brain has nothing else to deal with.
+> It's a lot easier to experience Presence when your brain has nothing else to deal with.
 > 
 > 
 
-Something else I learned in this experience is how difficult it is to engineer a set of demos targeted at immersion in VR. 
+Something else I learned in this experience is how difficult it is to engineer a set of demos directly targeted presence in VR. 
 In this I believe the Oculus team may have had an advantage last year. When I got to they the Crescent Bay prototype at 
-the first Oculus Connect, my sense of immersion was instant and total. But I believe that had as much to do with the 
+the first Oculus Connect, my sense of presence was instant and total. But I believe that had as much to do with the 
 experience being completely passive (I just had to hand there), than about any inherent qualities of the hardware I was 
-testing. It's a lot easier to experience Immersion when your brain has nothing else to deal with.
+testing. It's a lot easier to experience Presence when your brain has nothing else to deal with.
 
 So to anyone getting the opportunity to demo new VR hardware, either at an event or at a lucky friend's place, here is my advice: take a breath, look around, and relax. Let it come to you.
 
