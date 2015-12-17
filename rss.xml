@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 11:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 11:39:46 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[My Less Than Perfect Demo. Or, How I Came To Love The HTC Vive.]]></title>
+            <description><![CDATA[<article><h1></h1><p>I was given the opportunity to take their HTC Vive for a spin. I was not impressed. At first. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fec597a1a7d07b9f012d1a823fa0eba0f1784ef.jpg"></article>]]></description>
+            <link>http://augmentl.io/my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi/index.html</link>
+            <guid isPermaLink="false">b78badf7-a9b1-4c71-966d-43a57bd3edd8</guid>
+            <pubDate>Thu, 17 Dec 2015 11:39:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mozilla A-Frame: WebVR Starting With One Line of Code]]></title>
-            <description><![CDATA[<article><h1>Mozilla A-Frame: WebVR Starting With One Line of Code</h1><p>Mozilla today released A-Frame, an open source library for creating virtual reality web experiences without having to know the powerful (but complex) WebGL. Designed for web developers, A-Frame aims to make it easy to create high-performance and responsive virtual reality experiences that run right out of your browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02946c3829628c6bba3d4ab7729ba54e10e69418.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Mozilla A-Frame: WebVR Starting With One Line of Code</h1><p>Mozilla today released A-Frame, an open source library for creating virtual reality web experiences without having to know the powerful (but complex) WebGL. Designed for web developers, A-Frame aims to make it easy to create high-performance and responsive virtual reality experiences that run right out of your browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f92f57d8063132006df3dbed8bd37ab6f78a614.png"></article>]]></description>
             <link>http://www.roadtovr.com/mozilla-a-frame-webvr-virtual-reality-website-web-development/</link>
             <guid isPermaLink="false">50166753-3b2a-4928-ad39-0f9810f64e55</guid>
             <pubDate>Thu, 17 Dec 2015 11:36:54 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.technologyreview.com/featuredstory/544096/inside-the-first-vr-theme-park/</link>
             <guid isPermaLink="false">d1efccab-56bf-4edf-8cd8-d31c7f0d283f</guid>
             <pubDate>Wed, 16 Dec 2015 10:02:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Giroptic Is Building The GoPro For Virtual Reality]]></title>
-            <description><![CDATA[<article><h1>Giroptic Is Building The GoPro For Virtual Reality</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1400d33c73443a74e119678ed1b1cfa918ebd35.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2015/12/15/giroptic-is-building-the-gopro-for-virtual-reality/?techcrunch</link>
-            <guid isPermaLink="false">8e754ae1-0d82-4ab4-aac0-01606f596a71</guid>
-            <pubDate>Tue, 15 Dec 2015 17:02:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
