@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 08:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 09:26:34 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The FLYBi Drone With VR Goggles Gives You a Bird's Eye View of the World]]></title>
+            <description><![CDATA[<article><h1>The FLYBi Drone With VR Goggles Gives You a Bird's Eye View of the World</h1><p>Want a drone camera that beams images directly into your eyes? The FLYBi drone comes with a pair of virtual reality goggles, so you can get first person video from the drone. There's also a regular remote with a screen built-in, so you can learn to fly properly before you take your eyes off the controls, or one of your friends could fly the drone for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d796730e028dae0802de76dd7aca9d8ad6ad5d70.jpg"></article>]]></description>
+            <link>http://gadgets.ndtv.com/others/news/the-flybi-drone-with-vr-goggles-gives-you-a-birds-eye-view-of-the-world-779185</link>
+            <guid isPermaLink="false">e6eb45dc-2735-4897-bcd0-4fda7a513b3f</guid>
+            <pubDate>Thu, 17 Dec 2015 09:25:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mobile SDK 1.0 will be required for Gear VR apps]]></title>
-            <description><![CDATA[<article><h1>Mobile SDK 1.0 will be required for Gear VR apps</h1><p>We released version 1.0 of the Mobile SDK for Gear VR in November. The release of 1.0 marked the transition from an experimental interface to a more mature, stable API focused on maximum performance. Mobile SDK 1.0 also includes a critical improvement over previous versions: it separates most of the core VR functionality from the client application.</p><img src="https://s3.amazonaws.com/static.oculus.com/website/2015/12/gearblog1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Mobile SDK 1.0 will be required for Gear VR apps</h1><p>We released version 1.0 of the Mobile SDK for Gear VR in November. The release of 1.0 marked the transition from an experimental interface to a more mature, stable API focused on maximum performance. Mobile SDK 1.0 also includes a critical improvement over previous versions: it separates most of the core VR functionality from the client application.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f9571f7d522fbded9530f8a7c8da1255dc1ff2e.jpg"></article>]]></description>
             <link>https://developer.oculus.com/blog/mobile-sdk-1-0-will-be-required-for-gear-vr-apps/</link>
             <guid isPermaLink="false">24c80d54-a895-4152-8513-725af88f534e</guid>
             <pubDate>Thu, 17 Dec 2015 08:37:11 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.tested.com/tech/gaming/557428-interview-oculus-jason-rubin-talks-virtual-reality-game-development/</link>
             <guid isPermaLink="false">a189054d-59d4-41f8-8a1b-fe533a1271a5</guid>
             <pubDate>Tue, 15 Dec 2015 17:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virtual mountain climbing game from the people behind Far Cry and Crysis]]></title>
-            <description><![CDATA[<article><h1>Virtual mountain climbing game from the people behind Far Cry and Crysis</h1><p>I entered the demo room - a modified suite in a downtown San Francisco hotel - with a Diet Coke in hand. It was an early morning appointment, and I knew I'd need the caffeine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/227e1c3033418ba2e2955ef8e8adc80a0d5b3b85.jpg"></article>]]></description>
-            <link>http://www.polygon.com/features/2015/12/15/10181740/the-climb-crytek-oculus-rift-virtual-reality</link>
-            <guid isPermaLink="false">03b92019-64b0-45cb-af81-cb377710f4f7</guid>
-            <pubDate>Tue, 15 Dec 2015 13:49:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
