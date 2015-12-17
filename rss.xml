@@ -4,8 +4,15 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 08:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 08:19:22 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NASA Concepts Bring Precision to New Virtual Reality Experience]]></title>
+            <description><![CDATA[<article><h1>NASA Concepts Bring Precision to New Virtual Reality Experience</h1><p>NASA and MIT Space Architects Work with FUSION Media to Create Realistic Mars Virtual Reality Experience</p><img src="http://www.nasa.gov/sites/default/files/thumbnails/image/mars-surface-eva-drilling.png"></article>]]></description>
+            <link>https://www.nasa.gov/feature/nasa-concepts-bring-precision-mars-to-virtual-reality</link>
+            <guid isPermaLink="false">cf6c5241-beba-45e5-88c5-55f207283c30</guid>
+            <pubDate>Thu, 17 Dec 2015 08:18:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Japanese megapublisher Colopl announces $50M fund for virtual reality gaming]]></title>
             <description><![CDATA[<article><h1>Japanese megapublisher Colopl announces $50M fund for virtual reality gaming</h1><p>While traditional gaming powers in Japan are nearly all focused on mobile, one of the country's biggest publishers is looking toward a virtual future. Colopl, which produces dozens of hit mobile games for iOS and Android, announced today that it is starting a $50 million fund that it will use to help upstart developers working in the virtual reality space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fa84eaa10ee2a0eabe5b8818918b1de7d69fa57.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wareable.com/vr/vr-films-experiences-sundance-2016</link>
             <guid isPermaLink="false">a1558792-c4cc-4c22-bbca-fbc11e96c6a4</guid>
             <pubDate>Tue, 15 Dec 2015 08:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why 'The Walking Dead' Creators Are Exploring Virtual Reality]]></title>
-            <description><![CDATA[<article><h1>Why 'The Walking Dead' Creators Are Exploring Virtual Reality</h1><p>Skybound Entertainment, the company that turned The Walking Dead into a cross-media global juggernaut, has entered the virtual reality fray with the world's first 360-degree episodic thriller. Gone, which was developed with startup Wevr and funded by Samsung for its $99 Gear VR mobile headset, introduces a mystery involving Meredith Clover's missing daughter, Emilia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/296b95eb29aaa6a5cdc635b65e1cf65674d4749e.jpg"></article>]]></description>
-            <link>http://fortune.com/2015/12/14/skybound-virtual-reality/</link>
-            <guid isPermaLink="false">e07fffc8-5f65-4986-9996-4afc91f93979</guid>
-            <pubDate>Tue, 15 Dec 2015 08:00:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
