@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 09:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 11:36:57 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Mozilla A-Frame: WebVR Starting With One Line of Code]]></title>
+            <description><![CDATA[<article><h1>Mozilla A-Frame: WebVR Starting With One Line of Code</h1><p>Mozilla today released A-Frame, an open source library for creating virtual reality web experiences without having to know the powerful (but complex) WebGL. Designed for web developers, A-Frame aims to make it easy to create high-performance and responsive virtual reality experiences that run right out of your browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02946c3829628c6bba3d4ab7729ba54e10e69418.png"></article>]]></description>
+            <link>http://www.roadtovr.com/mozilla-a-frame-webvr-virtual-reality-website-web-development/</link>
+            <guid isPermaLink="false">50166753-3b2a-4928-ad39-0f9810f64e55</guid>
+            <pubDate>Thu, 17 Dec 2015 11:36:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The FLYBi Drone With VR Goggles Gives You a Bird's Eye View of the World]]></title>
-            <description><![CDATA[<article><h1>The FLYBi Drone With VR Goggles Gives You a Bird's Eye View of the World</h1><p>Want a drone camera that beams images directly into your eyes? The FLYBi drone comes with a pair of virtual reality goggles, so you can get first person video from the drone. There's also a regular remote with a screen built-in, so you can learn to fly properly before you take your eyes off the controls, or one of your friends could fly the drone for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d796730e028dae0802de76dd7aca9d8ad6ad5d70.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The FLYBi Drone With VR Goggles Gives You a Bird's Eye View of the World</h1><p>Want a drone camera that beams images directly into your eyes? The FLYBi drone comes with a pair of virtual reality goggles, so you can get first person video from the drone. There's also a regular remote with a screen built-in, so you can learn to fly properly before you take your eyes off the controls, or one of your friends could fly the drone for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9761ddd7054e1cc818c3e57aedf17ddd8c2a867.jpg"></article>]]></description>
             <link>http://gadgets.ndtv.com/others/news/the-flybi-drone-with-vr-goggles-gives-you-a-birds-eye-view-of-the-world-779185</link>
             <guid isPermaLink="false">e6eb45dc-2735-4897-bcd0-4fda7a513b3f</guid>
             <pubDate>Thu, 17 Dec 2015 09:25:54 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Giroptic Is Building The GoPro For Virtual Reality</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1400d33c73443a74e119678ed1b1cfa918ebd35.jpg"></article>]]></description>
             <link>http://techcrunch.com/2015/12/15/giroptic-is-building-the-gopro-for-virtual-reality/?techcrunch</link>
             <guid isPermaLink="false">8e754ae1-0d82-4ab4-aac0-01606f596a71</guid>
-            <pubDate>Tue, 15 Dec 2015 17:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview: Oculus' Jason Rubin Talks Virtual Reality Game Development - Tested]]></title>
-            <description><![CDATA[<article><h1>Interview: Oculus' Jason Rubin Talks Virtual Reality Game Development - Tested</h1><p>Interview: Jason Rubin Talks about the First Generation of Oculus VR Games</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cd9ad7deed83dc79d161b259d9838a8e40a1991.jpg"></article>]]></description>
-            <link>http://www.tested.com/tech/gaming/557428-interview-oculus-jason-rubin-talks-virtual-reality-game-development/</link>
-            <guid isPermaLink="false">a189054d-59d4-41f8-8a1b-fe533a1271a5</guid>
             <pubDate>Tue, 15 Dec 2015 17:02:55 GMT</pubDate>
         </item>
     </channel>
