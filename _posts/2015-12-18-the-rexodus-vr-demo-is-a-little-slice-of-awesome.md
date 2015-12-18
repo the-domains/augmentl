@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T21:57:00.611Z'
-dateModified: '2015-12-18T21:56:39.557Z'
+datePublished: '2015-12-18T22:01:48.297Z'
+dateModified: '2015-12-18T22:01:42.731Z'
 title: The Rexodus VR Demo is a Little Slice of Awesome
 author: []
+sourcePath: _posts/2015-12-18-the-rexodus-vr-demo-is-a-little-slice-of-awesome.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-18-the-rexodus-vr-demo-is-a-little-slice-of-awesome.md
-published: true
 url: the-rexodus-vr-demo-is-a-little-slice-of-awesome/index.html
 _type: Article
 
@@ -37,9 +37,10 @@ As it happens, that short summary is more than you actually need to know to enjo
 
 In order to avoid major spoilers I'll refrain from going into too much detail about what happens in the experience, so suffice to say that much of it consists of looking around luxuriously detailed comic-book styled surroundings while being spoken to by a succession of beautifully rendered and animated characters from the comic.
 
-Built on the Unreal engine, Rexodus VR showcases what you can achieve when you combine meticulously modeled characters with Temporal Antialiasing, 4K textures and positional audio. Even on the now ageing Oculus Rift DK2 the graphics were flawlessly smooth, bright, and vivid. So vivid in fact that the DK2's prominent and dreaded "screen door effect" was instantly forgotten. And to Steelehouse's further credit, I ran the demo on an Nvidia 780Ti and still experienced an absolutely seamless experience. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/638a3010-3c8a-47df-8150-10ab1407c321.png)
+Built on the Unreal engine, Rexodus VR showcases what you can achieve when you combine meticulously modeled characters with Temporal Antialiasing, 4K textures and positional audio. Even on the now ageing Oculus Rift DK2 the graphics were flawlessly smooth, bright, and vivid. So vivid in fact that the DK2's prominent and dreaded "screen door effect" was instantly forgotten. And to Steelehouse's further credit, I ran the demo on an Nvidia 780Ti and still experienced an absolutely seamless experience.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/638a3010-3c8a-47df-8150-10ab1407c321.png)
 
-The demo is by no means perfect of course. Its positional sound sources could be more accurately placed with relation to the on-screen dialog, and I noticed on a second run that the interaction prompts to look in one direction or another really have no effect on the progression of the experience. But  at the same time I was impressed with the level of immersion (if not quite presence) that the short experience managed to convey. 
+The demo is by no means perfect of course. Running the demo on version 0.8 of the Oculus Runtime, I had to button-mash the Xbox controller to get it to move on from an initial black screen. The demo's positional sound sources could also be more accurately placed with relation to the on-screen dialog, and I noticed on a second run that the interaction prompts to look in one direction or another really have no effect on the progression of the experience. At the same time, I was impressed with the level of immersion (if not quite presence) that the short experience managed to convey. 
 
 Taking a cue from Oculus Story Studio's upcoming VR experiences like [Henry][1], the Rexodus VR demo also serves as a good demonstration of the effectiveness of minimally interactive, character driven experiences in Virtual Reality - where simply playing the part of an observer in the middle of the action, rather than an active participant in it, can still prove both entertaining and immersive. 
 
