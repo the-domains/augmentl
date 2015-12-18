@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T22:26:29.675Z'
-dateModified: '2015-12-18T22:26:17.714Z'
+datePublished: '2015-12-18T22:35:24.118Z'
+dateModified: '2015-12-18T22:35:20.394Z'
 title: The Rexodus VR Demo is a Little Slice of Awesome
 author: []
 sourcePath: _posts/2015-12-18-the-rexodus-vr-demo-is-a-little-slice-of-awesome.md
@@ -40,9 +40,9 @@ In order to avoid major spoilers I'll refrain from going into too much detail ab
 Built on the Unreal engine, Rexodus VR showcases what you can achieve when you combine meticulously modeled characters with Temporal Antialiasing, 4K textures and positional audio. Even on the now ageing Oculus Rift DK2 the graphics were flawlessly smooth, bright, and vivid. So vivid in fact that the DK2's prominent and dreaded "screen door effect" was instantly forgotten. And to Steelehouse's further credit, I ran the demo on an Nvidia 780Ti and still experienced an absolutely seamless experience.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/638a3010-3c8a-47df-8150-10ab1407c321.png)
 
-The demo is by no means perfect of course. Running the demo on version 0.8 of the Oculus Runtime, I had to button-mash the Xbox controller to get it to move on from an initial black screen. The demo's positional sound sources could also be more accurately placed with relation to the on-screen dialog, although the small discrepancies were not enough to be distracting.
+Rexodus VR is by no means perfect: running it on version 0.8 of the Oculus Runtime, I had to button-mash the Xbox controller to get it to move on from an initial black screen. The experience's positional sound sources could also have been more accurately placed with relation to the on-screen dialog, although the small discrepancies were not enough to be distracting.
 
-I also noticed on a second run that the interaction prompts to look in one direction or another really have no effect on the progression of the experience. And yet, I was  impressed with the level of immersion (if not quite presence) that the short experience managed to convey despite a completely illusory sense of agency.
+I also happened to notice, on a second run of the experience, that the occasional interaction prompts telling me to look in one direction or another really had no effect on the progression of the experience. At the same time I couldn't help but be impressed by the level of immersion, if not quite presence, that the experience managed to convey despite this completely illusory sense of agency.
 
 The Rexodus VR demo seems to be taking a strong cue from some of the announced VR experiences from Oculus Story Studio, like [Henry][1], and in doing so serves as a good demonstration of the effectiveness of minimally interactive, character driven experiences in Virtual Reality. 
 
