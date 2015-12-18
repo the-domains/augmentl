@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-18T22:41:40.117Z'
-dateModified: '2015-12-18T22:41:31.417Z'
+description: The latest VR short by Steelehouse brings a Dark Horse comic to life.
+datePublished: '2015-12-18T22:53:18.823Z'
+dateModified: '2015-12-18T22:53:13.065Z'
 title: The Rexodus VR Demo is a Little Slice of Awesome
 author: []
 sourcePath: _posts/2015-12-18-the-rexodus-vr-demo-is-a-little-slice-of-awesome.md
