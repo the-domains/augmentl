@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T22:35:24.118Z'
-dateModified: '2015-12-18T22:35:20.394Z'
+datePublished: '2015-12-18T22:36:40.924Z'
+dateModified: '2015-12-18T22:36:34.352Z'
 title: The Rexodus VR Demo is a Little Slice of Awesome
 author: []
 sourcePath: _posts/2015-12-18-the-rexodus-vr-demo-is-a-little-slice-of-awesome.md
@@ -56,5 +56,5 @@ Keep up with more updates on everything VR on twitter at [@augmentl][3]
 
 [0]: https://share.oculus.com/app/rexodus-vr
 [1]: https://share.oculus.com/app/henry-trailer
-[2]: freeing%20the%20user%20from%20the%20cognitive%20stress%20of%20interaction%20while%20letting%20the%20mind%20just%20accept%20the%20illusion.
+[2]: http://augmentl.io/my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi/
 [3]: hjttp://twitter.com/augmentl
