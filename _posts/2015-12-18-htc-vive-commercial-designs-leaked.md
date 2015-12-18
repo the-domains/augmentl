@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: The final look and feel of the upcoming consumer release of the HTC Vive virtual reality headset have been found hiding on the HTC site.
-datePublished: '2015-12-18T08:51:50.293Z'
-dateModified: '2015-12-18T08:51:44.235Z'
-title: 'HTC Vive Design Leaks Shows Sleeker Looks, Better Ergonomics'
+datePublished: '2015-12-18T08:52:13.110Z'
+dateModified: '2015-12-18T08:52:05.653Z'
+title: 'HTC Vive Design Leak Shows Sleeker Looks, Better Ergonomics'
 author: []
 sourcePath: _posts/2015-12-18-htc-vive-commercial-designs-leaked.md
 published: true
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/338705c1-c627-4c5b-96c5-9154196efa45.jpg)
 
-# HTC Vive Design Leaks Shows Sleeker Looks, Better Ergonomics
+# HTC Vive Design Leak Shows Sleeker Looks, Better Ergonomics
 
 As the [HTC Vive Unbound][0] event in Beijing unfolds, a number of keen-eyed Reddit sleuths have started poking around the HTC Website, and finding some delicious images hiding just behind the scenes.
 
