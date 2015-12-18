@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The final look and feel of the upcoming consumer release of the HTC Vive virtual reality headset have been found hiding on the HTC site.
-datePublished: '2015-12-18T08:52:13.110Z'
-dateModified: '2015-12-18T08:52:05.653Z'
+datePublished: '2015-12-18T20:27:11.080Z'
+dateModified: '2015-12-18T20:26:52.125Z'
 title: 'HTC Vive Design Leak Shows Sleeker Looks, Better Ergonomics'
 author: []
 sourcePath: _posts/2015-12-18-htc-vive-commercial-designs-leaked.md
@@ -41,7 +41,7 @@ Overall the new HTC Vive design maintains a starkly different look from the Ocul
 
 The HTC Vive is still scheduled for pre-orders in February '16, with consumer availability in April. For developers looking to get their hands on one of the remaining 7000 developer kits, a sign-up form to indicate interest for the kit seems to also have appeared on the [HTC developer site][1].
 
-[@augmentl][2]
+You can keep an eye on updates on this story on Twitter at [@augmentl][2]
 
 [0]: http://v.csdn.hudong.com/htcvive/index.html?reload=1
 [1]: https://developer.htcvive.com/devkit
