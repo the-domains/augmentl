@@ -4,8 +4,15 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 20:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 21:57:45 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Rexodus VR Demo is a Little Slice of Awesome]]></title>
+            <description><![CDATA[<article><h1>The Rexodus VR Demo is a Little Slice of Awesome</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a78122ab78d8b4c61be2fa704cbfcf82a4889958.png"></article>]]></description>
+            <link>http://augmentl.io/the-rexodus-vr-demo-is-a-little-slice-of-awesome/index.html</link>
+            <guid isPermaLink="false">0bbe23c2-bf73-487b-a0e7-28d9f7650d8d</guid>
+            <pubDate>Fri, 18 Dec 2015 21:57:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HTC Vive to demo a 'very big' breakthrough in VR at CES]]></title>
             <description><![CDATA[<article><h1>HTC Vive to demo a 'very big' breakthrough in VR at CES</h1><p>Another big mystery surrounding HTC's next big thing is its retail price. After all, it may take some more incentive to attract a crowd towards this brand new system, especially with many simpler but very affordable alternatives now readily available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a9e447cb61b455184e4656f4b408391f77c117e.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[HTC Vive Design Leak Shows Sleeker Looks, Better Ergonomics]]></title>
-            <description><![CDATA[<article><h1>HTC Vive Design Leak Shows Sleeker Looks, Better Ergonomics</h1><p>The final look and feel of the upcoming consumer release of the HTC Vive virtual reality headset have been found hiding on the HTC site.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75bebe2f22218936a443e7001994aa4f33b70016.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>HTC Vive Design Leak Shows Sleeker Looks, Better Ergonomics</h1><p>The final look and feel of the upcoming consumer release of the HTC Vive virtual reality headset have been found hiding on the HTC site.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f7cc8ea6a9afe721d96510fcf8b106bc6b4094b.jpg"></article>]]></description>
             <link>http://augmentl.io/htc-vive-commercial-designs-leaked/index.html</link>
             <guid isPermaLink="false">572a16ec-19ef-4588-abd6-5bad4af5b3c5</guid>
             <pubDate>Fri, 18 Dec 2015 20:27:11 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2015/12/16/japanese-megapublisher-colopl-announces-50m-fund-for-virtual-reality-gaming/</link>
             <guid isPermaLink="false">4cf425c5-708c-4ff6-8bb4-d78f093e9ec3</guid>
             <pubDate>Thu, 17 Dec 2015 08:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sequenced is the first animated interactive series for VR]]></title>
-            <description><![CDATA[<article><h1>Sequenced is the first animated interactive series for VR</h1><p>Apelab is creating the first 360-degree animated series for virtual reality, and it's coming to the Oculus Rift in 2016. Back in 2014, a prototype of the "Sequenced" project won the Best in Play Award at the Game Developers Conference. Using the head movements of the player, the storyline changed depending on where the player gazed at critical...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7199eee56eb61063e820cfc520aee641f2a6aab8.jpg"></article>]]></description>
-            <link>http://www.theriftarcade.com/sequenced-the-first-animated-interactive-series-on-360-for-vr/</link>
-            <guid isPermaLink="false">08feea72-23f8-4bf3-a8d9-501d38d84dff</guid>
-            <pubDate>Wed, 16 Dec 2015 12:29:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
