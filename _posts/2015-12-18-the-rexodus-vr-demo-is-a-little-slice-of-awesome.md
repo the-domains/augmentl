@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T22:36:40.924Z'
-dateModified: '2015-12-18T22:36:34.352Z'
+datePublished: '2015-12-18T22:41:40.117Z'
+dateModified: '2015-12-18T22:41:31.417Z'
 title: The Rexodus VR Demo is a Little Slice of Awesome
 author: []
 sourcePath: _posts/2015-12-18-the-rexodus-vr-demo-is-a-little-slice-of-awesome.md
@@ -44,9 +44,9 @@ Rexodus VR is by no means perfect: running it on version 0.8 of the Oculus Runti
 
 I also happened to notice, on a second run of the experience, that the occasional interaction prompts telling me to look in one direction or another really had no effect on the progression of the experience. At the same time I couldn't help but be impressed by the level of immersion, if not quite presence, that the experience managed to convey despite this completely illusory sense of agency.
 
-The Rexodus VR demo seems to be taking a strong cue from some of the announced VR experiences from Oculus Story Studio, like [Henry][1], and in doing so serves as a good demonstration of the effectiveness of minimally interactive, character driven experiences in Virtual Reality. 
+The Rexodus VR demo seems to be taking a strong cue from Oculus Studios' upcoming VR experiences, like [Henry][1], and in doing so serves as a good demonstration of the effectiveness of minimally interactive, character driven experiences in Virtual Reality. 
 
-If anything Rexodus, like Henry and others like it, provides further evidence that experiences that let the user be an observer within the action, rather than an active participant in it, could prove highly effective in VR - freeing the user from the cognitive stresses of interaction while letting the mind [simply accept the illusion][2].
+Like Henry and others like it in fact, Rexodus VR provides further evidence that leting the user be an observer within the action, rather than an active participant in it, can prove highly effective in VR - freeing the user from the cognitive stresses of interaction while letting the mind [simply accept the illusion][2].
 
 Rexodus VR stands today as a weird, delightful hybrid of comic, game, and stage play. Whichever way Steelehouse decide to take it from here, I have a feeling it'll be worth the wait.
 
