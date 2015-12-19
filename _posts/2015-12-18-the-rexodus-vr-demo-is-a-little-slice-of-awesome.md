@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The latest VR short by Steelehouse brings a Dark Horse comic to life.
-datePublished: '2015-12-19T13:54:45.367Z'
-dateModified: '2015-12-19T13:49:22.739Z'
+datePublished: '2015-12-19T13:56:22.907Z'
+dateModified: '2015-12-19T13:55:59.515Z'
 title: The Rexodus VR Demo is a Little Slice of Awesome
 author: []
 sourcePath: _posts/2015-12-18-the-rexodus-vr-demo-is-a-little-slice-of-awesome.md
@@ -28,7 +28,7 @@ _type: Article
 
 The latest VR short by Steelehouse brings a Dark Horse comic to life.
 
-Let me start with an admission: I'd never heard of Rexodus before today. So if you happen, like me, to have missed this colourful Dark Horse comic up until now, this summary from the [**official page**][0] should help:
+Let me start with an admission: I'd never heard of Rexodus before today. So if you happen, like me, to have missed this colourful Dark Horse comic up until now, this summary from the [**official page**][0] should help.
 
 > 64.9 million years ago, the earth was ruled by dinosaurs --- a species far more advanced than their fossil record would ever reveal. Leveraging the power of lava as their primary fuel source, the dinosaurs' civilization grew unchecked for millions of years. That is, until the BLACK BLOOD ARRIVED...
 
