@@ -1,7 +1,7 @@
 name: Augmentl
 favicon: null
 layout_spectrum: 0.43643
-typography_spectrum: 0.96671
+typography_spectrum: 0.73633
 collections:
   - index:
       path: /
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ff9400'
-    - '#000000'
-    - '#323232'
     - '#afafaf'
+    - '#ff9400'
     - '#ffffff'
+    - '#323232'
+    - '#d2d2d2'
   brandStrength: 0.1875
   lightness: 0.6875
   saturation: 0
