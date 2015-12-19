@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The latest VR short by Steelehouse brings a Dark Horse comic to life.
-datePublished: '2015-12-19T13:33:11.860Z'
-dateModified: '2015-12-19T13:33:04.902Z'
+datePublished: '2015-12-19T13:37:57.750Z'
+dateModified: '2015-12-19T13:37:53.583Z'
 title: The Rexodus VR Demo is a Little Slice of Awesome
 author: []
 sourcePath: _posts/2015-12-18-the-rexodus-vr-demo-is-a-little-slice-of-awesome.md
@@ -28,11 +28,11 @@ _type: Article
 
 The latest VR short by Steelehouse brings a Dark Horse comic to life.
 
-Let me start with an admission: I'd never heard of Rexodus before today. So if you happen, like me, to have missed this colourful Dark Horse comic up until now, this summary from the official page should help:
+Let me start with an admission: I'd never heard of Rexodus before today. So if you happen, like me, to have missed this colourful Dark Horse comic up until now, this summary from the [**official page**][0] should help:
 
-> 64.9 million years ago, the earth was ruled by dinosaurs --- a species far more advanced than their fossil record would ever reveal. Leveraging the power of lava as their primary fuel source, the dinosaurs' civilization grew unchecked for millions of years. That is, until the BLACK BLOOD ARRIVED
+> 64.9 million years ago, the earth was ruled by dinosaurs --- a species far more advanced than their fossil record would ever reveal. Leveraging the power of lava as their primary fuel source, the dinosaurs' civilization grew unchecked for millions of years. That is, until the BLACK BLOOD ARRIVED...
 
-As it happens, that short summary is more than you actually need to know to enjoy the newly released [Rexodus VR][0] experience, a short demo by the creative studio Steelehouse which, while barely interactive, manages to be both a visual treat and an enticing taste of what could be.
+As it happens, that short summary is more than you actually need to know to enjoy the newly released [**Rexodus VR**][1] experience, a short demo by the creative studio Steelehouse which, while barely interactive, manages to be both a visual treat and an enticing taste of what could be.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a49c023-d254-449c-b6f3-f25950fd05bd.png)
 
 In order to avoid major spoilers I'll refrain from going into too much detail about what happens in the experience, so suffice to say that much of it consists of looking around luxuriously detailed comic-book styled surroundings while being spoken to by a succession of beautifully rendered and animated characters from the comic.
@@ -44,17 +44,18 @@ Rexodus VR is by no means perfect: running it on version 0.8 of the Oculus Runti
 
 I also happened to notice, on a second run of the experience, that the occasional interaction prompts telling me to look in one direction or another really had no effect on the progression of the experience. At the same time I couldn't help but be impressed by the level of immersion, if not quite presence, that the experience managed to convey despite this completely illusory sense of agency.
 
-The Rexodus VR demo seems to be taking a strong cue from Oculus Studios' upcoming VR experiences, like [Henry][1], and in doing so serves as a good demonstration of the effectiveness of minimally interactive, character driven experiences in Virtual Reality. 
+The Rexodus VR demo seems to be taking a strong cue from Oculus Studios' upcoming VR experiences, like [**Henry**][2], and in doing so serves as a good demonstration of the effectiveness of minimally interactive, character driven experiences in Virtual Reality. 
 
-Like Henry and others like it in fact, Rexodus VR provides further evidence that leting the user be an observer within the action, rather than an active participant in it, can prove highly effective in VR - freeing the user from the cognitive stresses of interaction while letting the mind [simply accept the illusion][2].
+Like Henry and others like it in fact, Rexodus VR provides further evidence that leting the user be an observer within the action, rather than an active participant in it, can prove highly effective in VR - freeing the user from the cognitive stresses of interaction while letting the mind [simply accept the illusion][3].
 
 Rexodus VR stands today as a weird, delightful hybrid of comic, game, and stage play. Whichever way Steelehouse decide to take it from here, I have a feeling it'll be worth the wait.
 
 Oh and one last thing: **watch out for the black blood**.
 
-Keep up with more updates on everything VR on twitter at [@augmentl][3]
+Keep up with more updates on everything VR on twitter at [**@augmentl**][4]
 
-[0]: https://share.oculus.com/app/rexodus-vr
-[1]: https://share.oculus.com/app/henry-trailer
-[2]: http://augmentl.io/my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi/
-[3]: hjttp://twitter.com/augmentl
+[0]: http://www.rexodus.com/
+[1]: https://share.oculus.com/app/rexodus-vr
+[2]: https://share.oculus.com/app/henry-trailer
+[3]: http://augmentl.io/my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi/
+[4]: hjttp://twitter.com/augmentl
