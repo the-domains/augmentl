@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 08:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 10:58:26 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The HTC Vive 'Breakthrough' could be Improved Optics, HDR]]></title>
+            <description><![CDATA[<article><h1>The HTC Vive 'Breakthrough' could be Improved Optics, HDR</h1><p>Why would HTC, who already came very close to alienating its fledgling and enthusiastic community by suddenly delaying the release of the HTC Vive virtual reality headset until April 2016, stack the deck even further against themselves by attributing the delay to a 'very big breakthrough?'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31822fc0eed54a88cddf0f31865792a52e8360ad.png"></article>]]></description>
+            <link>http://augmentl.io/the-htc-vive-breakthrough-could-be-improved-optics-hdr/index.html</link>
+            <guid isPermaLink="false">49b76306-d850-47f7-a09c-46938308075e</guid>
+            <pubDate>Mon, 21 Dec 2015 10:58:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[An Interview with Dr. Dai, the master mind behind Perception Neuron and Noitom]]></title>
-            <description><![CDATA[<article><h1>An Interview with Dr. Dai, the master mind behind Perception Neuron and Noitom</h1><p>As one of the major tech companies in the VR field of China, unlike a lot of other companies, Noitom actually delivers. They've fulfilled their promise of kickstarter, and countinue to invest in virtual reality field. They showed their finger tacking solution (as part of their product Perception Neuron) combined with the vive in yesterday's HTC Vive Unbound Developer Conference.</p><img src="http://www.vrerse.com/wp-content/uploads/2015/12/noitom-glove.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>An Interview with Dr. Dai, the master mind behind Perception Neuron and Noitom</h1><p>As one of the major tech companies in the VR field of China, unlike a lot of other companies, Noitom actually delivers. They've fulfilled their promise of kickstarter, and countinue to invest in virtual reality field. They showed their finger tacking solution (as part of their product Perception Neuron) combined with the vive in yesterday's HTC Vive Unbound Developer Conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcfdaa4b6ed11aa21fc7bede7035b088aecc2a62.jpg"></article>]]></description>
             <link>http://www.vrerse.com/techtalk/an-interview-with-dr-dai-master-mind-behind-perception-neuron-and-noitom/</link>
             <guid isPermaLink="false">2fd984b0-623d-4b76-b039-4c297d04b566</guid>
             <pubDate>Mon, 21 Dec 2015 08:39:44 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://developer.oculus.com/blog/mobile-sdk-1-0-will-be-required-for-gear-vr-apps/</link>
             <guid isPermaLink="false">24c80d54-a895-4152-8513-725af88f534e</guid>
             <pubDate>Thu, 17 Dec 2015 08:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA Concepts Bring Precision to New Virtual Reality Experience]]></title>
-            <description><![CDATA[<article><h1>NASA Concepts Bring Precision to New Virtual Reality Experience</h1><p>NASA and MIT Space Architects Work with FUSION Media to Create Realistic Mars Virtual Reality Experience</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/786052d5f1ff2268c37a308fc254dfe93b76f197.png"></article>]]></description>
-            <link>https://www.nasa.gov/feature/nasa-concepts-bring-precision-mars-to-virtual-reality</link>
-            <guid isPermaLink="false">cf6c5241-beba-45e5-88c5-55f207283c30</guid>
-            <pubDate>Thu, 17 Dec 2015 08:18:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
