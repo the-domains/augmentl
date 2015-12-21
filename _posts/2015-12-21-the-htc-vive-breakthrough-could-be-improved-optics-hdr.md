@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Why would HTC, who already came very close to alienating its fledgling and enthusiastic community by suddenly delaying the release of the HTC Vive virtual reality headset until April 2016, stack the deck even further against themselves by attributing the delay to a 'very big breakthrough?'"
-datePublished: '2015-12-21T11:23:34.569Z'
-dateModified: '2015-12-21T11:23:29.641Z'
+datePublished: '2015-12-21T11:28:30.497Z'
+dateModified: '2015-12-21T11:28:17.464Z'
 title: "The HTC Vive 'Breakthrough' could be Improved Optics, HDR"
 author: []
 sourcePath: _posts/2015-12-21-the-htc-vive-breakthrough-could-be-improved-optics-hdr.md
@@ -60,7 +60,7 @@ Controller innovations could include haptic feedback or higher precision trackin
 
 Optics are therefore a much more likely candidate. An improved lens and/or diffuser layer configuration could conceivably achieve a greater perceived resolution and/or improve the HTC Vive's Field of View. Most importantly, both optics and the screen diffuser layer (which is used to reduct the visibility of gaps between the screen's pixels) are components that could feasibly be swapped within the manufacturing process without too much fuss, as they involve no electronics.
 
-Improved optics and HDR are therefore the two prime candidates for high-impact, low-complexity manufacturing improvements for the HTC Vive. We've already seen examples of alternative optics approaches from [Wearality][8] (wide FoV Fresnel lenses) and [OSVR][9] (Dual optics modules for minimal distortion), and while it's debatable whether a refined optical solution alone would truly qualify as a "breakthrough" for the HTC Vive, it may just about pass muster if the impact to the end user is sufficiently stark. 
+Improved optics are prime candidates for high-impact, low-complexity manufacturing improvements for the HTC Vive. We've already seen examples of alternative optics approaches from [Wearality][8] (wide FoV Fresnel lenses) and [OSVR][9] (Dual optics modules for minimal distortion), and while it's debatable whether a refined optical solution alone would truly qualify as a "breakthrough" for the HTC Vive, it may just about pass muster if the impact to the end user is sufficiently stark. 
 
 A much less likely candidate is a move to a HDR screen, which while undoubtedly qualifying as a breakthrough would also bump the minimum spec of the system above that of Oculus's own solution, not to mention the unlikely availability of suitable screens for mass manufacturing.
 
