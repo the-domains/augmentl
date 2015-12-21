@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 13:57:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 08:39:47 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[An Interview with Dr. Dai, the master mind behind Perception Neuron and Noitom]]></title>
+            <description><![CDATA[<article><h1>An Interview with Dr. Dai, the master mind behind Perception Neuron and Noitom</h1><p>As one of the major tech companies in the VR field of China, unlike a lot of other companies, Noitom actually delivers. They've fulfilled their promise of kickstarter, and countinue to invest in virtual reality field. They showed their finger tacking solution (as part of their product Perception Neuron) combined with the vive in yesterday's HTC Vive Unbound Developer Conference.</p><img src="http://www.vrerse.com/wp-content/uploads/2015/12/noitom-glove.jpg"></article>]]></description>
+            <link>http://www.vrerse.com/techtalk/an-interview-with-dr-dai-master-mind-behind-perception-neuron-and-noitom/</link>
+            <guid isPermaLink="false">2fd984b0-623d-4b76-b039-4c297d04b566</guid>
+            <pubDate>Mon, 21 Dec 2015 08:39:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Rexodus VR Demo is a Little Slice of Awesome]]></title>
-            <description><![CDATA[<article><h1>The Rexodus VR Demo is a Little Slice of Awesome</h1><p>The latest VR short by Steelehouse brings a Dark Horse comic to life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a78122ab78d8b4c61be2fa704cbfcf82a4889958.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The Rexodus VR Demo is a Little Slice of Awesome</h1><p>The latest VR short by Steelehouse brings a Dark Horse comic to life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b2008d6fc255a6da3b5a658e2540465d77dcd3d.png"></article>]]></description>
             <link>http://augmentl.io/the-rexodus-vr-demo-is-a-little-slice-of-awesome/index.html</link>
             <guid isPermaLink="false">0bbe23c2-bf73-487b-a0e7-28d9f7650d8d</guid>
             <pubDate>Sat, 19 Dec 2015 13:56:22 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>NASA Concepts Bring Precision to New Virtual Reality Experience</h1><p>NASA and MIT Space Architects Work with FUSION Media to Create Realistic Mars Virtual Reality Experience</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/786052d5f1ff2268c37a308fc254dfe93b76f197.png"></article>]]></description>
             <link>https://www.nasa.gov/feature/nasa-concepts-bring-precision-mars-to-virtual-reality</link>
             <guid isPermaLink="false">cf6c5241-beba-45e5-88c5-55f207283c30</guid>
-            <pubDate>Thu, 17 Dec 2015 08:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japanese megapublisher Colopl announces $50M fund for virtual reality gaming]]></title>
-            <description><![CDATA[<article><h1>Japanese megapublisher Colopl announces $50M fund for virtual reality gaming</h1><p>While traditional gaming powers in Japan are nearly all focused on mobile, one of the country's biggest publishers is looking toward a virtual future. Colopl, which produces dozens of hit mobile games for iOS and Android, announced today that it is starting a $50 million fund that it will use to help upstart developers working in the virtual reality space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7a7d6ef6bc9f7de4fe6f8dd4379c090b6040eb4.png"></article>]]></description>
-            <link>http://venturebeat.com/2015/12/16/japanese-megapublisher-colopl-announces-50m-fund-for-virtual-reality-gaming/</link>
-            <guid isPermaLink="false">4cf425c5-708c-4ff6-8bb4-d78f093e9ec3</guid>
             <pubDate>Thu, 17 Dec 2015 08:18:46 GMT</pubDate>
         </item>
     </channel>
