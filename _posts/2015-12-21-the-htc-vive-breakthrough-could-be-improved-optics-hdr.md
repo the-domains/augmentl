@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Why would HTC, who already came very close to alienating its fledgling and enthusiastic community by suddenly delaying the release of the HTC Vive virtual reality headset until April 2016, stack the deck even further against themselves by attributing the delay to a 'very big breakthrough?'"
-datePublished: '2015-12-21T10:58:21.905Z'
-dateModified: '2015-12-21T10:57:51.924Z'
+datePublished: '2015-12-21T11:11:02.153Z'
+dateModified: '2015-12-21T11:10:56.570Z'
 title: "The HTC Vive 'Breakthrough' could be Improved Optics, HDR"
 author: []
+sourcePath: _posts/2015-12-21-the-htc-vive-breakthrough-could-be-improved-optics-hdr.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-21-the-htc-vive-breakthrough-could-be-improved-optics-hdr.md
-published: true
 url: the-htc-vive-breakthrough-could-be-improved-optics-hdr/index.html
 _type: Article
 
@@ -32,7 +32,7 @@ by Augmentl  ([@augmentl][0]), December 21st 2015\.
 
 Talk of breakthroughs in the high-tech industry is always dangerous: it ignites ceaseless speculation, which in turn raises expectations, which devolve into hype, which almost always overshadows the actual technical advancement. Anything that falls into a hype cycle therefore almost always results in disappointment.
 
-So from a PR perspective, HTC's recent claim of a ['very big breakthrough'][1] is all downside. After adamantly claiming they would be first-to-market in the VR space for almost a year, beating VR incumbents Oculus to the punch, HTC's previously announced delay in their own release date for the Vive had already put Oculus back in the potential driver's seat despite the latter's still vague release timeframe of "sometime in Q1 2016." 
+So from a PR perspective, HTC's recent claim of a delayed release date due to ['very big breakthrough'][1] is all downside. Especially so since, after threatening to beat VR incumbents Oculus to market for almost a year, HTC's recently announced delay in their own release date for the Vive had already put Oculus back in the potential driver's seat despite the latter's still vague release timeframe of "sometime in Q1 2016." 
 
 A cynical mind would therefore be tempted to speculate that HTC's talk of a breakthrough may simply be aimed at getting its community to hold off on an eventual Oculus pre-order (still loosely expected to be announced in the few days left in 2015) until finding out more about what HTC has up its sleeve.
 
