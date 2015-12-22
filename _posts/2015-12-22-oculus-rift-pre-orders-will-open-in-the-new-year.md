@@ -6,27 +6,27 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Oculus founder Palmer lucky confirms Oculus release on track, announcing pre-orders will open in the new year.'
-datePublished: '2015-12-22T20:08:48.439Z'
-dateModified: '2015-12-22T20:07:58.179Z'
+datePublished: '2015-12-22T20:13:12.979Z'
+dateModified: '2015-12-22T20:13:08.465Z'
 title: Oculus Rift Pre-Orders Will Open in The New Year
 author: []
+sourcePath: _posts/2015-12-22-oculus-rift-pre-orders-will-open-in-the-new-year.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-22-oculus-rift-pre-orders-will-open-in-the-new-year.md
-published: true
 url: oculus-rift-pre-orders-will-open-in-the-new-year/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5c3528d-d5bf-4ed3-a4e2-a53b3ad31178.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/abf7569d8c21cd5a79ee645e8ddb479d8bfb13d4.jpg)
 
 # Oculus Rift Pre-Orders Will Open in The New Year
 
-Oculus founder Palmer lucky confirms Oculus release on track, announcing pre-orders will open in the new year.
+Oculus founder Palmer lucky today confirmed that the Oculus release on track, also announcing that pre-orders will open in the new year.
 
 by Augmentl ([@augmentl][0]), December 22nd 2015\.
 
