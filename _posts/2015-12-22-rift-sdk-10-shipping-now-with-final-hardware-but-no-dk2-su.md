@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Oculus is directing developers with apps releasing in Q1 to request final Rift hardware, suggesting Oculus is on track for an imminent pre-order announcement. Support for the DK2 has also been confirmed.'
-datePublished: '2015-12-22T11:11:00.206Z'
-dateModified: '2015-12-22T11:10:50.470Z'
+datePublished: '2015-12-22T11:37:28.937Z'
+dateModified: '2015-12-22T11:37:21.578Z'
 title: "Rift SDK 1.0 Shipping Now with Final Hardware. UPDATE: \_DK2 Support Confirmed"
 author: []
 sourcePath: _posts/2015-12-22-rift-sdk-10-shipping-now-with-final-hardware-but-no-dk2-su.md
@@ -22,7 +22,7 @@ url: rift-sdk-10-shipping-now-with-final-hardware-but-no-dk2-su/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/264a323aa84cc08c7c5a6d9b234602d11a7c42a7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/78e3ea006e5e93e26f2cd29d3e917cb4175dfe60.jpg)
 
 # Rift SDK 1.0 Shipping Now with Final Hardware. UPDATE:  DK2 Support Confirmed
 
