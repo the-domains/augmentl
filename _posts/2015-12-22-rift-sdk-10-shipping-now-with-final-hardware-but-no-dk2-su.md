@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Oculus is directing developers with apps releasing in Q1 to request final Rift hardware, suggesting Oculus is on track for an imminent pre-order announcement. Support for the DK2 however has not been mentioned.'
-datePublished: '2015-12-22T08:38:00.620Z'
-dateModified: '2015-12-22T08:37:55.085Z'
+datePublished: '2015-12-22T09:45:01.682Z'
+dateModified: '2015-12-22T09:44:55.684Z'
 title: 'Rift SDK 1.0 Shipping Now with Final Hardware, But No DK2 Support Yet.'
 author: []
 sourcePath: _posts/2015-12-22-rift-sdk-10-shipping-now-with-final-hardware-but-no-dk2-su.md
@@ -38,8 +38,11 @@ Oculus has also asked developers to submit their applications via the Oculus sub
 
 It is unclear if that implies that SDK 1.0 will be dropping DK2 compatibility, as that would hamper and alienate Oculus's current developer and enthusiast community. It's more likely that SDK 1.0 will be released more broadly in the next few weeks following an official announcement of the Rift's commercial release date.
 
-Today's communication does confirm that Oculus is on track for a Q1 '16 release, and is making sure developers planning a launch timeframe release of their applications have access to final commercial hardware. If Oculus are true to their earlier goal of announcing availability fo the Rift before the end of 2015, we should expect pre-orders to be announced in the next few days. 
+Nvidia has also released a [new set of drivers][1] with support for GameWorksVR SLI and the latest Oculus Rift SDK. 
+
+Today's communication does confirm that Oculus is on track for a Q1 '16 release, and is making sure developers planning a simultaneous release of their applications have access to final commercial hardware. If Oculus are true to their earlier goal of announcing availability for the Rift before the end of 2015, we should expect pre-orders to be announced in the next few days. 
 
 For more developments on this story follow us on twitter at [@augmentl][0].
 
 [0]: http://twitter.com/augmentl
+[1]: http://www.geforce.co.uk/drivers/results/97063
