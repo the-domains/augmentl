@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "While much of the focus on Virtual Reality has been on creating first-person experiences and 3rd person platformers, there's another genre to which VR has the potential to be bring new life: The classic 90's point and click adventure."
-datePublished: '2015-12-22T15:54:12.560Z'
-dateModified: '2015-12-22T15:54:07.753Z'
+datePublished: '2015-12-22T18:06:52.189Z'
+dateModified: '2015-12-22T18:06:47.428Z'
 title: 'Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game'
 author: []
 sourcePath: _posts/2015-12-22-immersed-in-nostalgia-how-virtual-reality-can-revive-the-po.md
@@ -44,7 +44,7 @@ It's easy to imagine a couple of ways the classic point and click adventure game
 
 **The First Person Adventure:** exemplified by games such as [Gone Home][9] and the upcoming [Loading Human][10], the latter of which is made specifically for VR, these games put the player directly in the scene and provide them with the ability to directly manipulate and explore objects and their immediate environment.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b9387c0-81dc-4faa-8fb8-9ab5fa095100.jpg)
 
-This is the more obvious choice for a VR take on the adventure game, but misses some of the key aspects of the original genre insofar as it denies the player the ability to guide and observe a protagonist character whose reactions to their environment and the player's own commands can be a great source of entertainment. Half the fun of playing the Monkey Island, series for instance, was watching how the protagonist, the wannabe pirate Guybrush Threepwood, reacted to and quipped about his situation.
+This is the more obvious choice for a VR take on the adventure game, but misses some of the key aspects of the original genre insofar as it denies the player the ability to guide and observe a protagonist character whose reactions to their environment and the player's own commands can be a great source of entertainment. Half the fun of playing the Monkey Island series, for instance, was watching Guybrush Threepwood, series protagonist and wannabe pirate, reacting to and quipping about his often dismal situation.
 
 **The Third Person Adventure**: OK, so what if instead of making the player the protagonist we make him the observer in an otherwise immersive environment? By virtually placing the player over a protagonist character's shoulder, or at least in their proximity, we regain the value of observing their reactions and they can once more be a vehicle for the game's writing and story. And as the protagonist moves around the environment, the player does too.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0cf1e07-3d03-45d2-ac44-bfe9ee388441.jpg)
