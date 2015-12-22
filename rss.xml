@@ -4,18 +4,25 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 11:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 15:28:33 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Rift SDK 1.0 Shipping Now with Final Hardware. UPDATE:  DK2 Support Confirmed]]></title>
-            <description><![CDATA[<article><h1>Rift SDK 1.0 Shipping Now with Final Hardware. UPDATE:  DK2 Support Confirmed</h1><p>Oculus is directing developers with apps releasing in Q1 to request final Rift hardware, suggesting Oculus is on track for an imminent pre-order announcement. Support for the DK2 has been confirmed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e34e8dbf76775ee1c234eb7b226343428d41a63f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Rift SDK 1.0 Shipping Now with Final Hardware. UPDATE:  DK2 Support Confirmed</h1><p>Oculus is directing developers with apps releasing in Q1 to request final Rift hardware, suggesting Oculus is on track for an imminent pre-order announcement. Support for the DK2 has been confirmed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9e6f909153882a5650ff279271f7c503f5184a3.jpg"></article>]]></description>
             <link>http://augmentl.io/rift-sdk-10-shipping-now-with-final-hardware-but-no-dk2-su/index.html</link>
             <guid isPermaLink="false">0de1b4f3-411f-465a-a275-bb5703b304fc</guid>
-            <pubDate>Tue, 22 Dec 2015 11:11:00 GMT</pubDate>
+            <pubDate>Tue, 22 Dec 2015 11:37:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game]]></title>
+            <description><![CDATA[<article><h1>Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game</h1><p>While much of the focus on Virtual Reality has been on creating first-person experiences and 3rd person platformers, there's another genre to which VR has the potential to be bring new life: The classic 90's point and click adventure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cdffceaefe6924623f2158922edb31587ce341e.jpg"></article>]]></description>
+            <link>http://augmentl.io/immersed-in-nostalgia-how-virtual-reality-can-revive-the-po/index.html</link>
+            <guid isPermaLink="false">4309168a-4128-4e23-ad0d-05df4bb47894</guid>
+            <pubDate>Tue, 22 Dec 2015 15:28:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Using Magnets to Track Your Fingers in Virtual Reality | MIT Technology Review]]></title>
-            <description><![CDATA[<article><h1>Using Magnets to Track Your Fingers in Virtual Reality | MIT Technology Review</h1><p>Each finger gets its own electromagnet so Finexus can track its position in 3-D. A research project may hint at how Facebook's Oculus device will let you explore virtual reality someday: by using a bunch of electromagnets and sensors to track the motions of your individual fingers in three dimensions.</p><img src="http://www.technologyreview.com/sites/default/files/images/vr.fingertipsx519.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Using Magnets to Track Your Fingers in Virtual Reality | MIT Technology Review</h1><p>Each finger gets its own electromagnet so Finexus can track its position in 3-D. A research project may hint at how Facebook's Oculus device will let you explore virtual reality someday: by using a bunch of electromagnets and sensors to track the motions of your individual fingers in three dimensions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e48da8a087ed425f1a40b1da73904dfcad4afcb2.jpg"></article>]]></description>
             <link>http://www.technologyreview.com/news/544946/in-the-future-magnets-may-track-your-fingers-in-virtual-reality/</link>
             <guid isPermaLink="false">e8f18802-7d3a-4699-ae2b-0acb46492270</guid>
             <pubDate>Tue, 22 Dec 2015 11:10:42 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/my-less-than-perfect-demo-or-how-i-came-to-love-the-htc-vi/index.html</link>
             <guid isPermaLink="false">b78badf7-a9b1-4c71-966d-43a57bd3edd8</guid>
             <pubDate>Thu, 17 Dec 2015 11:39:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mozilla A-Frame: WebVR Starting With One Line of Code]]></title>
-            <description><![CDATA[<article><h1>Mozilla A-Frame: WebVR Starting With One Line of Code</h1><p>Mozilla today released A-Frame, an open source library for creating virtual reality web experiences without having to know the powerful (but complex) WebGL. Designed for web developers, A-Frame aims to make it easy to create high-performance and responsive virtual reality experiences that run right out of your browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f92f57d8063132006df3dbed8bd37ab6f78a614.png"></article>]]></description>
-            <link>http://www.roadtovr.com/mozilla-a-frame-webvr-virtual-reality-website-web-development/</link>
-            <guid isPermaLink="false">50166753-3b2a-4928-ad39-0f9810f64e55</guid>
-            <pubDate>Thu, 17 Dec 2015 11:36:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
