@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "While much of the focus on Virtual Reality has been on creating first-person experiences and 3rd person platformers, there's another genre to which VR has the potential to be bring new life: The classic 90's point and click adventure."
-datePublished: '2015-12-22T15:35:46.582Z'
-dateModified: '2015-12-22T15:35:41.953Z'
+datePublished: '2015-12-22T15:40:39.192Z'
+dateModified: '2015-12-22T15:40:35.660Z'
 title: 'Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game'
 author: []
 sourcePath: _posts/2015-12-22-immersed-in-nostalgia-how-virtual-reality-can-revive-the-po.md
@@ -22,7 +22,7 @@ url: immersed-in-nostalgia-how-virtual-reality-can-revive-the-po/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59550395-0e4f-467e-9815-dfc8d64525f3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4d70069-c79c-4cc5-8aec-5bb4b004f998.gif)
 
 # Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game
 
