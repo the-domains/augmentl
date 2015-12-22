@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 10:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 11:11:13 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Using Magnets to Track Your Fingers in Virtual Reality | MIT Technology Review]]></title>
+            <description><![CDATA[<article><h1>Using Magnets to Track Your Fingers in Virtual Reality | MIT Technology Review</h1><p>Each finger gets its own electromagnet so Finexus can track its position in 3-D. A research project may hint at how Facebook's Oculus device will let you explore virtual reality someday: by using a bunch of electromagnets and sensors to track the motions of your individual fingers in three dimensions.</p><img src="http://www.technologyreview.com/sites/default/files/images/vr.fingertipsx519.jpg"></article>]]></description>
+            <link>http://www.technologyreview.com/news/544946/in-the-future-magnets-may-track-your-fingers-in-virtual-reality/</link>
+            <guid isPermaLink="false">e8f18802-7d3a-4699-ae2b-0acb46492270</guid>
+            <pubDate>Tue, 22 Dec 2015 11:10:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rift SDK 1.0 Shipping Now with Final Hardware. UPDATE:  DK2 Support Confirmed]]></title>
-            <description><![CDATA[<article><h1>Rift SDK 1.0 Shipping Now with Final Hardware. UPDATE:  DK2 Support Confirmed</h1><p>Oculus is directing developers with apps releasing in Q1 to request final Rift hardware, suggesting Oculus is on track for an imminent pre-order announcement. Support for the DK2 has been confirmed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/575a3c93bd355d379339ecccd832e7bf701c6270.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Rift SDK 1.0 Shipping Now with Final Hardware. UPDATE:  DK2 Support Confirmed</h1><p>Oculus is directing developers with apps releasing in Q1 to request final Rift hardware, suggesting Oculus is on track for an imminent pre-order announcement. Support for the DK2 has been confirmed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e34e8dbf76775ee1c234eb7b226343428d41a63f.jpg"></article>]]></description>
             <link>http://augmentl.io/rift-sdk-10-shipping-now-with-final-hardware-but-no-dk2-su/index.html</link>
             <guid isPermaLink="false">0de1b4f3-411f-465a-a275-bb5703b304fc</guid>
             <pubDate>Tue, 22 Dec 2015 10:08:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.roadtovr.com/mozilla-a-frame-webvr-virtual-reality-website-web-development/</link>
             <guid isPermaLink="false">50166753-3b2a-4928-ad39-0f9810f64e55</guid>
             <pubDate>Thu, 17 Dec 2015 11:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The FLYBi Drone With VR Goggles Gives You a Bird's Eye View of the World]]></title>
-            <description><![CDATA[<article><h1>The FLYBi Drone With VR Goggles Gives You a Bird's Eye View of the World</h1><p>Want a drone camera that beams images directly into your eyes? The FLYBi drone comes with a pair of virtual reality goggles, so you can get first person video from the drone. There's also a regular remote with a screen built-in, so you can learn to fly properly before you take your eyes off the controls, or one of your friends could fly the drone for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9761ddd7054e1cc818c3e57aedf17ddd8c2a867.jpg"></article>]]></description>
-            <link>http://gadgets.ndtv.com/others/news/the-flybi-drone-with-vr-goggles-gives-you-a-birds-eye-view-of-the-world-779185</link>
-            <guid isPermaLink="false">e6eb45dc-2735-4897-bcd0-4fda7a513b3f</guid>
-            <pubDate>Thu, 17 Dec 2015 09:25:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
