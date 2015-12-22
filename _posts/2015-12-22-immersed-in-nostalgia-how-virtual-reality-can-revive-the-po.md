@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "While much of the focus on Virtual Reality has been on creating first-person experiences and 3rd person platformers, there's another genre to which VR has the potential to be bring new life: The classic 90's point and click adventure."
-datePublished: '2015-12-22T15:31:17.033Z'
-dateModified: '2015-12-22T15:31:14.476Z'
+datePublished: '2015-12-22T15:32:50.326Z'
+dateModified: '2015-12-22T15:32:42.129Z'
 title: 'Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game'
 author: []
 sourcePath: _posts/2015-12-22-immersed-in-nostalgia-how-virtual-reality-can-revive-the-po.md
@@ -40,21 +40,20 @@ The point and click genre has certainly remained alive through the years, but ne
 If you know where to look you can still find the point and click genre being extremely well represented today, in its original pixel-art form, by indie titles like [Wadjet Eye Games][1]' [Resonance][2], [Gemini Rue][3] and [Technobabylon][4].  The classic story driven adventure has also seen a resurgence in popularity, albeit in a more updated format, thanks to [Telltale Games][5]' popular [Walking Dead][6], [The Wolf Among Us][7], and [Game of Thrones][8] franchises. 
 
 With the advent of Virtual Reality, and the new control modalities introduced by the Oculus Touch and the HTC Vive,  there's now a great opportunity to bring the point-and click adventure back, in a new form combining the best aspects of the original genre (artful dialogue, great writing, compelling protagonists) with the immersive stages and intuitive controls that can only be achieved in VR.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b9387c0-81dc-4faa-8fb8-9ab5fa095100.jpg)
 
 It's easy to imagine a couple of ways the classic point and click adventure game could work in VR:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b9387c0-81dc-4faa-8fb8-9ab5fa095100.jpg)
 
 **The First Person Adventure:** exemplified by games such as [Gone Home][9] and the upcoming [Loading Human][10], the latter of which is made specifically for VR, these games put the player directly in the scene and provide them with the ability to directly manipulate and explore objects and their immediate environment.  
 
 This is the more obvious choice for a VR take on the adventure game, but misses some of the key aspects of the original genre insofar as it denies the player the ability to guide and observe a protagonist character whose reactions to their environment and the player's own commands can be a great source of entertainment. Half the fun of playing the Monkey Island, series for instance, was watching how the protagonist, the wannabe pirate Guybrush Threepwood, reacted to and quipped about his situation.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0cf1e07-3d03-45d2-ac44-bfe9ee388441.jpg)
 
 **The Third Person Adventure**: OK, so what if instead of making the player the protagonist we make him the observer in an otherwise immersive environment? By virtually placing the player over a protagonist character's shoulder, or at least in their proximity, we regain the value of observing their reactions and they can once more be a vehicle for the game's writing and story. And as the protagonist moves around the environment, the player does too.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0cf1e07-3d03-45d2-ac44-bfe9ee388441.jpg)
 
 By being inside the environment with the protagonist however, and depending on how close we, the player, are placed in relation to our them, however, we could miss out on the "big picture" of the environment around us, limiting the amount and complexity of some of the stage-spanning puzzles that could be implemented if we had a broader view.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef8f6d12-1025-4804-9807-0e7ba8bdd2d9.jpg)
 
-**The Stage Play Adventure**: Combining the broad perspective of  classic 3rd person view with the ability to look into and around the environment surrounding the protagonist character, this treatment puts the player in a fixed position on the edge of the "stage" where the action is taking place. 
+**The Stage Play Adventure**: Combining the broad perspective of  classic 3rd person view with the ability to look into and around the environment surrounding the protagonist character, this treatment puts the player in a fixed position on the edge of the "stage" where the action is taking place. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef8f6d12-1025-4804-9807-0e7ba8bdd2d9.jpg)
 
 With a fixed position and no movement control, the player can then focus on observing, and directing, the interplay between character and environment, interacting with puzzles both micro (involving objects in the player's immediate vicinity) and macro (involving objects across the entire stage). This perspective is also, on a visual level, the closest analog to the traditional 2D adventure game.
 
