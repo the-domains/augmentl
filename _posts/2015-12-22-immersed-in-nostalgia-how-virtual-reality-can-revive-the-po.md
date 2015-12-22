@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "While much of the focus on Virtual Reality has been on creating first-person experiences and 3rd person platformers, there's another genre to which VR has the potential to be bring new life: The classic 90's point and click adventure."
-datePublished: '2015-12-22T15:28:19.315Z'
-dateModified: '2015-12-22T15:27:37.224Z'
+datePublished: '2015-12-22T15:31:17.033Z'
+dateModified: '2015-12-22T15:31:14.476Z'
 title: 'Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game'
 author: []
+sourcePath: _posts/2015-12-22-immersed-in-nostalgia-how-virtual-reality-can-revive-the-po.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-22-immersed-in-nostalgia-how-virtual-reality-can-revive-the-po.md
-published: true
 url: immersed-in-nostalgia-how-virtual-reality-can-revive-the-po/index.html
 _type: Article
 
@@ -58,7 +58,7 @@ By being inside the environment with the protagonist however, and depending on h
 
 With a fixed position and no movement control, the player can then focus on observing, and directing, the interplay between character and environment, interacting with puzzles both micro (involving objects in the player's immediate vicinity) and macro (involving objects across the entire stage). This perspective is also, on a visual level, the closest analog to the traditional 2D adventure game.
 
-Whichever of the above modalities or combinations thereof developers choose to explore, there is enormous potential for Virtual Reality to bring new life to a genre that focuses less on action and thrills, and more on writing, character and puzzle solving. VR has also shown great promise in being able to greatly amplify the impact of interactions with well-designed characters, and few genres have traditionally put as much weight on character personality as the old point and click adventures. 
+Whichever of the above modalities or combinations thereof developers choose to explore, there is enormous potential for Virtual Reality to bring new life to a genre that focuses less on action and thrills, and more on writing, character and puzzle solving. VR has also shown great promise in being able to greatly amplify the impact of [interactions with well-designed characters][11], and few genres have traditionally put as much weight on character personality as the old point and click adventures. 
 
 In a medium already threatening to be dominated by fast-paced cockpit games, terrifying horror experiences and thrill-seeking virtual rides, a little story-driven puzzle-solving in the company of a well-crafted protagonist might be a great change of pace.
 
@@ -75,3 +75,4 @@ Do you have some thoughts on classic adventure gaming in VR? Come chat to us on 
 [8]: https://www.telltalegames.com/gameofthrones/
 [9]: https://en.wikipedia.org/wiki/Gone_Home
 [10]: http://loadinghuman.com/
+[11]: https://www.oculus.com/en-us/blog/introducing-henry-from-oculus-story-studio/
