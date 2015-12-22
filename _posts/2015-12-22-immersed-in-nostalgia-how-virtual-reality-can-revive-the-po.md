@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "While much of the focus on Virtual Reality has been on creating first-person experiences and 3rd person platformers, there's another genre to which VR has the potential to be bring new life: The classic 90's point and click adventure."
-datePublished: '2015-12-22T15:32:50.326Z'
-dateModified: '2015-12-22T15:32:42.129Z'
+datePublished: '2015-12-22T15:35:46.582Z'
+dateModified: '2015-12-22T15:35:41.953Z'
 title: 'Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game'
 author: []
 sourcePath: _posts/2015-12-22-immersed-in-nostalgia-how-virtual-reality-can-revive-the-po.md
@@ -42,9 +42,8 @@ If you know where to look you can still find the point and click genre being ext
 With the advent of Virtual Reality, and the new control modalities introduced by the Oculus Touch and the HTC Vive,  there's now a great opportunity to bring the point-and click adventure back, in a new form combining the best aspects of the original genre (artful dialogue, great writing, compelling protagonists) with the immersive stages and intuitive controls that can only be achieved in VR.
 
 It's easy to imagine a couple of ways the classic point and click adventure game could work in VR:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b9387c0-81dc-4faa-8fb8-9ab5fa095100.jpg)
 
-**The First Person Adventure:** exemplified by games such as [Gone Home][9] and the upcoming [Loading Human][10], the latter of which is made specifically for VR, these games put the player directly in the scene and provide them with the ability to directly manipulate and explore objects and their immediate environment.  
+**The First Person Adventure:** exemplified by games such as [Gone Home][9] and the upcoming [Loading Human][10], the latter of which is made specifically for VR, these games put the player directly in the scene and provide them with the ability to directly manipulate and explore objects and their immediate environment.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b9387c0-81dc-4faa-8fb8-9ab5fa095100.jpg)
 
 This is the more obvious choice for a VR take on the adventure game, but misses some of the key aspects of the original genre insofar as it denies the player the ability to guide and observe a protagonist character whose reactions to their environment and the player's own commands can be a great source of entertainment. Half the fun of playing the Monkey Island, series for instance, was watching how the protagonist, the wannabe pirate Guybrush Threepwood, reacted to and quipped about his situation.
 
