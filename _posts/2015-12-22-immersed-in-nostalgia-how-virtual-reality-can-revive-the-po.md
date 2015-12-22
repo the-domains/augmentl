@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "While much of the focus on Virtual Reality has been on creating first-person experiences and 3rd person platformers, there's another genre to which VR has the potential to be bring new life: The classic 90's point and click adventure."
-datePublished: '2015-12-22T15:40:39.192Z'
-dateModified: '2015-12-22T15:40:35.660Z'
+datePublished: '2015-12-22T15:46:27.374Z'
+dateModified: '2015-12-22T15:46:22.298Z'
 title: 'Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game'
 author: []
 sourcePath: _posts/2015-12-22-immersed-in-nostalgia-how-virtual-reality-can-revive-the-po.md
@@ -22,7 +22,7 @@ url: immersed-in-nostalgia-how-virtual-reality-can-revive-the-po/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4d70069-c79c-4cc5-8aec-5bb4b004f998.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f375f14-2d1d-40b6-87bf-22f528af83ba.jpg)
 
 # Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game
 
@@ -33,7 +33,6 @@ by Augmentl ([@augmentl][0]), December 22nd 2015\.
 Maniac Mansion. Monkey Island. Day of the Tentacle. Space Quest. Anyone alive and of gaming age during the mid 80's to the mid 90's stands a good chance of experiencing a twinge of nostalgia just hearing those words. 
 
 That was a period that witnessed the brief, yet bright heyday of one of gaming's most ephemeral genres, a phenomenon that dominated the gaming charts for a few short years, produced some of gaming's most brilliant writing, and vanished just as quickly in the face of a the post-Doom-era deluge of 3D First Person Shooters. That phenomenon, then led by the gaming behemoths Lucasarts and Sierra, was the gaming genre generally known as the "point and click adventure."
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f375f14-2d1d-40b6-87bf-22f528af83ba.jpg)
 
 The point and click genre has certainly remained alive through the years, but never regained the chart-dominating heights of its golden age. It saw its dominant franchises wane through increasingly contrived sequels (King's Quest, Police Quest), and even struggled to stay relevant by adopting elements of 3D graphics - sometimes successfully (Grim Fandango), but more often less so (Monkey Island).
 
