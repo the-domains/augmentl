@@ -1,5 +1,8 @@
+name: Augmentl
+favicon: null
+layout_spectrum: 0.36693
+typography_spectrum: 0.672043
 title: ɅUGMΞNTL
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-46059547-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.1875
-  rhythmicContrast: 0.75
   brandColors:
     - '#afafaf'
     - '#ff9400'
     - '#ffffff'
     - '#323232'
     - '#d2d2d2'
+  brandStrength: 0.1875
   lightness: 0.6875
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-46059547-1
-  facebook: null
-name: Augmentl
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.672043
-layout_spectrum: 0.43643
+  saturation: 0
+  rhythmicContrast: 0.75
+purpose: []
