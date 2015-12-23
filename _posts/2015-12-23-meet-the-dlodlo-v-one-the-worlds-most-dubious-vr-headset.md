@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Seemingly out of nowhere, a company from China is advertising a revolutionary VR headset which looks like a pair of sunglasses, sports a quad core CPU, and has performance characteristics that would challenge an Oculus Rift. Could the Dlodlo V One be a stealthy revolution in VR, or are we looking at a scam? '
-datePublished: '2015-12-23T16:44:16.671Z'
-dateModified: '2015-12-23T16:44:08.265Z'
+datePublished: '2015-12-23T16:52:47.948Z'
+dateModified: '2015-12-23T16:52:43.895Z'
 title: "Meet The Dlodlo V One, The World's Most Dubious VR Headset"
 author: []
+sourcePath: _posts/2015-12-23-meet-the-dlodlo-v-one-the-worlds-most-dubious-vr-headset.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-23-meet-the-dlodlo-v-one-the-worlds-most-dubious-vr-headset.md
-published: true
 url: meet-the-dlodlo-v-one-the-worlds-most-dubious-vr-headset/index.html
 _type: Article
 
@@ -35,8 +35,9 @@ by Augmentl ([@augmentl][0]), December 23rd 2015\.
 In broken English, the Dlodlo site promises "_The World's first Portable VR Glass_," a pair of sleek glasses (sporting "_science fiction fashion aesthetic_," no less) which connects to a magic box in your pocket sporting a quad-core, Ultra-Octa 6G 64-bit processor with an integrated PowerVR  G6230 GPU. The V One also sports a 9-axis gyro, something called a ThinVR display, and the usual array of wireless and HDMI connectivity one would expect of a device dedicated to watching movies on the go. 
 
 Nothing too unusual or unfeasible there. A quick Google search of the V One's components suggests the CPU is most likely an [Allwinner A80][3], a relatively low-cost ARM Cortex A15 part used in set top boxes and things like the [Cubie][4] single board computer. It runs Android and, by extension, Dlodlo's DLOS VR ROM custom operating system which is based on Android 5.0\.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff741839-5aea-4263-8b2b-90a170828c84.png)
 
-The Allwinner A80's integrated PowerVR G6230 GPU is in fact capable of pushing resolutions of up to 2560x1600 at 60fps, (sadly below the V One's claimed refresh rate of 90Hz), and can handle both OpenGL ES 3.0 as well as DX 9\.  Not too shabby, but hardly pushing the GearVR's SnapDragon 810 or Exynos mobile processor configurations. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff741839-5aea-4263-8b2b-90a170828c84.png)
+The Allwinner A80's integrated PowerVR G6230 GPU is in fact capable of pushing resolutions of up to 2560x1600 at 60fps, (sadly below the V One's claimed refresh rate of 90Hz), and can handle both OpenGL ES 3.0 as well as DX 9\.  Not too shabby, but hardly pushing the GearVR's SnapDragon 810 or Exynos mobile processor configurations. 
 
 But this is where things get weird. Supposedly the V One operates at a screen resolution of 2560x1024, with a staggering pixel density of 1600PPI, which according to a good old [PPI Calculator][5] would suggest the use of 1.7 inch micro displays. This in itself is not unusual, as we've seen these micro displays in use in a good number of "old school" HMD's from the [ST-1080][6] to the [ODG R7][7]. 
 
