@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Seemingly out of nowhere, a company from China is advertising a revolutionary VR headset which looks like a pair of sunglasses, sports a quad core CPU, and has performance characteristics that would challenge an Oculus Rift. Could the Dlodlo V One be a stealthy revolution in VR, or are we looking at a scam? '
-datePublished: '2015-12-23T16:52:47.948Z'
-dateModified: '2015-12-23T16:52:43.895Z'
+datePublished: '2015-12-29T23:37:01.620Z'
+dateModified: '2015-12-29T23:36:54.679Z'
 title: "Meet The Dlodlo V One, The World's Most Dubious VR Headset"
 author: []
 sourcePath: _posts/2015-12-23-meet-the-dlodlo-v-one-the-worlds-most-dubious-vr-headset.md
