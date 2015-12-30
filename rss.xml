@@ -4,8 +4,15 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 23:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 13:35:31 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Being There: A New ArchViz Demo With A Twist]]></title>
+            <description><![CDATA[<article><h1>Being There: A New ArchViz Demo With A Twist</h1><p>VR is perfect for the visualization of beautiful architecture. But what if there's more to it than just exploring a space?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/987c82363d360da029ad9684faa14a127d1de487.png"></article>]]></description>
+            <link>http://augmentl.io/being-there-a-new-archviz-demo-with-a-twist/index.html</link>
+            <guid isPermaLink="false">bff2f909-3d4c-42e4-8729-90e0fe06b48a</guid>
+            <pubDate>Wed, 30 Dec 2015 13:34:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Four Key Things to Keep an Eye On in Virtual Reality in 2016 | MIT Technology Review]]></title>
             <description><![CDATA[<article><h1>Four Key Things to Keep an Eye On in Virtual Reality in 2016 | MIT Technology Review</h1><p>Virtual reality has grown immensely over the past few years, but 2016 looks like the most important year yet: it will be the first time that consumers can get their hands on a number of powerful headsets for viewing alternate realities in immersive 3-D.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11a63f40b2b43348a72e9ccff90cc7f2ff7c38ba.jpg"></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game]]></title>
-            <description><![CDATA[<article><h1>Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game</h1><p>While much of the focus on Virtual Reality has been on creating first-person experiences and 3rd person platformers, there's another genre to which VR has the potential to be bring new life: The classic 90's point and click adventure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6070a4f5a6dd6b319ed3a81ff54bbab547fc9ed3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game</h1><p>While much of the focus on Virtual Reality has been on creating first-person experiences and 3rd person platformers, there's another genre to which VR has the potential to be bring new life: The classic 90's point and click adventure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3eb68966acc19f1c31c09d6c67028172896c16e6.jpg"></article>]]></description>
             <link>http://augmentl.io/immersed-in-nostalgia-how-virtual-reality-can-revive-the-po/index.html</link>
             <guid isPermaLink="false">4309168a-4128-4e23-ad0d-05df4bb47894</guid>
             <pubDate>Tue, 29 Dec 2015 23:49:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/the-htc-vive-breakthrough-could-be-improved-optics-hdr/index.html</link>
             <guid isPermaLink="false">49b76306-d850-47f7-a09c-46938308075e</guid>
             <pubDate>Mon, 21 Dec 2015 13:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Interview with Dr. Dai, the master mind behind Perception Neuron and Noitom]]></title>
-            <description><![CDATA[<article><h1>An Interview with Dr. Dai, the master mind behind Perception Neuron and Noitom</h1><p>As one of the major tech companies in the VR field of China, unlike a lot of other companies, Noitom actually delivers. They've fulfilled their promise of kickstarter, and countinue to invest in virtual reality field. They showed their finger tacking solution (as part of their product Perception Neuron) combined with the vive in yesterday's HTC Vive Unbound Developer Conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcfdaa4b6ed11aa21fc7bede7035b088aecc2a62.jpg"></article>]]></description>
-            <link>http://www.vrerse.com/techtalk/an-interview-with-dr-dai-master-mind-behind-perception-neuron-and-noitom/</link>
-            <guid isPermaLink="false">2fd984b0-623d-4b76-b039-4c297d04b566</guid>
-            <pubDate>Mon, 21 Dec 2015 08:39:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
