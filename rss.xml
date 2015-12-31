@@ -4,18 +4,25 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 16:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 14:46:20 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Samsung to Demo Gear VR Motion Controller at CES 2016 - Road to VR]]></title>
+            <description><![CDATA[<article><h1>Samsung to Demo Gear VR Motion Controller at CES 2016 - Road to VR</h1><p>Samsung to Demo Gear VR Motion Controller ‘rink’ at CES 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cabee73a9721da0db45b6bbc5db7821055b6557f.jpg"></article>]]></description>
+            <link>http://www.roadtovr.com/samsung-to-demo-gear-vr-motion-controller-at-ces-2016/?platform=hootsuite</link>
+            <guid isPermaLink="false">29f16318-c6a9-4432-814c-e060b05cb853</guid>
+            <pubDate>Thu, 31 Dec 2015 14:45:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lucky's Tale to be Bundled with Every Oculus Rift]]></title>
-            <description><![CDATA[<article><h1>Lucky's Tale to be Bundled with Every Oculus Rift</h1><p>Today, we're excited to announce that Lucky's Tale, the incredible made-for-VR platformer by Playful, will be included free with every Oculus Rift! Lucky's Tale, an Oculus Studios title, takes you on an adventure of a lifetime with Lucky, the fun-loving fox. The game takes you to a charming new world, with dozens of locales and lush environments.</p><img src="https://s3.amazonaws.com/static.oculus.com/website/2015/12/newluckyblogfeatured.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Lucky's Tale to be Bundled with Every Oculus Rift</h1><p>Today, we're excited to announce that Lucky's Tale, the incredible made-for-VR platformer by Playful, will be included free with every Oculus Rift! Lucky's Tale, an Oculus Studios title, takes you on an adventure of a lifetime with Lucky, the fun-loving fox. The game takes you to a charming new world, with dozens of locales and lush environments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bba9b13146ee4c3f5241862748420491e7a4fd4.jpg"></article>]]></description>
             <link>https://www.oculus.com/en-us/blog/luckys-tale-to-be-bundled-with-every-oculus-rift/</link>
             <guid isPermaLink="false">02152f57-6a9f-4fb3-9b47-32d8e50c1f67</guid>
             <pubDate>Wed, 30 Dec 2015 16:30:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Being There: A New ArchViz Demo With A Twist]]></title>
-            <description><![CDATA[<article><h1>Being There: A New ArchViz Demo With A Twist</h1><p>VR is perfect for the visualization of beautiful architecture. But what if there's more to it than just exploring a space?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77ed0f7e919ade626351ef2738b89d4f0363193e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Being There: A New ArchViz Demo With A Twist</h1><p>VR is perfect for the visualization of beautiful architecture. But what if there's more to it than just exploring a space?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15d70223232789540dbe042afd73f79a2825998e.png"></article>]]></description>
             <link>http://augmentl.io/being-there-a-new-archviz-demo-with-a-twist/index.html</link>
             <guid isPermaLink="false">bff2f909-3d4c-42e4-8729-90e0fe06b48a</guid>
             <pubDate>Wed, 30 Dec 2015 13:34:40 GMT</pubDate>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game]]></title>
-            <description><![CDATA[<article><h1>Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game</h1><p>While much of the focus on Virtual Reality has been on creating first-person experiences and 3rd person platformers, there's another genre to which VR has the potential to be bring new life: The classic 90's point and click adventure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/106108887d63bdd09defc6d4547db6630f8a47fe.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Immersed in Nostalgia: How Virtual Reality Can Revive the Point and Click Adventure Game</h1><p>While much of the focus on Virtual Reality has been on creating first-person experiences and 3rd person platformers, there's another genre to which VR has the potential to be bring new life: The classic 90's point and click adventure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb53a07747f2ee76ed3508d33a457cfdbedd9146.jpg"></article>]]></description>
             <link>http://augmentl.io/immersed-in-nostalgia-how-virtual-reality-can-revive-the-po/index.html</link>
             <guid isPermaLink="false">4309168a-4128-4e23-ad0d-05df4bb47894</guid>
             <pubDate>Tue, 29 Dec 2015 23:49:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/rift-sdk-10-shipping-now-with-final-hardware-but-no-dk2-su/index.html</link>
             <guid isPermaLink="false">0de1b4f3-411f-465a-a275-bb5703b304fc</guid>
             <pubDate>Tue, 22 Dec 2015 11:37:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Magnets to Track Your Fingers in Virtual Reality | MIT Technology Review]]></title>
-            <description><![CDATA[<article><h1>Using Magnets to Track Your Fingers in Virtual Reality | MIT Technology Review</h1><p>Each finger gets its own electromagnet so Finexus can track its position in 3-D. A research project may hint at how Facebook's Oculus device will let you explore virtual reality someday: by using a bunch of electromagnets and sensors to track the motions of your individual fingers in three dimensions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e48da8a087ed425f1a40b1da73904dfcad4afcb2.jpg"></article>]]></description>
-            <link>http://www.technologyreview.com/news/544946/in-the-future-magnets-may-track-your-fingers-in-virtual-reality/</link>
-            <guid isPermaLink="false">e8f18802-7d3a-4699-ae2b-0acb46492270</guid>
-            <pubDate>Tue, 22 Dec 2015 11:10:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
