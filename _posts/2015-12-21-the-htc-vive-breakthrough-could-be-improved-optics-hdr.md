@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Why would HTC, who already came very close to alienating its fledgling and enthusiastic community by suddenly delaying the release of the HTC Vive virtual reality headset until April 2016, stack the deck even further against themselves by attributing the delay to a 'very big breakthrough?'"
-datePublished: '2015-12-21T13:06:50.228Z'
-dateModified: '2015-12-21T13:06:22.862Z'
+datePublished: '2016-01-04T20:13:45.579Z'
+dateModified: '2015-12-21T13:06:50.228Z'
 title: "The HTC Vive 'Breakthrough' likely to be Improved Optics"
 author: []
 sourcePath: _posts/2015-12-21-the-htc-vive-breakthrough-could-be-improved-optics-hdr.md
