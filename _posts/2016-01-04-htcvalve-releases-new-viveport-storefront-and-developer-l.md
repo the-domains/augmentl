@@ -16,9 +16,9 @@ keywords:
   - download
   - plugins
   - user
-description: 'HTC/Valve have launched their web portal for HTC Vive developers and to users(it would suggest) as a means of content marketplace it seems. The site allows users to register an account set their account privacy setting (Relating to posting, activity history, post following and profile details) .'
-datePublished: '2016-01-04T15:43:22.062Z'
-dateModified: '2016-01-04T15:43:12.758Z'
+description: 'HTC/Valve have launched their web portal for HTC Vive developers and to users as a means of content marketplace it seems. The site allows users to register an account set their account privacy setting (Relating to posting, activity history, post following and profile details) .'
+datePublished: '2016-01-04T15:49:17.331Z'
+dateModified: '2016-01-04T15:49:10.421Z'
 author:
   - name: Ian Mills
     url: 'http://www.bitvrse.com/author/millsytechvrse/'
@@ -26,14 +26,14 @@ author:
 related: []
 app_links: []
 title: 'HTC/Valve releases new "Viveport" storefront and developer login - BitVRse'
+sourcePath: _posts/2016-01-04-htcvalve-releases-new-viveport-storefront-and-developer-l.md
+published: true
 authors: []
 publisher:
   name: BitVRse
   domain: www.bitvrse.com
   url: 'http://www.bitvrse.com'
   favicon: 'http://www.bitvrse.com/wp-content/uploads/2016/01/cropped-xniPGFZS-1-192x192.png'
-sourcePath: _posts/2016-01-04-htcvalve-releases-new-viveport-storefront-and-developer-l.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
