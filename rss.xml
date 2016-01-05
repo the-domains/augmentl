@@ -4,18 +4,25 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 15:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 15:40:22 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Five Virtual Reality Predictions for CES 2016]]></title>
-            <description><![CDATA[<article><h1>Five Virtual Reality Predictions for CES 2016</h1><p>CES 2016 is upon us. Oculus will open preorders for the Rift. HTC will unveil its new Vive. It's like Christmas for VR enthusiasts. But what else will we see, and why? Here's what we think.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2823505ad4877fef674565410644c02df57ac91b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Five Virtual Reality Predictions for CES 2016</h1><p>CES 2016 is upon us. Oculus will open preorders for the Rift. HTC will unveil its new Vive. It's like Christmas for VR enthusiasts. But what else will we see, and why? Here's what we think.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61b8f88513249174f74912d319d92c1a687ae3e3.jpg"></article>]]></description>
             <link>http://augmentl.io/five-virtual-reality-predictions-for-ces-2016/index.html</link>
             <guid isPermaLink="false">159fc23b-f55f-49ba-a610-bf16c3f5db94</guid>
             <pubDate>Tue, 05 Jan 2016 11:51:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Oculus Giving Back: Kickstarter Backers Get a FreeRift]]></title>
+            <description><![CDATA[<article><h1>Oculus Giving Back: Kickstarter Backers Get a FreeRift</h1><p>As a small token of our appreciation for your support, all Kickstarter backers who pledged for a Rift development kit will get a free Kickstarter Edition Oculus Rift! And like all Rift pre-order purchasers, you’ll receive a bundled copy of Lucky’s Tale and EVE: Valkyrie.</p></article>]]></description>
+            <link>https://www.kickstarter.com/projects/1523379957/oculus-rift-step-into-the-game/posts/1458224?ref=backer_project_update</link>
+            <guid isPermaLink="false">4da858e0-2a30-4132-a3c0-368b0cecf570</guid>
+            <pubDate>Tue, 05 Jan 2016 15:39:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[HTC Vive Pre An Improvement, Not Necessarily A 'Breakthrough'... Yet - UploadVR]]></title>
-            <description><![CDATA[<article><h1>HTC Vive Pre An Improvement, Not Necessarily A 'Breakthrough'... Yet - UploadVR</h1><p>It turns out, the "very big breakthrough" HTC was having us wait for is nothing more than an AR overlay from the front-facing camera. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dbf5e6a03b8d2e1158119a0a9f67edf33cd4a4c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>HTC Vive Pre An Improvement, Not Necessarily A 'Breakthrough'... Yet - UploadVR</h1><p>It turns out, the "very big breakthrough" HTC was having us wait for is nothing more than an AR overlay from the front-facing camera. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed185547cf9774a3cc869b5201267df7cf8e41a5.jpg"></article>]]></description>
             <link>http://uploadvr.com/htc-vive-pre-hands-on/</link>
             <guid isPermaLink="false">7b8072a0-7096-4f9a-9523-4ef374ad1ff4</guid>
             <pubDate>Tue, 05 Jan 2016 15:20:31 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.oculus.com/en-us/blog/luckys-tale-to-be-bundled-with-every-oculus-rift/</link>
             <guid isPermaLink="false">02152f57-6a9f-4fb3-9b47-32d8e50c1f67</guid>
             <pubDate>Wed, 30 Dec 2015 16:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Being There: A New ArchViz Demo With A Twist]]></title>
-            <description><![CDATA[<article><h1>Being There: A New ArchViz Demo With A Twist</h1><p>VR is perfect for the visualization of beautiful architecture. But what if there's more to it than just exploring a space?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15d70223232789540dbe042afd73f79a2825998e.png"></article>]]></description>
-            <link>http://augmentl.io/being-there-a-new-archviz-demo-with-a-twist/index.html</link>
-            <guid isPermaLink="false">bff2f909-3d4c-42e4-8729-90e0fe06b48a</guid>
-            <pubDate>Wed, 30 Dec 2015 13:34:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
