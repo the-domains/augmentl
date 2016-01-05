@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "CES 2016 is upon us. Oculus will open preorders for the Rift. HTC will unveil its new Vive. It's like Christmas for VR enthusiasts. But what else will we see, and why? Here's what we think."
-datePublished: '2016-01-05T11:51:29.074Z'
-dateModified: '2016-01-05T11:51:25.313Z'
+datePublished: '2016-01-05T15:39:59.327Z'
+dateModified: '2016-01-05T15:39:48.580Z'
 title: Five Virtual Reality Predictions for CES 2016
 author: []
 sourcePath: _posts/2016-01-05-five-virtual-reality-predictions-for-ces-2016.md
@@ -44,19 +44,19 @@ Finally, given the short time between tomorrow's opening of Rift pre-orders and 
 
 **Prediction 2: HTC's big breakthrough will turn out to be optics and display refinements**
 
-We've [speculated about this before][3], shortly after HTC's announcement of their initial "breakthrough" in December last year. Since then, there's also been a lot of talk about other possible breakthroughs, from room-mapping 3D cameras to full body tracking courtesy of the recently announced [partnership][4] between HTC and Dassault Systemes. 
+We've speculated about this before, shortly after HTC's announcement of their initial "breakthrough" in December last year. Since then, there's also been a lot of talk about other possible breakthroughs, from room-mapping 3D cameras to full body tracking courtesy of the recently announced partnership between HTC and Dassault Systemes. 
 
 We're still reasonably confident that Optics and Display are the two areas where HTC Vive is most likely to get some improvement, particularly given the limited timeframe between now and its stated April release timeframe. But we would love to be wrong. 
 
 **Prediction 3: We'll see a ton of mostly Chinese VR cash-ins, mostly of poor quality.**
 
-If the recent outing of the laughably vaporous [Dlodlo V One][5] "VR" headset is any indication, we should be in for a treat as smaller manufacturers rush to cash into the VR hype with hastily put together devices of varying quality. Most of the focus is likely to be on the mobile sector, where a "Cardboard Plus" experience presents a lower barrier to entry for new players wishing to jump onto the VR bandwagon. We can also expect players in the AR sphere (I'm looking at you, [Vuzix][6]) to try and grab some of the attention. Look out for this year's answer to last year's [3DHead][7].
+If the recent outing of the laughably vaporous [Dlodlo V One][3] "VR" headset is any indication, we should be in for a treat as smaller manufacturers rush to cash into the VR hype with hastily put together devices of varying quality. Most of the focus is likely to be on the mobile sector, where a "Cardboard Plus" experience presents a lower barrier to entry for new players wishing to jump onto the VR bandwagon. We can also expect players in the AR sphere (I'm looking at you, [Vuzix][4]) to try and grab some of the attention. Look out for this year's answer to last year's [3DHead][5].
 
 **Prediction 4: We'll get a closer look at Playstation VR, but no launch date**
 
 The Playstation VR has received a steadily increase in press in the past few months, and much is already known about its hardware and software ecosystem. The one thing missing is a launch date. 
 
-Sony is due for their CES announcements [tomorrow night][8] at 5pm EST, and we can expect a closer look at the PSVR's hardware, its [breakout box][9], and perhaps some information on pricing. A release date however will likely wait until E3 2016, traditionally a more appropriate time to break the news on new console products. Sony is not in direct competition with Oculus or HTC for the VR market, so they can afford to take their time.
+Sony is due for their CES announcements [tomorrow night][6] at 5pm EST, and we can expect a closer look at the PSVR's hardware, its [breakout box][7], and perhaps some information on pricing. A release date however will likely wait until E3 2016, traditionally a more appropriate time to break the news on new console products. Sony is not in direct competition with Oculus or HTC for the VR market, so they can afford to take their time.
 
 **Prediction 5: We will hear a lot about how VR will revolutionise \[insert industry here\]**
 
@@ -67,10 +67,8 @@ Do you have a VR prediction for CES 2016? Let us know on twitter at [@augmentl][
 [0]: http://twitter.com/augmentl
 [1]: https://www.reddit.com/r/oculus/comments/3zfa1f/oculus_rift_preorders_to_open_on_january_6/cym60y0
 [2]: https://www.oculus.com/en-us/blog/update-on-oculus-touch-ship-date/
-[3]: http://augmentl.io/the-htc-vive-breakthrough-could-be-improved-optics-hdr/
-[4]: https://twitter.com/Dassault3DS/status/683713191562485760
-[5]: http://augmentl.io/meet-the-dlodlo-v-one-the-worlds-most-dubious-vr-headset/
-[6]: http://augmentl.io/ces-does-not-understand-vr/
-[7]: http://www.beverlyhills3d.com/
-[8]: https://blog.sony.com/ces/
-[9]: http://www.eurogamer.net/articles/digitalfoundry-2015-playstation-vr-external-processor-revealed
+[3]: http://augmentl.io/meet-the-dlodlo-v-one-the-worlds-most-dubious-vr-headset/
+[4]: http://augmentl.io/ces-does-not-understand-vr/
+[5]: http://www.beverlyhills3d.com/
+[6]: https://blog.sony.com/ces/
+[7]: http://www.eurogamer.net/articles/digitalfoundry-2015-playstation-vr-external-processor-revealed
