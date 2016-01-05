@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:28:03.299Z'
-dateModified: '2016-01-05T21:27:56.551Z'
+datePublished: '2016-01-05T21:29:55.093Z'
+dateModified: '2016-01-05T21:29:48.602Z'
 title: 'We called it first: HTC Vive "breakthrough" is indeed improved optics'
 author: []
 sourcePath: _posts/2016-01-05-we-called-it-first-htc-vive-breakthrough-is-indeed-improv.md
@@ -26,7 +26,7 @@ _type: Article
 
 # We called it first: HTC Vive "breakthrough" is indeed improved optics
 
-And yes, ok, also a camera and a better display.
+When we first heard of it, we made some informed predictions about HTC's rumoured 'breakthrough' for the Vive VR headset. How did we do? Turns out, not bad at all.
 
 by Augmentl ([@augmentl][0]), January 5th 2016\.
 
