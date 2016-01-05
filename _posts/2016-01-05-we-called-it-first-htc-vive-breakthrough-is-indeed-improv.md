@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:29:55.093Z'
-dateModified: '2016-01-05T21:29:48.602Z'
+datePublished: '2016-01-05T21:42:45.095Z'
+dateModified: '2016-01-05T21:42:36.811Z'
 title: 'We called it first: HTC Vive "breakthrough" is indeed improved optics'
 author: []
 sourcePath: _posts/2016-01-05-we-called-it-first-htc-vive-breakthrough-is-indeed-improv.md
@@ -32,7 +32,7 @@ by Augmentl ([@augmentl][0]), January 5th 2016\.
 
 When HTC first teased their _"very big breakthrough" _a few weeks ago, we decided to try and read between the lines to figure out what this breakthrough could possibly be. We [presented some options][1], and concluded that all things being equal our money would be on a combination of optics and display improvements. How did we do?  Let's see:
 
-**Guess one: Logic board and camera improvements. ** Close but no cigar. While the HTC Vive DK2 has undoubtedly seen its front-facing camera put to use to improve Chaperone, it was nowhere near the level of sophistication we predicted: Instead of using SLAM to m ap a room, the new camera simply overlays a ghost image of the real world onto the VR view. Oh well. 
+**Guess one: Logic board and camera improvements. ** Close but no cigar. While the HTC Vive DK2 has undoubtedly seen its front-facing camera put to use to improve Chaperone, it was nowhere near the level of sophistication we predicted: Instead of using SLAM to map the room, the new camera simply overlays a ghost image of the real world onto the VR view. Oh well. 
 
 **Guess two: Improved controllers.** Spot on! We'd dismissed major improvements to controllers as unlikely, and the new controllers merely received upgrades for better ergonomics and a 4 hour battery life. Not bad, but not revolutionary.
 
