@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:50:13.739Z'
-dateModified: '2016-01-05T21:50:09.949Z'
+datePublished: '2016-01-05T21:53:28.985Z'
+dateModified: '2016-01-05T21:53:14.551Z'
 title: 'We called it first: HTC Vive "breakthrough" is indeed improved optics'
 author: []
 sourcePath: _posts/2016-01-05-we-called-it-first-htc-vive-breakthrough-is-indeed-improv.md
@@ -43,6 +43,8 @@ When HTC first teased their _"very big breakthrough" _a few weeks ago, we decide
 **Our conclusion and best guess: Improved optics and display combination.** Oh yes. We'll let the folks at Tom's Hardware report, from their [hands-on][2] with the Vive DK2:
 
 > HTC implemented what it called Mura correction, a way to improve the clarity of the HMD displays. Valve exec Chet Faliszek was unwilling to talk about exactly how Mura correction worked in a conversation with Tom's Hardware, other than to say that it involved every aspect of the display system, nor would he address whether the technology had any impact on system latency... HTC and Valve called this a "breakthrough" that others have tried with prototype add-on filters, but this is the first time -- according to the companies -- that it's been building into a working HMD.
+
+The Mura effect, for those unfamiliar with it, is what has sometimes been referred as a "linen" texture effect by those who reviewed the Vive and earlier Oculus prototypes like Crescent Bay. Technically, the Mura Effect occurs due to the way the display is aligned with the TFT. AMOLED displays are assembled in two layers, the OLED film on top, and the transistor plane below. Due to limitations of the manufacturing process, it is very difficult to get both layers aligned correctly & perfectly to produce a uniform, seamless, display. 
 
 So there you have it. overall not a bad result. You'll excuse us if we go pat ourselves on the back now.
 
