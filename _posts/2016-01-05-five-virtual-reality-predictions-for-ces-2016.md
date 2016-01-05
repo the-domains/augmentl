@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "CES 2016 is upon us. Oculus will open preorders for the Rift. HTC will unveil its new Vive. It's like Christmas for VR enthusiasts. But what else will we see, and why? Here's what we think."
-datePublished: '2016-01-05T10:47:44.812Z'
-dateModified: '2016-01-05T10:47:40.133Z'
+datePublished: '2016-01-05T11:51:29.074Z'
+dateModified: '2016-01-05T11:51:25.313Z'
 title: Five Virtual Reality Predictions for CES 2016
 author: []
+sourcePath: _posts/2016-01-05-five-virtual-reality-predictions-for-ces-2016.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-five-virtual-reality-predictions-for-ces-2016.md
-published: true
 url: five-virtual-reality-predictions-for-ces-2016/index.html
 _type: Article
 
