@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:10:52.957Z'
-dateModified: '2016-01-05T21:10:46.639Z'
+datePublished: '2016-01-05T21:28:03.299Z'
+dateModified: '2016-01-05T21:27:56.551Z'
 title: 'We called it first: HTC Vive "breakthrough" is indeed improved optics'
 author: []
+sourcePath: _posts/2016-01-05-we-called-it-first-htc-vive-breakthrough-is-indeed-improv.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-we-called-it-first-htc-vive-breakthrough-is-indeed-improv.md
-published: true
 url: we-called-it-first-htc-vive-breakthrough-is-indeed-improv/index.html
 _type: Article
 
