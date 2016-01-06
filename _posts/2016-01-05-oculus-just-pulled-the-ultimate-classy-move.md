@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: '"A small token of appreciation" sets a new precedent in Kickstarter history. '
-datePublished: '2016-01-05T17:11:21.841Z'
-dateModified: '2016-01-05T16:06:42.601Z'
+datePublished: '2016-01-06T19:23:36.555Z'
+dateModified: '2016-01-06T19:23:22.040Z'
 title: "Oculus Just Pulled the Ultimate Classy Move\_"
 author: []
 sourcePath: _posts/2016-01-05-oculus-just-pulled-the-ultimate-classy-move.md
