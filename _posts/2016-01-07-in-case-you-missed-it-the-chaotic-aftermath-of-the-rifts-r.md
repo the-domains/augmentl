@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Anger, vitriol, and enthusiasm. Welcome to the Virtual Reality thunder dome. A retrospective on the historic launch of the world's first consumer VR headset for PC enthusiasts."
-datePublished: '2016-01-07T12:09:57.284Z'
-dateModified: '2016-01-07T12:09:45.195Z'
+datePublished: '2016-01-07T12:21:24.393Z'
+dateModified: '2016-01-07T12:21:19.200Z'
 title: "In case you missed it: The Chaotic Aftermath of the Rift's Release"
 author: []
+sourcePath: _posts/2016-01-07-in-case-you-missed-it-the-chaotic-aftermath-of-the-rifts-r.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-07-in-case-you-missed-it-the-chaotic-aftermath-of-the-rifts-r.md
-published: true
 url: in-case-you-missed-it-the-chaotic-aftermath-of-the-rifts-r/index.html
 _type: Article
 
