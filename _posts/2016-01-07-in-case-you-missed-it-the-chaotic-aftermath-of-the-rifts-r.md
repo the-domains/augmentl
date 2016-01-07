@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Anger, vitriol, and enthusiasm. Welcome to the Virtual Reality thunder dome. A retrospective on the historic launch of the world's first consumer VR headset for PC enthusiasts."
-datePublished: '2016-01-07T12:21:24.393Z'
-dateModified: '2016-01-07T12:21:19.200Z'
+datePublished: '2016-01-07T12:47:09.051Z'
+dateModified: '2016-01-07T12:47:01.992Z'
 title: "In case you missed it: The Chaotic Aftermath of the Rift's Release"
 author: []
 sourcePath: _posts/2016-01-07-in-case-you-missed-it-the-chaotic-aftermath-of-the-rifts-r.md
@@ -50,9 +50,9 @@ Yet, within the first 10 minutes the expected shipping dates shown on the site w
 
 What's clear is that, despite Apple-esque system failures and a pre-order experience marred by technical issues, the Rift's pre-orders were snapped up faster than anyone was expecting. It's worth bearing in mind however that, as non-binding and without any charges until shipping, some of those pre-orders may yet be cancelled by those who simply wanted a guaranteed place in line while they considered the purchase more thoroughly. Between those and the fraudulent orders the Oculus support team is currently clearing from their databases, it'll be a few days before we can expect to hear the true number of units ordered.
 
-So far, all we know is that the first batch of Rifts will be shipped on March 28th, and that anyone lucky enough to have completed their pre-order within the first 10 to 14 minutes after opening is likely to be in that batch. Those who did not make the initial cut may have to wait until between April and June until they get their hands on the Rift.
+So far, all we know is that the first batch of Rifts will be shipped to 20 countries on March 28th, and that anyone lucky enough to have completed their pre-order within the first 10 to 14 minutes after opening is likely to be in that batch. Those who did not make the initial cut may have to wait until between April and June until they get their hands on the Rift. Oculus buyers also have a lot of content to look forward to, with over [100 VR specific titles][4] due out before the end of 2016\.
 
-If you don't mind the $599 price, and having to wait until June for your order, you can still [get your name on the list][4]. Many VR enthusiasts and interested consumers however will be waiting to see how the market develops, with the HTC Vive due to open their pre-orders in February for an estimated shipping of April. The Vive bundle will also include motion controllers - so the big question for many is, will Oculus ship their Touch controllers in time for the Vive's release? 
+If you don't mind the $599 price, and having to wait until June for your order, you can still [get your name on the list][5]. Many VR enthusiasts and interested consumers however will be waiting to see how the market develops, with the HTC Vive due to open their pre-orders in February for an estimated shipping of April. The Vive bundle will also include motion controllers - so the big question for many is, will Oculus ship their Touch controllers in time for the Vive's release? 
 
 With camps of vocal and enthusiastic fans already forming and drawing battle lines, which VR device will be crowned king by the end of 2016? How will the upcoming Playstation VR fare against its PC competitors? We'll have to wait and see. Either way, VR just got real. And it's only just beginning.
 
@@ -62,4 +62,5 @@ _Were you part of the chaos? Let us know on twitter at [@augmentl][0]._
 [1]: https://www.reddit.com/r/oculus/new/
 [2]: https://www.reddit.com/r/IAmA/comments/3zt7ul/i_am_palmer_luckey_founder_of_oculus_and_designer/
 [3]: https://www.reddit.com/r/oculus/comments/3zrv4y/preliminary_results_of_preorder_survey_order/
-[4]: http://shop.oculus.com/
+[4]: https://www.oculus.com/en-us/blog/oculus-rift-pre-orders-now-open-first-shipments-march-28/
+[5]: http://shop.oculus.com/
