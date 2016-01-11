@@ -4,14 +4,21 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 10:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 10:19:27 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[8 Highlights From an AMA With Oculus Founder Palmer Luckey]]></title>
-            <description><![CDATA[<article><h1>8 Highlights From an AMA With Oculus Founder Palmer Luckey</h1><p>From Rift production issues to the future of the Oculus Store, here are some key highlights from yesterday's Reddit AMA. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62d62fb61066431a4414a0c0cbea384a9283be7a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>8 Highlights From an AMA With Oculus Founder Palmer Luckey</h1><p>From Rift production issues to the future of the Oculus Store, here are some key highlights from yesterday's Reddit AMA. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad531ad2e493556f11807d560dca9a245c5918d3.jpg"></article>]]></description>
             <link>http://augmentl.io/8-highlights-from-an-ama-with-oculus-founder-palmer-luckey/index.html</link>
             <guid isPermaLink="false">a3c9849e-1d71-4500-9204-cc3cfdab51e6</guid>
             <pubDate>Mon, 11 Jan 2016 10:15:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palmer Luckey on the Rift's Pricing Strategy: "Tesla is a Good Example"]]></title>
+            <description><![CDATA[<article><h1>Palmer Luckey on the Rift's Pricing Strategy: "Tesla is a Good Example"</h1><p>An insight into Oculus's vision for the future of VR reveals how Elon Musk's Tesla was an inspiration.</p></article>]]></description>
+            <link>http://augmentl.io/palmer-luckey-on-the-rifts-pricing-strategy-tesla-is-a-go/index.html</link>
+            <guid isPermaLink="false">a1d6e57d-94db-4e7f-ae5a-7785b3263a23</guid>
+            <pubDate>Mon, 11 Jan 2016 10:19:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In case you missed it: The Chaotic Aftermath of the Rift's Release]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bitvrse.com/htcvalve-releases-new-viveport-storefront-and-developer-login/</link>
             <guid isPermaLink="false">800f305f-4eae-4801-ae6d-2d1cb54d303e</guid>
             <pubDate>Mon, 04 Jan 2016 15:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NVIDIA Launches 'GTX Geforce VR Ready' PC Program - Road to VR]]></title>
-            <description><![CDATA[<article><h1>NVIDIA Launches 'GTX Geforce VR Ready' PC Program - Road to VR</h1><p>NVIDIA has announced a new program designed to alleviate confusion for consumers wanting to ensure their next PC or notebook computer is capable of running consumer VR applications when VR headsets hit the market next year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/047705a50fbf9ad11d6e3b62e3b9f4cf813a6c9e.jpg"></article>]]></description>
-            <link>http://www.roadtovr.com/nvidia-launches-gtx-geforce-vr-ready-pc-program/?platform=hootsuite</link>
-            <guid isPermaLink="false">4b0c188b-d344-44fa-8982-25d4889598e5</guid>
-            <pubDate>Mon, 04 Jan 2016 14:48:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
