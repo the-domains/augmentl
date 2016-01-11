@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "From Rift production issues to the future of the Oculus Store, here are some key highlights from yesterday's Reddit AMA. "
-datePublished: '2016-01-11T10:15:51.908Z'
-dateModified: '2016-01-11T10:15:46.117Z'
+datePublished: '2016-01-11T13:31:37.260Z'
+dateModified: '2016-01-11T13:31:30.881Z'
 title: 8 Highlights From an AMA With Oculus Founder Palmer Luckey
 author: []
 sourcePath: _posts/2016-01-11-8-highlights-from-an-ama-with-oculus-founder-palmer-luckey.md
@@ -32,7 +32,7 @@ by Augmentl ([@augmentl][0]), January 11 2016\.
 
 Oculus Founder Palmer Luckey spent some time yesterday answering questions over on Reddit's [/r/PCMasterRace][1], letting the community of PC enthusiasts and VR enthusiasts alike have answers to some of their most burning questions about the launch of the world' first PC VR solution. These are the highlights.
 
-**On the Rift's production:** reaffirming his previously stated surprise at the amount of demand for the Rift's preorders, Palmer confirmed that Oculus is in the process of scaling up production to meed the unexpected demand. It is unlikely however this will significantly affect shipping estimates, with new preorders for the Rift currently estimated for a June shipping timeframe.
+**On the Rift's production:** reaffirming his previously stated surprise at the amount of demand for the Rift's preorders, Palmer confirmed that Oculus is in the process of scaling up production to meet the unexpected demand. It is unlikely however this will significantly affect shipping estimates, with new preorders for the Rift currently estimated for a June shipping timeframe.
 
 **On the Oculus Store:** Palmer tried to allay fears of a split in the VR market as a result of exclusive storefronts for VR content. According to him the Oculus Store,  Oculus's upcoming curated marketplace for VR content, will not be exclusive to Rift titles and instead accept content that is also compatible with third party VR solutions like the HTC Vive. We'd previously written about the potential for VR to [escape the exclusivity trap][2] that has ensnared multiple generations of consoles, and this is a very positive development at such an early stage for the VR industry. 
 
