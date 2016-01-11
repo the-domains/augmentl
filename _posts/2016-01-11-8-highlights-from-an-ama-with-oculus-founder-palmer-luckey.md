@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "From Rift production issues to the future of the Oculus Store, here are some key highlights from yesterday's Reddit AMA. "
-datePublished: '2016-01-11T09:26:08.342Z'
-dateModified: '2016-01-11T09:25:59.862Z'
+datePublished: '2016-01-11T09:36:09.626Z'
+dateModified: '2016-01-11T09:36:04.397Z'
 title: 8 Highlights From an AMA With Oculus Founder Palmer Luckey
 author: []
+sourcePath: _posts/2016-01-11-8-highlights-from-an-ama-with-oculus-founder-palmer-luckey.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-8-highlights-from-an-ama-with-oculus-founder-palmer-luckey.md
-published: true
 url: 8-highlights-from-an-ama-with-oculus-founder-palmer-luckey/index.html
 _type: Article
 
@@ -34,7 +34,9 @@ Oculus Founder Palmer Luckey spent some time yesterday answering questions over 
 
 **On the Rift's production:** reaffirming his previously stated surprise at the amount of demand for the Rift's preorders, Palmer confirmed that Oculus is in the process of scaling up production to meed the unexpected demand. It is unlikely however this will significantly affect shipping estimates, with new preorders for the Rift currently estimated for a June shipping timeframe.
 
-**On the Oculus Store's exclusivity:** Palmer tried to allay fears of a split in the VR market as a result of exclusive storefronts for VR content. According to him the Oculus Store,  Oculus's upcoming curated marketplace for VR content, will not be exclusive to Rift titles and instead accept content that is also compatible with third party VR solutions like the HTC Vive. We'd previously written about the potential for VR to [escape the exclusivity trap][2] that has ensnared multiple generations of consoles, and this is a very positive development at such an early stage for the VR industry. 
+**On the Oculus Store:** Palmer tried to allay fears of a split in the VR market as a result of exclusive storefronts for VR content. According to him the Oculus Store,  Oculus's upcoming curated marketplace for VR content, will not be exclusive to Rift titles and instead accept content that is also compatible with third party VR solutions like the HTC Vive. We'd previously written about the potential for VR to [escape the exclusivity trap][2] that has ensnared multiple generations of consoles, and this is a very positive development at such an early stage for the VR industry. 
+
+Other details on the Oculus store either confirmed or announced by Palmer included the fact that the store will feature interactive, 360º 3D screenshots from inside featured VR experiences, as well as a comfort rating system to help users make more informed decisions as to the content they download. 
 
 **On censorship:** Palmer was asked about Oculus's position towards content censorship, with a particular focus on adult content for the Rift. He restated Oculus's position that, while the Oculus Store will not be featuring adult content, Oculus will do nothing to block such content from third party sources. This will certainly come as welcome news to the burgeoning adult VR industry, which is (somewhat typically) already one of the first to be [actively profiting][3] from VR even before wide consumer adoption.
 
