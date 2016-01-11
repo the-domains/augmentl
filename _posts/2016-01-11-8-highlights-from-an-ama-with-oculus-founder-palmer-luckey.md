@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "From Rift production issues to the future of the Oculus Store, here are some key highlights from yesterday's Reddit AMA. "
-datePublished: '2016-01-11T09:42:56.439Z'
-dateModified: '2016-01-11T09:42:31.273Z'
+datePublished: '2016-01-11T10:15:51.908Z'
+dateModified: '2016-01-11T10:15:46.117Z'
 title: 8 Highlights From an AMA With Oculus Founder Palmer Luckey
 author: []
 sourcePath: _posts/2016-01-11-8-highlights-from-an-ama-with-oculus-founder-palmer-luckey.md
@@ -51,8 +51,6 @@ Other details on the Oculus store either confirmed or announced by Palmer includ
 The first Oculus Rift headsets are due to reach consumer hands shortly after initial shipping on March 28th. We can expect Oculus to make further announcements about launch content and Oculus touch availability between now and then. 
 
 Until then, come and share your views with us on twitter at [@augmentl][0].
-
-nullnull
 
 [0]: http://twitter.com/augmentl
 [1]: https://www.reddit.com/r/pcmasterrace/comments/40ea0x/i_am_palmer_luckey_founder_of_oculus_and_designer/
