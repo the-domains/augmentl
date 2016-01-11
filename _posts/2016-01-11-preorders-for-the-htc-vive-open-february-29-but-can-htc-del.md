@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'HTC has announced the opening of preorders for their Virtual Reality solution, but concerns over their ability to ship the final product in time for their April deadline remain.'
-datePublished: '2016-01-11T13:28:35.287Z'
-dateModified: '2016-01-11T13:28:21.283Z'
+datePublished: '2016-01-11T13:30:12.569Z'
+dateModified: '2016-01-11T13:29:59.375Z'
 title: 'Preorders for the HTC Vive open February 29, But Can HTC Deliver by April?'
 author: []
+sourcePath: _posts/2016-01-11-preorders-for-the-htc-vive-open-february-29-but-can-htc-del.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-preorders-for-the-htc-vive-open-february-29-but-can-htc-del.md
-published: true
 url: preorders-for-the-htc-vive-open-february-29-but-can-htc-del/index.html
 _type: Article
 
@@ -36,11 +36,11 @@ This is good news for VR early adopters, but as no price of the device has yet t
 
 Aside from the price, the big question that remains concerning the Vive is whether HTC's promised April timeframe for shipping and wider consumer availability is realistic. While Oculus announced the start of production and manufacturing of their consumer product as far back as September 2015, HTC are yet to show a final, consumer ready version of their VR offering.
 
-The device recently shown at CES 2016, dubbed the Vive Pre, was in fact referred to as merely a second developer kit whose purpose is to gather feedback from developers to inform the design of an eventual consumer device. Furthermore, the Pre's reveal at CES itself followed an earlier announcement in December last year that the Vive's release, originally scheduled for the holiday 2015 period, would be delayed until April 2016\.
+The device recently shown at CES 2016, dubbed the Vive Pre, was in fact referred to as merely a second developer kit whose purpose is to gather feedback from developers to inform the design of an eventual consumer device. Furthermore, the Pre's reveal at CES itself followed an earlier announcement in December last year that the Vive's release, originally scheduled for the holiday 2015 period, would be delayed until April 2016.n Wang this week how important Virtual Reality has become to the company, whose revenues have been falling steadily in the face of a declining market share in mobile. It remains to be seen whether this renewed focus will translate into HTC meeting its ambitions for this year, or whether we will be met with another delay for the release of the Vive.
 
 So as things stand today, HTC is committing to gathering developer feedback on the Vive Pre, apply said feedback to tweak the device into a full consumer product, and ramp up manufacturing and production in time for a broad April consumer release. This is an ambitious target even for a company with an established track record in consumer manufacturing. 
 
-HTC's chief executive Chen Wang this week [also announced][2] how important Virtual Reality has become to the company, whose revenues have been falling steadily in the face of a declining market share in mobile. It remains to be seen whether this renewed focus will translate into HTC meeting its ambitions for this year, or whether we will be met with another delay for the release of the Vive.
+HTC's chief executive Cher Wang this week [also announced][2] how important Virtual Reality has become to the company, whose revenues have been falling steadily in the face of a declining market share in mobile. It remains to be seen whether this renewed focus will translate into HTC meeting its ambitions for this year, or whether we will be met with another delay for the release of the Vive.
 
 Do you think HTC can meet its deadlines? Let us know on twitter at [@augmentl][0].
 
