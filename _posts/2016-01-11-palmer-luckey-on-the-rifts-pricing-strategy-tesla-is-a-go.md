@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "An insight into Oculus's vision for the future of VR reveals how Elon Musk's Tesla was an inspiration."
-datePublished: '2016-01-11T10:19:05.786Z'
-dateModified: '2016-01-11T10:18:39.262Z'
+datePublished: '2016-01-11T14:18:49.987Z'
+dateModified: '2016-01-11T14:18:43.500Z'
 title: "Palmer Luckey on the Rift's Pricing Strategy: \"Tesla is a Good Example\""
 author: []
+sourcePath: _posts/2016-01-11-palmer-luckey-on-the-rifts-pricing-strategy-tesla-is-a-go.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-palmer-luckey-on-the-rifts-pricing-strategy-tesla-is-a-go.md
-published: true
 url: palmer-luckey-on-the-rifts-pricing-strategy-tesla-is-a-go/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fcd943a-78ae-446f-b6a4-da04d1c2cd0f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/503dfab712cc1bc191cd912fb1f7fc63d13f89bf.jpg)
 
 # Palmer Luckey on the Rift's Pricing Strategy: "Tesla is a Good Example"
 
