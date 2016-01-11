@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'HTC has announced the opening of preorders for their Virtual Reality solution, but concerns over their ability to ship the final product in time for their April deadline remain.'
-datePublished: '2016-01-11T13:33:18.301Z'
-dateModified: '2016-01-11T13:33:12.072Z'
+datePublished: '2016-01-11T13:40:51.274Z'
+dateModified: '2016-01-11T13:40:44.761Z'
 title: 'Preorders for the HTC Vive open February 29, But Can HTC Deliver by April?'
 author: []
 sourcePath: _posts/2016-01-11-preorders-for-the-htc-vive-open-february-29-but-can-htc-del.md
