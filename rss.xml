@@ -4,7 +4,7 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 10:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 13:29:35 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[8 Highlights From an AMA With Oculus Founder Palmer Luckey]]></title>
@@ -12,6 +12,13 @@
             <link>http://augmentl.io/8-highlights-from-an-ama-with-oculus-founder-palmer-luckey/index.html</link>
             <guid isPermaLink="false">a3c9849e-1d71-4500-9204-cc3cfdab51e6</guid>
             <pubDate>Mon, 11 Jan 2016 10:15:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Preorders for the HTC Vive open February 29, But Can HTC Deliver by April?]]></title>
+            <description><![CDATA[<article><h1>Preorders for the HTC Vive open February 29, But Can HTC Deliver by April?</h1><p>Aside from the price, the big question that remains concerning the Vive is whether HTC's promised April timeframe for shipping and wider consumer availability is realistic. While Oculus announced the start of production and manufacturing of their consumer product as far back as September 2015, HTC are yet to show a final, consumer ready version of their VR offering.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f6907c7dde85e236d84c5726fb67f81bc04a079.jpg"></article>]]></description>
+            <link>http://augmentl.io/preorders-for-the-htc-vive-open-february-29-but-can-htc-del/index.html</link>
+            <guid isPermaLink="false">4f989145-6dad-400b-863d-4ef2125d2c99</guid>
+            <pubDate>Mon, 11 Jan 2016 13:28:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Palmer Luckey on the Rift's Pricing Strategy: "Tesla is a Good Example"]]></title>
@@ -68,13 +75,6 @@
             <link>https://www1.oculus.com/blog/oculus-rift-pre-orders-to-open-on-january-6/</link>
             <guid isPermaLink="false">5025bd87-989e-4953-973a-8d228673d617</guid>
             <pubDate>Mon, 04 Jan 2016 16:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTC/Valve releases new "Viveport" storefront and developer login - BitVRse]]></title>
-            <description><![CDATA[<article><h1>HTC/Valve releases new "Viveport" storefront and developer login - BitVRse</h1><p>HTC/Valve have launched their web portal for HTC Vive developers and to users(it would suggest) as a means of content marketplace it seems. The site allows users to register an account set their account privacy setting (Relating to posting, activity history, post following and profile details) .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa4f182183f66140c565615cc4c053d03292699d.png"></article>]]></description>
-            <link>http://www.bitvrse.com/htcvalve-releases-new-viveport-storefront-and-developer-login/</link>
-            <guid isPermaLink="false">800f305f-4eae-4801-ae6d-2d1cb54d303e</guid>
-            <pubDate>Mon, 04 Jan 2016 15:49:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
