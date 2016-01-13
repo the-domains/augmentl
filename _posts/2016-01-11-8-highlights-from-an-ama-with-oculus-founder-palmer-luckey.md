@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "From Rift production issues to the future of the Oculus Store, here are some key highlights from yesterday's Reddit AMA. "
-datePublished: '2016-01-11T13:31:37.260Z'
-dateModified: '2016-01-11T13:31:30.881Z'
+datePublished: '2016-01-13T18:53:46.896Z'
+dateModified: '2016-01-13T18:53:42.894Z'
 title: 8 Highlights From an AMA With Oculus Founder Palmer Luckey
 author: []
 sourcePath: _posts/2016-01-11-8-highlights-from-an-ama-with-oculus-founder-palmer-luckey.md
