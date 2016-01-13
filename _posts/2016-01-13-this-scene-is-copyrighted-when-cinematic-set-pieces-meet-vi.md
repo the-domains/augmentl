@@ -6,25 +6,25 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'TRON. Alien. Blade Runner. Movies can take us to iconic places, and present great opportunities to inspire VR experiences created by fans. But what will happen when these experiences get too close to the original content?'
-datePublished: '2016-01-13T18:53:33.016Z'
-dateModified: '2016-01-13T18:53:19.419Z'
-title: 'This Scene is Copyrighted: When Cinematic Set Pieces Meet Virtual Reality'
+datePublished: '2016-01-13T18:55:13.486Z'
+dateModified: '2016-01-13T18:55:02.922Z'
+title: 'This Situation is Copyrighted: When Cinematic Set Pieces Meet Virtual Reality'
 author: []
+sourcePath: _posts/2016-01-13-this-scene-is-copyrighted-when-cinematic-set-pieces-meet-vi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-this-scene-is-copyrighted-when-cinematic-set-pieces-meet-vi.md
-published: true
 url: this-scene-is-copyrighted-when-cinematic-set-pieces-meet-vi/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3bae71b-2655-4444-a201-912420760d39.jpg)
 
-# This Scene is Copyrighted: When Cinematic Set Pieces Meet Virtual Reality
+# This Situation is Copyrighted: When Cinematic Set Pieces Meet Virtual Reality
 
 TRON. Alien. Blade Runner. Movies can take us to iconic places, and present great opportunities to inspire VR experiences created by fans. But what will happen when these experiences get too close to the original content?
 
