@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'TRON. Alien. Blade Runner. Movies can take us to iconic places, and present great opportunities to inspire VR experiences created by fans. But what will happen when these experiences get too close to the original content?'
-datePublished: '2016-01-13T18:55:13.486Z'
-dateModified: '2016-01-13T18:55:02.922Z'
+datePublished: '2016-01-13T19:03:02.432Z'
+dateModified: '2016-01-13T19:02:53.682Z'
 title: 'This Situation is Copyrighted: When Cinematic Set Pieces Meet Virtual Reality'
 author: []
 sourcePath: _posts/2016-01-13-this-scene-is-copyrighted-when-cinematic-set-pieces-meet-vi.md
@@ -38,13 +38,15 @@ You're not Indiana Jones, but you could be. The Virtual Reality experience you'v
 
 Now, before you go hunting  for this amazing VR experience, let me save you some time. It does not exist. Yet. But the pace of consumer VR is accelerating rapidly, and the availability of increasingly user friendly content creation tools like Unity and Unreal Engine have put the creation of such scenarios within the reach of any dedicated fan with spare time and a minimum of technical know-how on their side.
 
+> you could choose to puzzle your way out of a terrifying set piece from movies like Cube or Saw. Or you could just reflect peacefully under a glowing alien tree, surrounded by an alien environment very reminiscent of Pandora.
+
 Replicating, or approximating, such iconic cinematic scenarios in a more traditional gaming medium has of course been done before (Here's looking at you, Tomb Raider), but not until the advent of VR has there been such a compelling reason to try and replicate those iconic moments in their full interactive glory. 
 
 Consider the potential. Anyone with access to a standing or room-scale VR solution, either of which will be available on the HTC Vive and later the Oculus Rift platforms starting from the second quarter of the year, could step into the shoes of their favourite action hero. If action is not your thing, you could choose to puzzle your way out of a terrifying set piece from movies like Cube or Saw. Or you could just reflect peacefully under a glowing alien tree, surrounded by an alien environment very reminiscent of [Pandora][2].
 
-But how close could a VR representation of an iconic movie scene need to be before it bordered on copyright infringement? Does the doctrine of [Fair Use][3] apply to recognisable situations? Can you even copyright a location or scenery? And how could you even enforce any such claims when the mere presence of player interaction, and therefore agency, guarantee that the scene itself will never play out exactly the same way twice?
+But how close could a VR representation of an iconic movie scene need to be before it bordered on copyright infringement? Does the doctrine of [Fair Use][3] apply to recognisable situations? Can you conceivably copyright a location or scenery? And how could you even enforce any such claims when the mere presence of player interaction, and therefore agency, guarantee that the scene itself will never play out exactly the same way twice?
 
-These are all questions that will become more important as the Virtual Reality revolution continues to change the way we experience media. Even today, fan-driven replications of iconic settings inspired by classic movies like [Blade Runner][4] and [Star Wars][5] are starting to emerge. None have thus far being challenged by the letter of the law, but it's only a matter of time.
+These are all questions that will become more important as the Virtual Reality revolution continues to change the way we experience media. Even today, fan-driven replications of iconic settings inspired by classic movies like [Blade Runner][4] and [Star Wars][5] are starting to emerge. None of these fan-generated experiences have thus far been challenged by the letter of the law, but it's only a matter of time.
 
 The difficulty will lie in defining what specifically defines an iconic set piece like the Holy Grail challenges, particularly in those instances that lack specific dialog (which is eminently protected by copyright). Any one scene  in cinema can in fact be roughly broken down to the following components:
 
@@ -61,6 +63,8 @@ The difficulty will lie in defining what specifically defines an iconic set piec
 So can any combination of of these parts be considered an artifact that could run afoul of copyright law? In  an interactive VR experience, any or all of these could be perfectly replicated to various degrees, with the possible exceptions may include Choreography and Duration, in the case of experiences where the player takes on the role of protagonist and is given agency to operate freely (and unpredictably) within the confines of the experience's environment and mechanics.
 
 So,  while the uniqueness and likely copyright implications of Protagonist and Supporting Characters (if named, or reproduced in good likeness), Musical score, and Dialogue for any one given scene or set piece should be clear, any combination of the remaining factors (Choreography, Cinematography, Set Design, Props and of course Duration) should be fair game for creative VR replications, no matter how close to the original source material. 
+> 
+> Is producing a VR experience carefully recreating the Saw puzzles the same thing as building an unlicensed theme park?
 
 In practice this might mean that, while you could get away with recreating the inside of the [Nostromo][6] room for room, you may be in trouble if you included the Wayland-Yutani Corporation logo anywhere it can be seen, or a perfect virtual likeness of Ripley chilling by the mess table.
 
