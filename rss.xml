@@ -4,7 +4,7 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 09:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 14:33:30 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Situation is Copyrighted: When Cinematic Set Pieces Meet Virtual Reality]]></title>
@@ -12,6 +12,13 @@
             <link>http://augmentl.io/this-scene-is-copyrighted-when-cinematic-set-pieces-meet-vi/index.html</link>
             <guid isPermaLink="false">0b59d98c-aaed-4419-a454-f71bd7c4d821</guid>
             <pubDate>Wed, 13 Jan 2016 19:09:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report: HTC to spin-off Vive VR in to independent company]]></title>
+            <description><![CDATA[<article><h1>Report: HTC to spin-off Vive VR in to independent company</h1><p>A report from Focus Taiwan this morning claims that HTC is seriously considering, even planning, to spin-off its virtual reality efforts in to a separate independent company. If HTC goes ahead with the plans, it could mean we'll eventually start seeing headsets like the Vive launch without HTC's branding on them...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f61ca4f4d67c86e7313dae1ae7fa0673e6a2e0f.jpg"></article>]]></description>
+            <link>http://9to5google.com/2016/01/18/htc-vr-independent-company/</link>
+            <guid isPermaLink="false">fd1a96a2-23e0-42d1-959b-ede738ebdb0f</guid>
+            <pubDate>Mon, 18 Jan 2016 14:33:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google's Cardboard Isn't Really VR, But It's About to Get a Whole Lot Closer to the Real Thing]]></title>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/oculus-just-pulled-the-ultimate-classy-move/index.html</link>
             <guid isPermaLink="false">16b38158-b398-4078-a46c-dbe237e4e156</guid>
             <pubDate>Wed, 06 Jan 2016 19:23:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rift is $599, launch details released as pre-orders start - UploadVR]]></title>
-            <description><![CDATA[<article><h1>Rift is $599, launch details released as pre-orders start - UploadVR</h1><p>After years of preparation Oculus began offering the Rift for pre-order at $599. The wired PC-powered VR headset is expected to ship to buyers in March with Oculus co-founder Palmer Luckey suggesting those who aren't able to get it in the first shipments will still get Lucky's Tale and EVE: Valkyrie bundled with the Rift for free at a later date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1c2177b4fe5c92857888c148cc37af00ea1c9bc.jpg"></article>]]></description>
-            <link>http://uploadvr.com/rift-is-599-launch-details-released-as-pre-orders-start/</link>
-            <guid isPermaLink="false">99c80f63-8334-4623-a042-350fb194c011</guid>
-            <pubDate>Wed, 06 Jan 2016 18:50:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
