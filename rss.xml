@@ -4,7 +4,7 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 08:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 09:36:24 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Situation is Copyrighted: When Cinematic Set Pieces Meet Virtual Reality]]></title>
@@ -14,15 +14,22 @@
             <pubDate>Wed, 13 Jan 2016 19:09:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Google's Cardboard Isn't Really VR, But It's About to Get a Whole Lot Closer to the Real Thing]]></title>
+            <description><![CDATA[<article><h1>Google's Cardboard Isn't Really VR, But It's About to Get a Whole Lot Closer to the Real Thing</h1><p>For all there is to love about Google Cardboard, it's still a bare-bones experience. It's barely even VR, really. But the cheap, smartphone-based viewer offers the VR-curious an easy window into 360-degree video. Pricier headsets like the Oculus Rift and Sony PlayStation VR, designed for gaming, deliver more than a cool stereoscopic viewing experience.</p><img src="http://www.wired.com/wp-content/uploads/2015/10/google-cardboard-ft-1200x630-e1445384983347.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/01/why-spatial-audio-is-a-big-deal-for-google-cardboard/</link>
+            <guid isPermaLink="false">a0d09f8e-4fee-49d8-92e8-70adcdce8f44</guid>
+            <pubDate>Mon, 18 Jan 2016 09:35:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The inside story of Lucky's Tale, the Super Mario of virtual reality]]></title>
-            <description><![CDATA[<article><h1>The inside story of Lucky's Tale, the Super Mario of virtual reality</h1><p>You may not have yet heard of Lucky's Tale, but if you're going to be testing the waters of virtual reality anytime soon, there's a good chance you will. We sat down with the mastermind behind VR's answer to Super Mario Bros., to talk about the making of the Rift launch title, the challenges that went along with it and the potential parallels between early VR and early Walt Disney.</p><img src="http://img-3.gizmag.com/paul-bettner-interview-1.jpg?auto=format&ch=Width%2CDPR&fit=crop&h=394&q=60&rect=0%2C0%2C1918%2C1078&w=700&s=3b51f2efae4e6e22bf9c18a15eff0026"></article>]]></description>
+            <description><![CDATA[<article><h1>The inside story of Lucky's Tale, the Super Mario of virtual reality</h1><p>You may not have yet heard of Lucky's Tale, but if you're going to be testing the waters of virtual reality anytime soon, there's a good chance you will. We sat down with the mastermind behind VR's answer to Super Mario Bros., to talk about the making of the Rift launch title, the challenges that went along with it and the potential parallels between early VR and early Walt Disney.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0e603ca2dae897c3ad0df69c49531163e67d325.jpg"></article>]]></description>
             <link>http://www.gizmag.com/luckys-tale-paul-bettner-interview/41343/</link>
             <guid isPermaLink="false">4d218ff8-8297-4df5-96de-b99b8b4b5be2</guid>
             <pubDate>Fri, 15 Jan 2016 08:49:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[8 Highlights From an AMA With Oculus Founder Palmer Luckey]]></title>
-            <description><![CDATA[<article><h1>8 Highlights From an AMA With Oculus Founder Palmer Luckey</h1><p>From Rift production issues to the future of the Oculus Store, here are some key highlights from yesterday's Reddit AMA. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad531ad2e493556f11807d560dca9a245c5918d3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>8 Highlights From an AMA With Oculus Founder Palmer Luckey</h1><p>From Rift production issues to the future of the Oculus Store, here are some key highlights from yesterday's Reddit AMA. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2fac6c75f37dd2d4951dcfd8e615f2212b8d807.jpg"></article>]]></description>
             <link>http://augmentl.io/8-highlights-from-an-ama-with-oculus-founder-palmer-luckey/index.html</link>
             <guid isPermaLink="false">a3c9849e-1d71-4500-9204-cc3cfdab51e6</guid>
             <pubDate>Wed, 13 Jan 2016 19:13:04 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://uploadvr.com/rift-is-599-launch-details-released-as-pre-orders-start/</link>
             <guid isPermaLink="false">99c80f63-8334-4623-a042-350fb194c011</guid>
             <pubDate>Wed, 06 Jan 2016 18:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five Virtual Reality Predictions for CES 2016]]></title>
-            <description><![CDATA[<article><h1>Five Virtual Reality Predictions for CES 2016</h1><p>CES 2016 is upon us. Oculus will open preorders for the Rift. HTC will unveil its new Vive. It's like Christmas for VR enthusiasts. But what else will we see, and why? Here's what we think.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61b8f88513249174f74912d319d92c1a687ae3e3.jpg"></article>]]></description>
-            <link>http://augmentl.io/five-virtual-reality-predictions-for-ces-2016/index.html</link>
-            <guid isPermaLink="false">159fc23b-f55f-49ba-a610-bf16c3f5db94</guid>
-            <pubDate>Tue, 05 Jan 2016 21:13:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
