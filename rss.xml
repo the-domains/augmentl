@@ -4,7 +4,7 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 09:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 09:51:19 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Situation is Copyrighted: When Cinematic Set Pieces Meet Virtual Reality]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 13 Jan 2016 19:09:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[HTC Denies Reports It Will Spin Its VR Business Into A Standalone Company]]></title>
+            <description><![CDATA[<article><h1>HTC Denies Reports It Will Spin Its VR Business Into A Standalone Company</h1><p>Virtual reality is becoming a major focus for struggling smartphone maker HTC, but not so major that it will spin out its VR business into a standalone company. The firm today issued a statement denying a report from local media in its home country of Taiwan which claimed Chairwoman Cher Wang is in the process of creating a new VR entity that is wholly owned by her and HTC.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/12/vive.png?w=764&h=400&crop=1"></article>]]></description>
+            <link>http://techcrunch.com/2016/01/18/htc-denies-vr-spin-out-plan/</link>
+            <guid isPermaLink="false">2b308ff1-15d0-4186-860c-f55675d95d67</guid>
+            <pubDate>Tue, 19 Jan 2016 09:50:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Facebook is opening an Oculus research office in Pittsburgh]]></title>
-            <description><![CDATA[<article><h1>Facebook is opening an Oculus research office in Pittsburgh</h1><p>Facebook is opening an office focused on research for its Oculus virtual reality platform in Pittsburgh, of all places. An Oculus spokeswoman confirmed that the company has leased an office in Pittsburgh "that's dedicated to Oculus Research." In other words, it's not just for any employees of Facebook, and not just for any Oculus employees, either.</p><img src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2015/03/zuck-oculus-2-780x510.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Facebook is opening an Oculus research office in Pittsburgh</h1><p>Facebook is opening an office focused on research for its Oculus virtual reality platform in Pittsburgh, of all places. An Oculus spokeswoman confirmed that the company has leased an office in Pittsburgh "that's dedicated to Oculus Research." In other words, it's not just for any employees of Facebook, and not just for any Oculus employees, either.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1596a565709261ceab6563d5a294894e3dc7a19.jpg"></article>]]></description>
             <link>http://venturebeat.com/2016/01/18/facebook-is-opening-an-oculus-research-office-in-pittsburgh/</link>
             <guid isPermaLink="false">ecd45eeb-3abc-4f23-9f32-2c78df269cc3</guid>
             <pubDate>Tue, 19 Jan 2016 09:13:38 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/in-case-you-missed-it-the-chaotic-aftermath-of-the-rifts-r/index.html</link>
             <guid isPermaLink="false">9c6000a8-3f27-4542-8167-f48f41bb1b40</guid>
             <pubDate>Mon, 11 Jan 2016 09:42:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We called it first: HTC Vive "breakthrough" is indeed improved optics]]></title>
-            <description><![CDATA[<article><h1>We called it first: HTC Vive "breakthrough" is indeed improved optics</h1><p>When we first heard of it, we made some informed predictions about HTC's rumoured 'breakthrough' for the Vive VR headset. How did we do? Turns out, not bad at all.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb3a1552fea2ac093bbe719b0735e9dc98c7f9d5.jpg"></article>]]></description>
-            <link>http://augmentl.io/we-called-it-first-htc-vive-breakthrough-is-indeed-improv/index.html</link>
-            <guid isPermaLink="false">88def5fe-ac4a-4006-ab10-1bcab2c3741e</guid>
-            <pubDate>Wed, 06 Jan 2016 19:23:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
