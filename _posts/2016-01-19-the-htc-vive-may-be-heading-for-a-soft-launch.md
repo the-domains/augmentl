@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'The Virtual Reality solution HTC showed at CES 2016, the Vive Pre, was not the final consumer model. But it may still be all that HTC consumers will get for some time. '
-datePublished: '2016-01-19T11:19:49.398Z'
-dateModified: '2016-01-19T11:19:39.449Z'
+datePublished: '2016-01-19T19:25:06.098Z'
+dateModified: '2016-01-19T17:01:43.551Z'
 title: The HTC Vive May be Heading for a Soft Launch
 author: []
+sourcePath: _posts/2016-01-19-the-htc-vive-may-be-heading-for-a-soft-launch.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-the-htc-vive-may-be-heading-for-a-soft-launch.md
-published: true
 url: the-htc-vive-may-be-heading-for-a-soft-launch/index.html
 _type: Article
 
@@ -40,7 +40,7 @@ The HTC Vive was originally scheduled for a commercial launch in the holiday 201
 > 
 > "launching the second generation of the HTC Vive Developer Kit at CES \[...\] starting the new year by making an additional 7,000 units available to developers, with pre-orders from the end of February followed by commercial availability in April 2016."
 
-Note the language used. It does in no way imply that the April 2016 commercial release applies to anything other than the second developer kit, later dubbed the Vive Pre. [Further interviews][3] with HTC reps at CES also featured the same elusive language, reaffirming that the Pre is not the final consumer version, but not explicitly committing to a new device model before the April launch. 
+Note the language used. In no way does it imply that the April 2016 commercial release applies to anything other than the second developer kit, later dubbed the Vive Pre. [Further interviews][3] with HTC reps at CES also featured the same elusive language, reaffirming that the Pre is not the final consumer version, but not explicitly committing to a new, final device revision before the scheduled April launch. 
 
 Whether or not the [internet rumours][4] that HTC cancelled a more refined version of the Vive are true, the practicalities of mass device manufacturing would suggest that the Vive Pre is unlikely to see significant hardware changes before April. It therefore follows that HTC may indeed be positioning the Pre as a "soft" commercial launch product in the same way Samsung launched their GearVR Innovator Edition, a not-quite-finished precursor to a more polished commercial device.
 
