@@ -4,11 +4,11 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 18:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 20:13:12 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Demo Showcase: Blade Runner Meets VR in L.A.2097: Precipice]]></title>
-            <description><![CDATA[<article><h1>Demo Showcase: Blade Runner Meets VR in L.A.2097: Precipice</h1><p>Stand on Deckard's balcony on a rainy night with this artful, Blade Runner inspired Virtual Reality demo by first-time VR developer zx81</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0412de286c0c3965b1c98aaac6cd71107762d156.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Demo Showcase: Blade Runner Meets VR in L.A.2097: Precipice</h1><p>Stand on Deckard's balcony on a rainy night with this artful, Blade Runner inspired Virtual Reality demo by first-time VR developer zx81</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef844ce59c905b3897eb47fc2693ea179d111a17.jpg"></article>]]></description>
             <link>http://augmentl.io/demo-showcase-blade-runner-meets-vr-in-la2097-precipice/index.html</link>
             <guid isPermaLink="false">44186b16-7770-44e4-aef7-fee8d9af7a6f</guid>
             <pubDate>Wed, 20 Jan 2016 18:17:30 GMT</pubDate>
@@ -19,6 +19,13 @@
             <link>http://augmentl.io/the-htc-vive-may-be-heading-for-a-soft-launch/index.html</link>
             <guid isPermaLink="false">a0a3ad36-5242-4d36-a140-299a210a769a</guid>
             <pubDate>Tue, 19 Jan 2016 19:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook's Oculus Rift Is Tops With VR Game Developers As Virtual Reality Gets Real In 2016]]></title>
+            <description><![CDATA[<article><h1>Facebook's Oculus Rift Is Tops With VR Game Developers As Virtual Reality Gets Real In 2016</h1><p>The Rift currently has the most VR developer support according to a new 2016 survey of 2000 developers at GDC.</p><img src="http://s1.ibtimes.com/sites/www.ibtimes.com/files/2016/01/20/virtual-reality-2016.jpg"></article>]]></description>
+            <link>http://augmentl.io/the-rift-currently-has-the-most-vr-developer-support-accordi/index.html</link>
+            <guid isPermaLink="false">06729f63-b7b1-414a-8aaf-09abb558a9c3</guid>
+            <pubDate>Thu, 21 Jan 2016 20:11:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This Situation is Copyrighted: When Cinematic Set Pieces Meet Virtual Reality]]></title>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/8-highlights-from-an-ama-with-oculus-founder-palmer-luckey/index.html</link>
             <guid isPermaLink="false">a3c9849e-1d71-4500-9204-cc3cfdab51e6</guid>
             <pubDate>Wed, 13 Jan 2016 19:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Preorders for the HTC Vive open February 29, But Can HTC Deliver by April?]]></title>
-            <description><![CDATA[<article><h1>Preorders for the HTC Vive open February 29, But Can HTC Deliver by April?</h1><p>Aside from the price, the big question that remains concerning the Vive is whether HTC's promised April timeframe for shipping and wider consumer availability is realistic. While Oculus announced the start of production and manufacturing of their consumer product as far back as September 2015, HTC are yet to show a final, consumer ready version of their VR offering.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5d98f421ee4a9f39dfd796a4d52ea856a041838.jpg"></article>]]></description>
-            <link>http://augmentl.io/preorders-for-the-htc-vive-open-february-29-but-can-htc-del/index.html</link>
-            <guid isPermaLink="false">4f989145-6dad-400b-863d-4ef2125d2c99</guid>
-            <pubDate>Mon, 11 Jan 2016 13:40:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
