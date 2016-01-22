@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'The Virtual Reality solution HTC showed at CES 2016, the Vive Pre, was not the final consumer model. But it may still be all that HTC consumers will get for some time. '
-datePublished: '2016-01-19T19:25:06.098Z'
-dateModified: '2016-01-19T17:01:43.551Z'
+datePublished: '2016-01-22T08:05:20.382Z'
+dateModified: '2016-01-22T08:05:15.463Z'
 title: The HTC Vive May be Heading for a Soft Launch
 author: []
 sourcePath: _posts/2016-01-19-the-htc-vive-may-be-heading-for-a-soft-launch.md
