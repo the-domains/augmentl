@@ -4,7 +4,7 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 08:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 08:28:54 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Demo Showcase: Blade Runner Meets VR in L.A.2097: Precipice]]></title>
@@ -12,6 +12,13 @@
             <link>http://augmentl.io/demo-showcase-blade-runner-meets-vr-in-la2097-precipice/index.html</link>
             <guid isPermaLink="false">44186b16-7770-44e4-aef7-fee8d9af7a6f</guid>
             <pubDate>Wed, 20 Jan 2016 18:17:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple Hires Leading Virtual Reality Researcher]]></title>
+            <description><![CDATA[<article><h1>Apple Hires Leading Virtual Reality Researcher</h1><p>Apple has hired Doug Bowman, one of the U.S.' leading virtual reality experts, according to a new report from the Financial Times. Bowman joined Apple after going on sabbatical from his job as a computer science professor at Virginia Tech.</p><img src="http://cdn.macrumors.com/article-new/2013/12/apple_patent_video_goggles.jpg?retina"></article>]]></description>
+            <link>http://www.macrumors.com/2016/01/21/apple-hires-leading-vr-researcher/?utm_source=feedly&amp;utm_medium=webfeeds</link>
+            <guid isPermaLink="false">3a0adf74-b29d-415b-9dff-1cdc3bc713ce</guid>
+            <pubDate>Fri, 22 Jan 2016 08:28:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The HTC Vive May be Heading for a Soft Launch]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.gizmag.com/luckys-tale-paul-bettner-interview/41343/</link>
             <guid isPermaLink="false">4d218ff8-8297-4df5-96de-b99b8b4b5be2</guid>
             <pubDate>Fri, 15 Jan 2016 08:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8 Highlights From an AMA With Oculus Founder Palmer Luckey]]></title>
-            <description><![CDATA[<article><h1>8 Highlights From an AMA With Oculus Founder Palmer Luckey</h1><p>From Rift production issues to the future of the Oculus Store, here are some key highlights from yesterday's Reddit AMA. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2fac6c75f37dd2d4951dcfd8e615f2212b8d807.jpg"></article>]]></description>
-            <link>http://augmentl.io/8-highlights-from-an-ama-with-oculus-founder-palmer-luckey/index.html</link>
-            <guid isPermaLink="false">a3c9849e-1d71-4500-9204-cc3cfdab51e6</guid>
-            <pubDate>Wed, 13 Jan 2016 19:13:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
