@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Stand on Deckard's balcony on a rainy night with this artful, Blade Runner inspired Virtual Reality demo by first-time VR developer zx81"
-datePublished: '2016-01-20T18:17:30.514Z'
-dateModified: '2016-01-20T18:17:27.896Z'
+datePublished: '2016-01-25T08:19:08.007Z'
+dateModified: '2016-01-25T08:19:04.017Z'
 title: 'Demo Showcase: Blade Runner Meets VR in L.A.2097: Precipice'
 author: []
 sourcePath: _posts/2016-01-20-demo-showcase-blade-runner-meets-vr-in-la2097-precipice.md
