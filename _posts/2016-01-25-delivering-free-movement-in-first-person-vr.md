@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.ndreams.com'
-  name: nDreams
-  favicon: 'http://www.ndreams.com/themes/ndreams/dist/img/general/favicon.ico'
-  domain: www.ndreams.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.ndreams.com/blog/2015/delivering-free-movement-in-first-person-vr/'
+inLanguage: en
+starred: false
 keywords:
   - gamers
   - first-person
@@ -18,17 +17,20 @@ keywords:
   - speed
   - sick
 description: "We all know that gamers want to play first-person games in VR. What with sci-fi fantasies like Star Trek's Holodeck or Ready Player One's virtual world (not to mention guilty pleasures Johnny Mnemonic and The Lawnmower Man), we've all grown up believing that VR is about experiencing, exploring and walking around in first-person."
-inLanguage: en
+datePublished: '2016-01-25T08:40:15.448Z'
+dateModified: '2016-01-25T08:40:12.141Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.ndreams.com/blog/2015/delivering-free-movement-in-first-person-vr/'
 title: Delivering Free Movement in First-person VR
-datePublished: '2016-01-25T08:18:57.169Z'
-dateModified: '2016-01-25T08:18:37.642Z'
 sourcePath: _posts/2016-01-25-delivering-free-movement-in-first-person-vr.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: nDreams
+  domain: www.ndreams.com
+  url: 'http://www.ndreams.com'
+  favicon: 'http://www.ndreams.com/themes/ndreams/dist/img/general/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
