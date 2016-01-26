@@ -4,8 +4,15 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 08:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 08:18:39 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Two major visual effects studios join forces for VR push]]></title>
+            <description><![CDATA[<article><h1>Two major visual effects studios join forces for VR push</h1><p>The acquisition is probably a timely rescue for Tse's Post Production. Back in September, the company had to reduce its workforce in Hong Kong to focus on its more lucrative business in Mainland China, according to Apple Daily .</p><img src="http://o.aolcdn.com/hss/storage/midas/c559c2347c74b854ee708fdff698c163/203308347/digital-domain-execs.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2016/01/25/digital-domain-post-production-acquisition-china/</link>
+            <guid isPermaLink="false">1b3c2d37-70d5-49eb-8ed6-6558a4a7e960</guid>
+            <pubDate>Tue, 26 Jan 2016 08:17:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Demo Showcase: Blade Runner Meets VR in L.A.2097: Precipice]]></title>
             <description><![CDATA[<article><h1>Demo Showcase: Blade Runner Meets VR in L.A.2097: Precipice</h1><p>Stand on Deckard's balcony on a rainy night with this artful, Blade Runner inspired Virtual Reality demo by first-time VR developer zx81</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2bbdfd6fd2b1a624f5a9d4671ce1c50a9c60a40.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://9to5google.com/2016/01/18/htc-vr-independent-company/</link>
             <guid isPermaLink="false">fd1a96a2-23e0-42d1-959b-ede738ebdb0f</guid>
             <pubDate>Mon, 18 Jan 2016 14:33:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's Cardboard Isn't Really VR, But It's About to Get a Whole Lot Closer to the Real Thing]]></title>
-            <description><![CDATA[<article><h1>Google's Cardboard Isn't Really VR, But It's About to Get a Whole Lot Closer to the Real Thing</h1><p>For all there is to love about Google Cardboard, it's still a bare-bones experience. It's barely even VR, really. But the cheap, smartphone-based viewer offers the VR-curious an easy window into 360-degree video. Pricier headsets like the Oculus Rift and Sony PlayStation VR, designed for gaming, deliver more than a cool stereoscopic viewing experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c531296e0c85aa1ca8d1404c751f0513c55f7c32.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/01/why-spatial-audio-is-a-big-deal-for-google-cardboard/</link>
-            <guid isPermaLink="false">a0d09f8e-4fee-49d8-92e8-70adcdce8f44</guid>
-            <pubDate>Mon, 18 Jan 2016 09:35:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
