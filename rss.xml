@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 08:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 19:19:04 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Guest Post: An MMO for VR]]></title>
+            <description><![CDATA[<article><h1>Guest Post: An MMO for VR</h1><p>Could MMO's be VR's killer app? Mark A. Donovan discusses how a genre defined by its complex mechanics as much as by its social component can make the transition to Virtual Reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da277619e51664feb7eaa4c72931ba66132c95d1.jpg"></article>]]></description>
+            <link>http://augmentl.io/guest-post-an-mmo-for-vr/index.html</link>
+            <guid isPermaLink="false">8abbc554-0930-4caa-9edf-f650a19f1040</guid>
+            <pubDate>Tue, 26 Jan 2016 19:19:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Two major visual effects studios join forces for VR push]]></title>
-            <description><![CDATA[<article><h1>Two major visual effects studios join forces for VR push</h1><p>The acquisition is probably a timely rescue for Tse's Post Production. Back in September, the company had to reduce its workforce in Hong Kong to focus on its more lucrative business in Mainland China, according to Apple Daily .</p><img src="http://o.aolcdn.com/hss/storage/midas/c559c2347c74b854ee708fdff698c163/203308347/digital-domain-execs.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Two major visual effects studios join forces for VR push</h1><p>The acquisition is probably a timely rescue for Tse's Post Production. Back in September, the company had to reduce its workforce in Hong Kong to focus on its more lucrative business in Mainland China, according to Apple Daily .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a3a32bca8261a59cb30ef1b153ba4d415a90d4c.jpg"></article>]]></description>
             <link>http://www.engadget.com/2016/01/25/digital-domain-post-production-acquisition-china/</link>
             <guid isPermaLink="false">1b3c2d37-70d5-49eb-8ed6-6558a4a7e960</guid>
             <pubDate>Tue, 26 Jan 2016 08:17:56 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2016/01/18/facebook-is-opening-an-oculus-research-office-in-pittsburgh/</link>
             <guid isPermaLink="false">ecd45eeb-3abc-4f23-9f32-2c78df269cc3</guid>
             <pubDate>Tue, 19 Jan 2016 09:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: HTC to spin-off Vive VR in to independent company]]></title>
-            <description><![CDATA[<article><h1>Report: HTC to spin-off Vive VR in to independent company</h1><p>A report from Focus Taiwan this morning claims that HTC is seriously considering, even planning, to spin-off its virtual reality efforts in to a separate independent company. If HTC goes ahead with the plans, it could mean we'll eventually start seeing headsets like the Vive launch without HTC's branding on them...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05cafeb43aa4c1c5b37ec2c88a77cce9e551eb98.jpg"></article>]]></description>
-            <link>http://9to5google.com/2016/01/18/htc-vr-independent-company/</link>
-            <guid isPermaLink="false">fd1a96a2-23e0-42d1-959b-ede738ebdb0f</guid>
-            <pubDate>Mon, 18 Jan 2016 14:33:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
