@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 19:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 08:21:14 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[NASA Is Using Unreal Engine 4 To Make Mars A Virtual Reality]]></title>
+            <description><![CDATA[<article><h1>NASA Is Using Unreal Engine 4 To Make Mars A Virtual Reality</h1><p>NASA has teamed up with Fusion Media, MIT, and game developers to make The Mars 2030 Experience.</p><img src="https://cdn2.unrealengine.com/blogAssets/2016/Jan/Jan26/Mars_Share-1200x630-417888686.jpg"></article>]]></description>
+            <link>https://www.unrealengine.com/showcase/nasa-is-using-unreal-engine-4-to-make-mars-a-virtual-reality</link>
+            <guid isPermaLink="false">0a695732-b0a6-4cb0-90ae-4b638185fc18</guid>
+            <pubDate>Fri, 29 Jan 2016 08:18:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Guest Post: An MMO for VR]]></title>
-            <description><![CDATA[<article><h1>Guest Post: An MMO for VR</h1><p>Could MMO's be VR's killer app? Mark A. Donovan discusses how a genre defined by its complex mechanics as much as by its social component can make the transition to Virtual Reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da277619e51664feb7eaa4c72931ba66132c95d1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Guest Post: An MMO for VR</h1><p>Could MMO's be VR's killer app? Mark A. Donovan discusses how a genre defined by its complex mechanics as much as by its social component can make the transition to Virtual Reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/725c07d20299259abf53c6986d3d14e983a134d1.jpg"></article>]]></description>
             <link>http://augmentl.io/guest-post-an-mmo-for-vr/index.html</link>
             <guid isPermaLink="false">8abbc554-0930-4caa-9edf-f650a19f1040</guid>
             <pubDate>Tue, 26 Jan 2016 19:19:01 GMT</pubDate>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Delivering Free Movement in First-person VR]]></title>
-            <description><![CDATA[<article><h1>Delivering Free Movement in First-person VR</h1><p>We all know that gamers want to play first-person games in VR. What with sci-fi fantasies like Star Trek's Holodeck or Ready Player One's virtual world (not to mention guilty pleasures Johnny Mnemonic and The Lawnmower Man), we've all grown up believing that VR is about experiencing, exploring and walking around in first-person.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42a89c89e06109701613a561e569d3fd1a4ec15b.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Delivering Free Movement in First-person VR</h1><p>We all know that gamers want to play first-person games in VR. What with sci-fi fantasies like Star Trek's Holodeck or Ready Player One's virtual world (not to mention guilty pleasures Johnny Mnemonic and The Lawnmower Man), we've all grown up believing that VR is about experiencing, exploring and walking around in first-person.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cfcba1b8b75a1b3ecdc7c766dce4724ee972ccb.png"></article>]]></description>
             <link>http://www.ndreams.com/blog/2015/delivering-free-movement-in-first-person-vr/</link>
             <guid isPermaLink="false">3b015642-4cc9-4368-b183-2d497b58eba1</guid>
             <pubDate>Mon, 25 Jan 2016 08:40:15 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2016/01/18/htc-denies-vr-spin-out-plan/</link>
             <guid isPermaLink="false">2b308ff1-15d0-4186-860c-f55675d95d67</guid>
             <pubDate>Tue, 19 Jan 2016 09:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook is opening an Oculus research office in Pittsburgh]]></title>
-            <description><![CDATA[<article><h1>Facebook is opening an Oculus research office in Pittsburgh</h1><p>Facebook is opening an office focused on research for its Oculus virtual reality platform in Pittsburgh, of all places. An Oculus spokeswoman confirmed that the company has leased an office in Pittsburgh "that's dedicated to Oculus Research." In other words, it's not just for any employees of Facebook, and not just for any Oculus employees, either.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1596a565709261ceab6563d5a294894e3dc7a19.jpg"></article>]]></description>
-            <link>http://venturebeat.com/2016/01/18/facebook-is-opening-an-oculus-research-office-in-pittsburgh/</link>
-            <guid isPermaLink="false">ecd45eeb-3abc-4f23-9f32-2c78df269cc3</guid>
-            <pubDate>Tue, 19 Jan 2016 09:13:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
