@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Could MMO's be VR's killer app? Mark A. Donovan discusses how a genre defined by its complex mechanics as much as by its social component can make the transition to Virtual Reality."
-datePublished: '2016-01-26T19:19:01.748Z'
-dateModified: '2016-01-26T18:55:53.409Z'
+datePublished: '2016-02-01T14:41:47.205Z'
+dateModified: '2016-02-01T14:41:39.749Z'
 title: 'Guest Post: An MMO for VR'
 author: []
+sourcePath: _posts/2016-01-26-guest-post-an-mmo-for-vr.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-guest-post-an-mmo-for-vr.md
-published: true
 url: guest-post-an-mmo-for-vr/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f7f4e4-a344-4a8b-a500-91a2ce364d4a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/725c07d20299259abf53c6986d3d14e983a134d1.jpg)
 
 # Guest Post: An MMO for VR
 
