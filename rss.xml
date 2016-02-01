@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 08:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 08:15:12 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA['The Hobbit' VR Experience Nominated for Visual Effects Award]]></title>
+            <description><![CDATA[<article><h1>'The Hobbit' VR Experience Nominated for Visual Effects Award</h1><p>Thief in the Shadows, a VR experience based on The Hobbit: The Desolation of Smaug (2013), has been nominated for a Visual Effects Society award for 'Outstanding Visual Effects in a Real-Time Project'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c77c4b75bed056503277b437cbb4682350f5ff3.jpg"></article>]]></description>
+            <link>http://www.roadtovr.com/the-hobbit-vr-experience-nominated-for-visual-effects-award-alongside-halo-5-destiny-and-others/</link>
+            <guid isPermaLink="false">a1cd5edf-3fa9-4d23-9b40-957ec91136af</guid>
+            <pubDate>Mon, 01 Feb 2016 08:14:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NASA Is Using Unreal Engine 4 To Make Mars A Virtual Reality]]></title>
-            <description><![CDATA[<article><h1>NASA Is Using Unreal Engine 4 To Make Mars A Virtual Reality</h1><p>NASA has teamed up with Fusion Media, MIT, and game developers to make The Mars 2030 Experience.</p><img src="https://cdn2.unrealengine.com/blogAssets/2016/Jan/Jan26/Mars_Share-1200x630-417888686.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>NASA Is Using Unreal Engine 4 To Make Mars A Virtual Reality</h1><p>NASA has teamed up with Fusion Media, MIT, and game developers to make The Mars 2030 Experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f30a89fc5c5242f5a30f2d0144b5c38de48eeb27.jpg"></article>]]></description>
             <link>https://www.unrealengine.com/showcase/nasa-is-using-unreal-engine-4-to-make-mars-a-virtual-reality</link>
             <guid isPermaLink="false">0a695732-b0a6-4cb0-90ae-4b638185fc18</guid>
             <pubDate>Fri, 29 Jan 2016 08:18:44 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/this-scene-is-copyrighted-when-cinematic-set-pieces-meet-vi/index.html</link>
             <guid isPermaLink="false">0b59d98c-aaed-4419-a454-f71bd7c4d821</guid>
             <pubDate>Tue, 19 Jan 2016 19:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HTC Denies Reports It Will Spin Its VR Business Into A Standalone Company]]></title>
-            <description><![CDATA[<article><h1>HTC Denies Reports It Will Spin Its VR Business Into A Standalone Company</h1><p>Virtual reality is becoming a major focus for struggling smartphone maker HTC, but not so major that it will spin out its VR business into a standalone company. The firm today issued a statement denying a report from local media in its home country of Taiwan which claimed Chairwoman Cher Wang is in the process of creating a new VR entity that is wholly owned by her and HTC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/896426d8bf1d0e249dc98f0b3fdd30ab6c23eb83.png"></article>]]></description>
-            <link>http://techcrunch.com/2016/01/18/htc-denies-vr-spin-out-plan/</link>
-            <guid isPermaLink="false">2b308ff1-15d0-4186-860c-f55675d95d67</guid>
-            <pubDate>Tue, 19 Jan 2016 09:50:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
