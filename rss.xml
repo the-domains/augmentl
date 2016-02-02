@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 08:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 12:05:46 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Oculus Rift, Presence, Hype, and the Fundamentals of VR]]></title>
+            <description><![CDATA[<article><h1>The Oculus Rift, Presence, Hype, and the Fundamentals of VR</h1><p>When the HTC Vive introduced the concepts of room-scale and Chaperone to the emerging VR marketplace, it introduced some welcome innovation to an enthusiastic public. It also shifted the conversation away from what really matters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95c5d568587303005860fc729e5225c7f4ae1d5c.jpg"></article>]]></description>
+            <link>http://augmentl.io/the-oculus-rift-presence-hype-and-the-fundamentals-of-vr/index.html</link>
+            <guid isPermaLink="false">bd006587-89b9-4033-95bb-23defd33f12b</guid>
+            <pubDate>Tue, 02 Feb 2016 12:04:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Magic Leap Raises $794 Million And Announces "Mixed Reality Lightfield" - UploadVR]]></title>
-            <description><![CDATA[<article><h1>Magic Leap Raises $794 Million And Announces "Mixed Reality Lightfield" - UploadVR</h1><p>Magic Leap raised $794 million in new funding and CEO Rony Abovitz posted a blog suggesting the secretive company is moving closer toward a product, writing "we are setting up supply chain operations, manufacturing." Techcrunch reports Alibaba founder Jack Ma is joining Magic Leap's board.</p><img src="http://uploadvr.com/wp-content/uploads/2015/12/Magic-Leap-Dragon.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Magic Leap Raises $794 Million And Announces "Mixed Reality Lightfield" - UploadVR</h1><p>Magic Leap raised $794 million in new funding and CEO Rony Abovitz posted a blog suggesting the secretive company is moving closer toward a product, writing "we are setting up supply chain operations, manufacturing." Techcrunch reports Alibaba founder Jack Ma is joining Magic Leap's board.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8abf6855d15a90f2a2dbff032482722899864ba.jpg"></article>]]></description>
             <link>http://uploadvr.com/magic-leap-announces-mixed-reality-lightfield-amid-huge-funding-round/</link>
             <guid isPermaLink="false">7208f27d-ea07-43f6-b2bb-97cd53514920</guid>
             <pubDate>Tue, 02 Feb 2016 08:44:38 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/the-htc-vive-may-be-heading-for-a-soft-launch/index.html</link>
             <guid isPermaLink="false">a0a3ad36-5242-4d36-a140-299a210a769a</guid>
             <pubDate>Fri, 22 Jan 2016 08:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook's Oculus Rift Is Tops With VR Game Developers As Virtual Reality Gets Real In 2016]]></title>
-            <description><![CDATA[<article><h1>Facebook's Oculus Rift Is Tops With VR Game Developers As Virtual Reality Gets Real In 2016</h1><p>The vast majority of developers believe VR will reach a user base of 40 million, but it will take some time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37cbf9b73a560d46fe11b80bf3e07c3129c9d7bf.jpg"></article>]]></description>
-            <link>http://www.ibtimes.com/facebooks-oculus-rift-tops-vr-game-developers-virtual-reality-gets-real-2016-2272856</link>
-            <guid isPermaLink="false">1639ffe0-5b0d-4ccb-8f4c-22ee808937d6</guid>
-            <pubDate>Fri, 22 Jan 2016 08:02:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
