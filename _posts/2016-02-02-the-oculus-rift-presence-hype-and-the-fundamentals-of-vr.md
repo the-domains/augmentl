@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When the HTC Vive introduced the concepts of room-scale and Chaperone to the emerging VR marketplace, it introduced some welcome innovation to an enthusiastic public. It also shifted the conversation away from what really matters.'
-datePublished: '2016-02-02T12:04:29.429Z'
-dateModified: '2016-02-02T12:04:04.072Z'
+datePublished: '2016-02-02T18:32:12.679Z'
+dateModified: '2016-02-02T18:32:08.365Z'
 title: 'The Oculus Rift, Presence, Hype, and the Fundamentals of VR'
 author: []
+sourcePath: _posts/2016-02-02-the-oculus-rift-presence-hype-and-the-fundamentals-of-vr.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-the-oculus-rift-presence-hype-and-the-fundamentals-of-vr.md
-published: true
 url: the-oculus-rift-presence-hype-and-the-fundamentals-of-vr/index.html
 _type: Article
 
@@ -73,7 +73,9 @@ The HTC Vive is an impressive device. Together with its Lighthouse tracking and 
 
 But what the Vive delivers in scale, it lacks in fundamentals. Its displays and optics are just a notch short of what can be achieved in this hardware generation. Its audio solution is generic and at the mercy of what each player's own headphones can deliver. Its ergonomics consist of a comparatively heavy plastic housing paired with elastic straps. 
 
-While the Vive can absolutely deliver presence, it is likely to be more fleeting: a dropped frame, a slip of the headset, the weight on the nose, a too-faint or too-loud sound. In VR, any of these seemingly insignificant distractions are enough to break the fragile illusion of Presence, ejecting the player right back into the real world. 
+And while it's true that the Vive's freedom of room-scale movement and controller tracking is a powerful presence multiplier, any VR solution which doesn't first and foremost deliver on those fundamentals of presence is just _multiplying by zero_.
+
+So while the Vive can absolutely deliver presence, it is likely to be more fleeting: a dropped frame, a slip of the headset, the weight on the nose, a too-faint or too-loud sound. In VR, any of these seemingly insignificant distractions are enough to break the fragile illusion of Presence, ejecting the player right back into the real world. 
 
 While any and all of these factors will also likely affect the Rift, they're going to be comparatively minimised by the very attention to the fundamentals of VR that has defined Oculus's path to market. Because without those fundamentals, there is no Presence. And without Presence, there is no VR.
 
