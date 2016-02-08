@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 14:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 15:23:39 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Under the Virtual Tree: Social VR as a Gateway Experience]]></title>
+            <description><![CDATA[<article><h1>Under the Virtual Tree: Social VR as a Gateway Experience</h1><p>Social VR is going to be big, and mobile VR platforms are poised to lead the way. Could this be the "gateway drug" to mass-market VR adoption?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96e1eaa7ec5f992ae5e572ebb6aa4a62a9db4a3d.jpg"></article>]]></description>
+            <link>http://augmentl.io/under-the-virtual-tree-social-vr-as-a-gateway-experience/index.html</link>
+            <guid isPermaLink="false">b8321f95-fb4a-420c-b32b-1e10f477e36f</guid>
+            <pubDate>Mon, 08 Feb 2016 15:21:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Palmer Luckey on Touch Room-Scale Tracking: "The issue is already put to bed"]]></title>
-            <description><![CDATA[<article><h1>Palmer Luckey on Touch Room-Scale Tracking: "The issue is already put to bed"</h1><p>The Oculus VR founder made an unexpected appearance on Reddit to issue the final word on a burning question: Can the Rift's Touch controllers work at room-scale?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3357bc76070d852f26c456618a899de8fb259f6.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Palmer Luckey on Touch Room-Scale Tracking: "The issue is already put to bed"</h1><p>The Oculus VR founder made an unexpected appearance on Reddit to issue the final word on a burning question: Can the Rift's Touch controllers work at room-scale?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/849871ec054df1cde2560420b3d60cfe0f89a89c.jpg"></article>]]></description>
             <link>http://augmentl.io/palmer-luckey-on-touch-room-scale-tracking-the-issue-is-al/index.html</link>
             <guid isPermaLink="false">3202fea9-abe8-40ef-b696-d087608fef6f</guid>
             <pubDate>Fri, 05 Feb 2016 14:43:46 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.ndreams.com/blog/2015/delivering-free-movement-in-first-person-vr/</link>
             <guid isPermaLink="false">3b015642-4cc9-4368-b183-2d497b58eba1</guid>
             <pubDate>Mon, 25 Jan 2016 08:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple Hires Leading Virtual Reality Researcher]]></title>
-            <description><![CDATA[<article><h1>Apple Hires Leading Virtual Reality Researcher</h1><p>Apple has hired Doug Bowman, one of the U.S.' leading virtual reality experts, according to a new report from the Financial Times. Bowman joined Apple after going on sabbatical from his job as a computer science professor at Virginia Tech.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdc6b864f21ef0e04421011d0c7f067ee891727b.jpg"></article>]]></description>
-            <link>http://www.macrumors.com/2016/01/21/apple-hires-leading-vr-researcher/?utm_source=feedly&amp;utm_medium=webfeeds</link>
-            <guid isPermaLink="false">3a0adf74-b29d-415b-9dff-1cdc3bc713ce</guid>
-            <pubDate>Fri, 22 Jan 2016 08:28:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
