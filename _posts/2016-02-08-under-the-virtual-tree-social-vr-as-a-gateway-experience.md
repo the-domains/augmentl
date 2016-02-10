@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Social VR is going to be big, and AltSpaceVR is poised to lead the way. Could social be the "gateway drug" to mass-market VR adoption?'
-datePublished: '2016-02-08T15:32:50.762Z'
-dateModified: '2016-02-08T15:32:47.326Z'
+datePublished: '2016-02-09T15:23:50.391Z'
+dateModified: '2016-02-09T15:23:45.606Z'
 title: 'Under the Virtual Tree: Social VR as a Gateway Experience'
 author: []
 sourcePath: _posts/2016-02-08-under-the-virtual-tree-social-vr-as-a-gateway-experience.md
