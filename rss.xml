@@ -4,7 +4,7 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 15:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 08:46:02 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Under the Virtual Tree: Social VR as a Gateway Experience]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 09 Feb 2016 15:23:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vision Summit 2016 Keynote]]></title>
+            <description><![CDATA[<article><h1>Vision Summit 2016 Keynote</h1><p>Vision VR/AR Summit is an all-new cross industry event for artists, engineers, programmers, designers, musicians, directors and producers, hardware manufacturers and researchers. http://visionsummit2016.com/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4524951c490a3f5ee0ae7996507cb8a8e175d09a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=2hYDtxCtzdA</link>
+            <guid isPermaLink="false">a1b960ed-9032-40b3-874a-25aea1f5fa8d</guid>
+            <pubDate>Thu, 11 Feb 2016 08:45:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amazon Launches Lumberyard Beta Game Engine for Free - VR Guru]]></title>
-            <description><![CDATA[<article><h1>Amazon Launches Lumberyard Beta Game Engine for Free - VR Guru</h1><p>Online retail giant Amazon is well known for trialling new technologies, looking a ways it can leverage its massive selling power. Back in december amazon received patent approval for an augmented reality (AR) mapping system, and now its moving into videogame design as well.</p><img src="http://www.vrguru.com/wp-content/uploads/2016/02/Amazon-Lumberyard-Beta-Game-Engine-Free.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Amazon Launches Lumberyard Beta Game Engine for Free - VR Guru</h1><p>Online retail giant Amazon is well known for trialling new technologies, looking a ways it can leverage its massive selling power. Back in december amazon received patent approval for an augmented reality (AR) mapping system, and now its moving into videogame design as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca1b2b0e808f7fbb92998b1a807c0445c9423ce2.jpg"></article>]]></description>
             <link>http://www.vrguru.com/amazon-launches-lumberyard-beta-game-engine-for-free/</link>
             <guid isPermaLink="false">de3309e6-8f2e-42ef-995a-f32752dddcc6</guid>
             <pubDate>Tue, 09 Feb 2016 15:25:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/guest-post-an-mmo-for-vr/index.html</link>
             <guid isPermaLink="false">8abbc554-0930-4caa-9edf-f650a19f1040</guid>
             <pubDate>Mon, 01 Feb 2016 14:41:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two major visual effects studios join forces for VR push]]></title>
-            <description><![CDATA[<article><h1>Two major visual effects studios join forces for VR push</h1><p>The acquisition is probably a timely rescue for Tse's Post Production. Back in September, the company had to reduce its workforce in Hong Kong to focus on its more lucrative business in Mainland China, according to Apple Daily .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a3a32bca8261a59cb30ef1b153ba4d415a90d4c.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2016/01/25/digital-domain-post-production-acquisition-china/</link>
-            <guid isPermaLink="false">1b3c2d37-70d5-49eb-8ed6-6558a4a7e960</guid>
-            <pubDate>Tue, 26 Jan 2016 08:17:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
