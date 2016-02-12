@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We took a peek behind the curtain of Sulon's secretive website to get a glimpse at what's coming."
-datePublished: '2016-02-12T11:08:23.754Z'
-dateModified: '2016-02-12T11:08:21.749Z'
+datePublished: '2016-02-12T11:11:02.355Z'
+dateModified: '2016-02-12T11:10:55.537Z'
 title: 'Meet The New Sulon Cortex VR Headset, Coming Spring 2016'
 author: []
 sourcePath: _posts/2016-02-12-meet-the-new-sulon-cortex-vr-headset-coming-spring-2016.md
@@ -37,9 +37,9 @@ The Sulon Cortex is an ambitious Virtual Reality headset. Equipped with environm
 Since demonstrating their [earlier prototypes][1] in the middle of 2015, Sulon have been pretty quiet. Their current website offers little more than a teaser, with a Spring 2016 launch window.
 
 **Enhance!**
+![Side view of the Sulon Cortex](https://the-grid-user-content.s3-us-west-2.amazonaws.com/771dae17-ad8d-49f0-9840-707892da850e.png)
 
 We decided to see what was hiding behind [the site's][2] teaser images, mere outlines of the headset shrouded in shadow. Using our CSI like Photoshop skills, here's what we got:
-![Side view of the Sulon Cortex](https://the-grid-user-content.s3-us-west-2.amazonaws.com/771dae17-ad8d-49f0-9840-707892da850e.png)
 
 It doesn't look like much, but what that rendering reveals is a significantly more compact version of the fully untethered, self-contained VR headset Sulon had previously shown, absent the neon hexagonal designs that made the old version (below) look like a prop in a SyFy movie of the week. 
 
