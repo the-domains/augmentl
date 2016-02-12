@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 10:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 10:46:11 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Meet The New Sulon Cortex VR Headset, Coming Spring 2016]]></title>
+            <description><![CDATA[<article><h1>Meet The New Sulon Cortex VR Headset, Coming Spring 2016</h1><p>We took a peek behind the curtain of Sulon's secretive website to get a glimpse at what's coming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d3c1018015ecf814b0d3d46d412480e21c2d7dd.png"></article>]]></description>
+            <link>http://augmentl.io/meet-the-new-sulon-cortex-vr-headset-coming-spring-2016/index.html</link>
+            <guid isPermaLink="false">653e81d2-30b4-4a5d-bfa0-8ed37f91a940</guid>
+            <pubDate>Fri, 12 Feb 2016 10:45:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Under the Virtual Tree: Social VR as a Gateway Experience]]></title>
-            <description><![CDATA[<article><h1>Under the Virtual Tree: Social VR as a Gateway Experience</h1><p>Social VR is going to be big, and mobile VR platforms are poised to lead the way. Could this be the "gateway drug" to mass-market VR adoption?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a5b3a78bf16b725d5a748d014239c3826634600.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Under the Virtual Tree: Social VR as a Gateway Experience</h1><p>Social VR is going to be big, and mobile VR platforms are poised to lead the way. Could this be the "gateway drug" to mass-market VR adoption?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a1fa0898aaded79aef523e5edec1b28eca4a06d.jpg"></article>]]></description>
             <link>http://augmentl.io/under-the-virtual-tree-social-vr-as-a-gateway-experience/index.html</link>
             <guid isPermaLink="false">b8321f95-fb4a-420c-b32b-1e10f477e36f</guid>
             <pubDate>Fri, 12 Feb 2016 10:09:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.roadtovr.com/the-hobbit-vr-experience-nominated-for-visual-effects-award-alongside-halo-5-destiny-and-others/</link>
             <guid isPermaLink="false">a1cd5edf-3fa9-4d23-9b40-957ec91136af</guid>
             <pubDate>Mon, 01 Feb 2016 08:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA Is Using Unreal Engine 4 To Make Mars A Virtual Reality]]></title>
-            <description><![CDATA[<article><h1>NASA Is Using Unreal Engine 4 To Make Mars A Virtual Reality</h1><p>NASA has teamed up with Fusion Media, MIT, and game developers to make The Mars 2030 Experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f30a89fc5c5242f5a30f2d0144b5c38de48eeb27.jpg"></article>]]></description>
-            <link>https://www.unrealengine.com/showcase/nasa-is-using-unreal-engine-4-to-make-mars-a-virtual-reality</link>
-            <guid isPermaLink="false">0a695732-b0a6-4cb0-90ae-4b638185fc18</guid>
-            <pubDate>Fri, 29 Jan 2016 08:18:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
