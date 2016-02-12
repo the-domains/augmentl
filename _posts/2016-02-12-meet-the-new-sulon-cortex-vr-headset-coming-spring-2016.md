@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We took a peek behind the curtain of Sulon's secretive website to get a glimpse at what's coming."
-datePublished: '2016-02-12T11:45:52.157Z'
-dateModified: '2016-02-12T11:45:48.618Z'
+datePublished: '2016-02-12T11:52:04.175Z'
+dateModified: '2016-02-12T11:51:58.908Z'
 title: 'Meet The New Sulon Cortex VR Headset, Coming Spring 2016'
 author: []
 sourcePath: _posts/2016-02-12-meet-the-new-sulon-cortex-vr-headset-coming-spring-2016.md
@@ -30,7 +30,7 @@ We took a peek behind the curtain of Sulon's secretive website to get a glimpse 
 
 by [Augmentl][0], 12th February 2016
 
-The Sulon Cortex is an ambitious Virtual Reality headset. Equipped with environment-sensing cameras, it promised to seamlessly map and integrate the digital into the physical in a unique VR/AR hybrid experience. Or, according to Sulon themselves:
+The Sulon Cortex is an ambitious Virtual Reality headset. Equipped with environment-sensing capabilities, it promised to seamlessly map and integrate physical into the digital into to create unique VR/AR hybrid experiences. Or, according to Sulon themselves:
 
 > Turn your surrounding environment into an augmented or virtual reality experience through Sulon's "spatially aware" headset. The Sulon HMD brings virtual and augmented technologies that revolutionize the way people live, work and play. This wearable head mounted computing platform enables an immersive experience that will open your mind to new possibilities.
 
