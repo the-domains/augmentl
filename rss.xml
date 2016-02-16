@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 11:53:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 08:39:35 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Void Debuts Rapture Headset And Vest At TED]]></title>
+            <description><![CDATA[<article><h1>The Void Debuts Rapture Headset And Vest At TED</h1><p>Attendees at the TED conference this week in Vancouver will be setting their eyes on the custom headset and haptic vest from The Void.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99a7e317597622f553b42de548324095655548a5.jpg"></article>]]></description>
+            <link>http://uploadvr.com/void-rapture-ted/</link>
+            <guid isPermaLink="false">43721fed-f22e-49cb-9690-e02adb2e5e42</guid>
+            <pubDate>Tue, 16 Feb 2016 08:35:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meet The New Sulon Cortex VR Headset, Coming Spring 2016]]></title>
-            <description><![CDATA[<article><h1>Meet The New Sulon Cortex VR Headset, Coming Spring 2016</h1><p>We took a peek behind the curtain of Sulon's secretive website to get a glimpse at what's coming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d3c1018015ecf814b0d3d46d412480e21c2d7dd.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Meet The New Sulon Cortex VR Headset, Coming Spring 2016</h1><p>We took a peek behind the curtain of Sulon's secretive website to get a glimpse at what's coming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d3558d016e47faf0aeca78622db50866bf763f1.png"></article>]]></description>
             <link>http://augmentl.io/meet-the-new-sulon-cortex-vr-headset-coming-spring-2016/index.html</link>
             <guid isPermaLink="false">653e81d2-30b4-4a5d-bfa0-8ed37f91a940</guid>
             <pubDate>Fri, 12 Feb 2016 11:52:04 GMT</pubDate>
@@ -57,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[The Oculus Rift, Presence, Hype, and the Fundamentals of VR]]></title>
-            <description><![CDATA[<article><h1>The Oculus Rift, Presence, Hype, and the Fundamentals of VR</h1><p>When the HTC Vive introduced the concepts of room-scale and Chaperone to the emerging VR marketplace, it introduced some welcome innovation to an enthusiastic public. It also shifted the conversation away from what really matters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d9f37971e0497796b58420753a37e5a65a0e48b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Oculus Rift, Presence, Hype, and the Fundamentals of VR</h1><p>When the HTC Vive introduced the concepts of room-scale and Chaperone to the emerging VR marketplace, it introduced some welcome innovation to an enthusiastic public. It also shifted the conversation away from what really matters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/894829bac77bfa598fa20ef1e9764fbbabdfe4ac.jpg"></article>]]></description>
             <link>http://augmentl.io/the-oculus-rift-presence-hype-and-the-fundamentals-of-vr/index.html</link>
             <guid isPermaLink="false">bd006587-89b9-4033-95bb-23defd33f12b</guid>
             <pubDate>Tue, 02 Feb 2016 18:32:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://uploadvr.com/magic-leap-announces-mixed-reality-lightfield-amid-huge-funding-round/</link>
             <guid isPermaLink="false">7208f27d-ea07-43f6-b2bb-97cd53514920</guid>
             <pubDate>Tue, 02 Feb 2016 08:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The Hobbit' VR Experience Nominated for Visual Effects Award]]></title>
-            <description><![CDATA[<article><h1>'The Hobbit' VR Experience Nominated for Visual Effects Award</h1><p>Thief in the Shadows, a VR experience based on The Hobbit: The Desolation of Smaug (2013), has been nominated for a Visual Effects Society award for 'Outstanding Visual Effects in a Real-Time Project'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9721a25a6991eb4261a741df058560c297998cd0.jpg"></article>]]></description>
-            <link>http://www.roadtovr.com/the-hobbit-vr-experience-nominated-for-visual-effects-award-alongside-halo-5-destiny-and-others/</link>
-            <guid isPermaLink="false">a1cd5edf-3fa9-4d23-9b40-957ec91136af</guid>
-            <pubDate>Mon, 01 Feb 2016 08:14:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
