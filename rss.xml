@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 08:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 14:49:13 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Leap Motion's Orion Release Brings Massive Finger Tracking Improvements]]></title>
+            <description><![CDATA[<article><h1>Leap Motion's Orion Release Brings Massive Finger Tracking Improvements</h1><p>A friend of mine always used to say 'if your keyboard only worked 60% of the time, you would throw it against the wall.' We expect our technology to work every time, and when it fails we get infinitely frustrated.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b367ce25f9470973e9ac86c90bf51cc175226d5c.jpg"></article>]]></description>
+            <link>http://uploadvr.com/leap-motion-orion-vr/</link>
+            <guid isPermaLink="false">3cf99803-b89d-482e-b0e1-6912d6f66d5d</guid>
+            <pubDate>Wed, 17 Feb 2016 14:48:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Void Debuts Rapture Headset And Vest At TED]]></title>
-            <description><![CDATA[<article><h1>The Void Debuts Rapture Headset And Vest At TED</h1><p>Attendees at the TED conference this week in Vancouver will be setting their eyes on the custom headset and haptic vest from The Void.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99a7e317597622f553b42de548324095655548a5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Void Debuts Rapture Headset And Vest At TED</h1><p>Attendees at the TED conference this week in Vancouver will be setting their eyes on the custom headset and haptic vest from The Void.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cacdd109ea44fc07ed94402760e865265f25587.jpg"></article>]]></description>
             <link>http://uploadvr.com/void-rapture-ted/</link>
             <guid isPermaLink="false">43721fed-f22e-49cb-9690-e02adb2e5e42</guid>
             <pubDate>Tue, 16 Feb 2016 08:35:47 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/the-oculus-rift-presence-hype-and-the-fundamentals-of-vr/index.html</link>
             <guid isPermaLink="false">bd006587-89b9-4033-95bb-23defd33f12b</guid>
             <pubDate>Tue, 02 Feb 2016 18:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Magic Leap Raises $794 Million And Announces "Mixed Reality Lightfield" - UploadVR]]></title>
-            <description><![CDATA[<article><h1>Magic Leap Raises $794 Million And Announces "Mixed Reality Lightfield" - UploadVR</h1><p>Magic Leap raised $794 million in new funding and CEO Rony Abovitz posted a blog suggesting the secretive company is moving closer toward a product, writing "we are setting up supply chain operations, manufacturing." Techcrunch reports Alibaba founder Jack Ma is joining Magic Leap's board.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8abf6855d15a90f2a2dbff032482722899864ba.jpg"></article>]]></description>
-            <link>http://uploadvr.com/magic-leap-announces-mixed-reality-lightfield-amid-huge-funding-round/</link>
-            <guid isPermaLink="false">7208f27d-ea07-43f6-b2bb-97cd53514920</guid>
-            <pubDate>Tue, 02 Feb 2016 08:44:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
