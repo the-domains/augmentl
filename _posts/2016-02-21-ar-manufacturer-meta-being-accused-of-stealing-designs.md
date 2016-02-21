@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-21T17:10:16.891Z'
-dateModified: '2016-02-21T17:07:21.475Z'
+description: "Bold claims are being made against Meta by someone claiming to represent PhaseSpace Motion Capture. Did Meta's AR glasses design breach an NDA?"
+datePublished: '2016-02-21T17:19:06.019Z'
+dateModified: '2016-02-21T17:19:00.291Z'
 title: 'UPDATE: AR Manufacturer Meta Being Accused of Stealing Designs'
 author: []
 sourcePath: _posts/2016-02-21-ar-manufacturer-meta-being-accused-of-stealing-designs.md
@@ -58,13 +58,13 @@ We received an email from a Phasespace.com email address, shown here in full (th
 
 **--- email begins**
 
+****
+
 Fwd: Re: SFVR - UploadVR comment request 
 
 at 4:30 PM
 From
-xxxxx@phasespace.com
-
-[https://www.dropbox.com/s/utbqd560y0cpk2r/StanfordDemo.png?dl=0][3]
+xxxxx@phasespace.com:
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3aac96a15c732493dbac19f93684b2949482a6d8.png)
 
 _We have pictures of several other Meta employees testing it out.
@@ -73,9 +73,9 @@ they interested in licensing our technology.
 Obviously we were mistaken. _
 
 _Until they sell units there are no damages, and we've shown the system 
-at many public venues such as _
+at many public venues such as_
 
-[https://www.youtube.com/watch?v=MMALYjGcKFc ][4]
+[https://www.youtube.com/watch?v=MMALYjGcKFc ][3]
 
 _We were talking to Meta and they even purchased a PhaseSpace system, and 
 discussed the HMD design.
@@ -86,15 +86,14 @@ embarrassment. _
 
 _\[Name redacted\]_
 
+__
+
 **--- email ends**
 
-We will continue to update this story as and if it develops. If anyone from the companies involved would like to respond, please feel free to [get in touch][5].
+We will continue to update this story as and if it develops. If anyone from the companies involved would like to respond, please feel free to [get in touch][4].
 
 [0]: https://www.facebook.com/plugins/comments.php?fb_comment_id=1015704531842235_1017070461705642&href=http%3A%2F%2Fuploadvr.com%2Fmeta-2-ar-glasses-ted%2F&width=463
 [1]: http://uploadvr.com/meta-2-ar-glasses-ted/
 [2]: http://www.meetup.com/virtualreality/events/228239204/
-[3]: https://www.dropbox.com/s/utbqd560y0cpk2r/StanfordDemo.png?dl=0
-
-
-[4]: https://www.youtube.com/watch?v=MMALYjGcKFc
-[5]: mailto://info@augmentl.io
+[3]: https://www.youtube.com/watch?v=MMALYjGcKFc
+[4]: mailto://info@augmentl.io
