@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T16:51:16.183Z'
-dateModified: '2016-02-21T16:50:48.896Z'
+datePublished: '2016-02-21T16:52:15.102Z'
+dateModified: '2016-02-21T16:52:06.212Z'
 title: 'UPDATE: AR Manufacturer Meta Being Accused of Stealing Designs'
 author: []
 sourcePath: _posts/2016-02-21-ar-manufacturer-meta-being-accused-of-stealing-designs.md
@@ -56,7 +56,7 @@ Conversely, by making their accusations public PhaseSpace Motion Capture have pu
 
 We received an email from a Phasespace.com email address, shown here in full (the name has been redacted):
 
-Begin email ---
+**--- email begins**
 
 Fwd: Re: SFVR - UploadVR comment request 
 
@@ -65,7 +65,7 @@ From
 xxxxx@phasespace.com
 
 [https://www.dropbox.com/s/utbqd560y0cpk2r/StanfordDemo.png?dl=0][3]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b25846d-46c5-458d-a28d-7c6dea149edd.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3aac96a15c732493dbac19f93684b2949482a6d8.png)
 
 _We have pictures of several other Meta employees testing it out.
 They later purchased a PhaseSpace system and we were lead to believe 
@@ -85,7 +85,7 @@ embarrassment. _
 
 _\[Name redacted\]_
 
---- email ends
+**--- email ends**
 
 We will continue to update this story as and if it develops. If anyone from the companies involved would like to respond, please feel free to [get in touch][5].
 
