@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T16:56:05.665Z'
-dateModified: '2016-02-21T16:55:03.287Z'
+datePublished: '2016-02-21T16:56:50.949Z'
+dateModified: '2016-02-21T16:56:09.825Z'
 title: 'UPDATE: AR Manufacturer Meta Being Accused of Stealing Designs'
 author: []
 sourcePath: _posts/2016-02-21-ar-manufacturer-meta-being-accused-of-stealing-designs.md
@@ -70,8 +70,9 @@ xxxxx@phasespace.com
 _We have pictures of several other Meta employees testing it out.
 They later purchased a PhaseSpace system and we were lead to believe 
 they interested in licensing our technology.
-Obviously we were mistaken.
-Until they sell units there are no damages, and we've shown the system 
+Obviously we were mistaken. _
+
+_Until they sell units there are no damages, and we've shown the system 
 at many public venues such as _
 
 [https://www.youtube.com/watch?v=MMALYjGcKFc ][4]
