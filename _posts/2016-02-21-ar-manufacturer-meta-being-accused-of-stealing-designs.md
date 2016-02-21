@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T16:50:40.127Z'
-dateModified: '2016-02-21T16:49:28.618Z'
+datePublished: '2016-02-21T16:51:16.183Z'
+dateModified: '2016-02-21T16:50:48.896Z'
 title: 'UPDATE: AR Manufacturer Meta Being Accused of Stealing Designs'
 author: []
 sourcePath: _posts/2016-02-21-ar-manufacturer-meta-being-accused-of-stealing-designs.md
