@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Bold claims are being made against Meta by someone claiming to represent PhaseSpace Motion Capture. Did Meta's AR glasses design breach an NDA?"
-datePublished: '2016-02-21T17:44:24.303Z'
-dateModified: '2016-02-21T17:40:56.887Z'
+datePublished: '2016-02-21T17:49:34.186Z'
+dateModified: '2016-02-21T17:44:32.721Z'
 title: 'UPDATE: AR Startup Meta Being Accused of Stealing Designs'
 author: []
 sourcePath: _posts/2016-02-21-ar-manufacturer-meta-being-accused-of-stealing-designs.md
