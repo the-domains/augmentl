@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Bold claims are being made against Meta by someone claiming to represent PhaseSpace Motion Capture. Did Meta's AR glasses design breach an NDA?"
-datePublished: '2016-02-21T17:35:03.053Z'
-dateModified: '2016-02-21T17:34:28.399Z'
+datePublished: '2016-02-21T17:40:46.574Z'
+dateModified: '2016-02-21T17:40:35.544Z'
 title: 'UPDATE: AR Startup Meta Being Accused of Stealing Designs'
 author: []
 sourcePath: _posts/2016-02-21-ar-manufacturer-meta-being-accused-of-stealing-designs.md
@@ -90,9 +90,9 @@ __
 
 ****--- email ends****
 
-The image included in the email (name StabfordDemo) purports to show Meta CEO Meron Gribetz at the Stanford VR conference last year testing the SmokeVR HMD, which PhaseSpace Motion Capture claim to be the basis for Meta's own hardware design. More images from the conference can be found [here][4].
+The image included in the email (name StanfordDemo) purports to show Meta CEO Meron Gribetz at the Stanford VR conference in February 2015 year testing the SmokeVR HMD, which PhaseSpace Motion Capture claim to be the basis for Meta's own hardware design. More images from the conference can be found [here][4]. 
 
-It would also appear that PhaseSpace Motion Capture is  reserving the right to pursue damages once Meta starts selling the devices.
+If PhaseSpace Motion Capture's claims are to be taken literally, it would mean that Meta pivoted away from their earlier, Aviator-style design after testing the SmokeVR HMD. It would also appear that PhaseSpace Motion Capture is  reserving the right to pursue damages once Meta starts selling the devices.
 
 We will continue to update this story as and if it develops. If anyone from the companies involved would like to respond, please feel free to [get in touch][5].
 
