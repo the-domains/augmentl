@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T16:52:15.102Z'
-dateModified: '2016-02-21T16:52:06.212Z'
+datePublished: '2016-02-21T16:56:05.665Z'
+dateModified: '2016-02-21T16:55:03.287Z'
 title: 'UPDATE: AR Manufacturer Meta Being Accused of Stealing Designs'
 author: []
 sourcePath: _posts/2016-02-21-ar-manufacturer-meta-being-accused-of-stealing-designs.md
@@ -32,7 +32,7 @@ by Augmentl, February 21st 2016
 
 Someone claiming to represent a company called PhaseSpace Motion Capture has accused AR manufacturer Meta of breaching an NDA and stealing the design for their AR Head Mounted Display.
 
-**UPDATE**: Tracy from PhaseSpace.com has contacted us with further details, at the bottom of the post.
+**UPDATE**: Someone from PhaseSpace.com has contacted us with further details, at the bottom of the post.
 
 The accusation was, somewhat unusually, made in a Facebook [comment][0] linked to [an article][1] covering Meta's recent unveiling at TED of their latest AR development kit. The comment appears to have been posted by PhaseSpace Motion Capture's official Facebook account. 
 > 
