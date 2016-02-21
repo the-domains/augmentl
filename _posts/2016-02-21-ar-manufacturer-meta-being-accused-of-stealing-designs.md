@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Bold claims are being made against Meta by someone claiming to represent PhaseSpace Motion Capture. Did Meta's AR glasses design breach an NDA?"
-datePublished: '2016-02-21T17:19:06.019Z'
-dateModified: '2016-02-21T17:19:00.291Z'
-title: 'UPDATE: AR Manufacturer Meta Being Accused of Stealing Designs'
+datePublished: '2016-02-21T17:35:03.053Z'
+dateModified: '2016-02-21T17:34:28.399Z'
+title: 'UPDATE: AR Startup Meta Being Accused of Stealing Designs'
 author: []
 sourcePath: _posts/2016-02-21-ar-manufacturer-meta-being-accused-of-stealing-designs.md
 published: true
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![Meron Gribetz of Meta at TED](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1b11b37-3709-4665-b931-d1c2d2323ea6.jpg)
 
-# UPDATE: AR Manufacturer Meta Being Accused of Stealing Designs
+# UPDATE: AR Startup Meta Being Accused of Stealing Designs
 
 Bold claims are being made against Meta by someone claiming to represent PhaseSpace Motion Capture. Did Meta's AR glasses design breach an NDA?
 
@@ -88,12 +88,17 @@ _\[Name redacted\]_
 
 __
 
-**--- email ends**
+****--- email ends****
 
-We will continue to update this story as and if it develops. If anyone from the companies involved would like to respond, please feel free to [get in touch][4].
+The image included in the email (name StabfordDemo) purports to show Meta CEO Meron Gribetz at the Stanford VR conference last year testing the SmokeVR HMD, which PhaseSpace Motion Capture claim to be the basis for Meta's own hardware design. More images from the conference can be found [here][4].
+
+It would also appear that PhaseSpace Motion Capture is  reserving the right to pursue damages once Meta starts selling the devices.
+
+We will continue to update this story as and if it develops. If anyone from the companies involved would like to respond, please feel free to [get in touch][5].
 
 [0]: https://www.facebook.com/plugins/comments.php?fb_comment_id=1015704531842235_1017070461705642&href=http%3A%2F%2Fuploadvr.com%2Fmeta-2-ar-glasses-ted%2F&width=463
 [1]: http://uploadvr.com/meta-2-ar-glasses-ted/
 [2]: http://www.meetup.com/virtualreality/events/228239204/
 [3]: https://www.youtube.com/watch?v=MMALYjGcKFc
-[4]: mailto://info@augmentl.io
+[4]: https://scien.stanford.edu/index.php/workshop-on-light-field-imaging-photos-2/
+[5]: mailto://info@augmentl.io
