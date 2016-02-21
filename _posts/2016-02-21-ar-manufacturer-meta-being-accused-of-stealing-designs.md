@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T10:16:38.274Z'
-dateModified: '2016-02-21T10:16:16.678Z'
+datePublished: '2016-02-21T10:24:29.461Z'
+dateModified: '2016-02-21T10:24:02.853Z'
 title: AR Manufacturer Meta Being Accused of Stealing Designs
 author: []
+sourcePath: _posts/2016-02-21-ar-manufacturer-meta-being-accused-of-stealing-designs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-21-ar-manufacturer-meta-being-accused-of-stealing-designs.md
-published: true
 url: ar-manufacturer-meta-being-accused-of-stealing-designs/index.html
 _type: Article
 
@@ -50,8 +50,9 @@ There is currently no evidence to support PhaseSpace's accusations, and the meth
 
 Conversely, by making their accusations public PhaseSpace Motion Capture have put themselves in a precarious legal position - they may now be forced to provide evidence of their claims, or risk more than just their reputation.
 
-We will update this story as and if it develops. 
+We will update this story as and if it develops. If anyone from the companies involved would like to respond, please feel free to [get in touch][3].
 
 [0]: https://www.facebook.com/plugins/comments.php?fb_comment_id=1015704531842235_1017070461705642&href=http%3A%2F%2Fuploadvr.com%2Fmeta-2-ar-glasses-ted%2F&width=463
 [1]: http://uploadvr.com/meta-2-ar-glasses-ted/
 [2]: http://www.meetup.com/virtualreality/events/228239204/
+[3]: mailto://info@augmentl.io
