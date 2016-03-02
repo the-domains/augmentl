@@ -4,8 +4,15 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 14:59:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 16:02:09 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The New Meta 2 Augmented Reality Headset Demonstrates One Point: AR is Hard.]]></title>
+            <description><![CDATA[<article><h1>The New Meta 2 Augmented Reality Headset Demonstrates One Point: AR is Hard.</h1><p>At first glance, the Meta 2 is an impressive realisation of our sci-fi dreams. But a closer look reveals a reality of tempered ambitions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d015fda9dfdfd63b3b0bea58b72b44ce3d5ee629.jpg"></article>]]></description>
+            <link>http://augmentl.io/the-new-meta-2-augmented-reality-headset-demonstrates-one-po/index.html</link>
+            <guid isPermaLink="false">49dc02ae-e47c-4c86-8e0d-779e414ec5cd</guid>
+            <pubDate>Wed, 02 Mar 2016 16:00:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We found 7 critical HoloLens details that Microsoft hid inside its developer docs]]></title>
             <description><![CDATA[<article><h1>We found 7 critical HoloLens details that Microsoft hid inside its developer docs</h1><p>Microsoft's marketing machine has painted the HoloLens as sort of a quasi-magical device that can revolutionize the way we interact with computers. That's still pretty true. But spend enough time digging through Microsoft's online documentation, and you'll find in reality that for all its $3,000 price, the the HoloLens is still limited in many ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5aaee976c930e882c117e21583f7566a8231a8a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://uploadvr.com/leap-motion-orion-vr/</link>
             <guid isPermaLink="false">3cf99803-b89d-482e-b0e1-6912d6f66d5d</guid>
             <pubDate>Wed, 17 Feb 2016 14:48:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Void Debuts Rapture Headset And Vest At TED]]></title>
-            <description><![CDATA[<article><h1>The Void Debuts Rapture Headset And Vest At TED</h1><p>Attendees at the TED conference this week in Vancouver will be setting their eyes on the custom headset and haptic vest from The Void.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cacdd109ea44fc07ed94402760e865265f25587.jpg"></article>]]></description>
-            <link>http://uploadvr.com/void-rapture-ted/</link>
-            <guid isPermaLink="false">43721fed-f22e-49cb-9690-e02adb2e5e42</guid>
-            <pubDate>Tue, 16 Feb 2016 08:35:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
