@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T16:00:31.440Z'
-dateModified: '2016-03-02T15:59:06.597Z'
+datePublished: '2016-03-02T16:06:52.028Z'
+dateModified: '2016-03-02T16:06:45.062Z'
 title: 'The New Meta 2 Augmented Reality Headset Demonstrates One Point: AR is Hard.'
 author: []
+sourcePath: _posts/2016-03-02-the-new-meta-2-augmented-reality-headset-demonstrates-one-po.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-the-new-meta-2-augmented-reality-headset-demonstrates-one-po.md
-published: true
 url: the-new-meta-2-augmented-reality-headset-demonstrates-one-po/index.html
 _type: Article
 
@@ -42,9 +42,9 @@ Once we look past the cool TED demos and the Tony-Stark like holographic interac
 
 As Meta's second development kit, the Meta 2 is arguably a sobering step back from its early ambitions: an un-tethered pair of aviator-style digital glasses with built-in Kinect-like sensors for hand detection. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69b41e03-2fc5-486b-b49d-3ece224633a9.jpg)
 
-The slick, more ambitious Meta Pro prototype (pictured), which the company had made available for pre-order [as far back as 2013][1], is currently nowhere to be found on the [Meta site][2].  It's like it never existed. 
+The slick, more ambitious Meta Pro prototype (pictured), which the company had made available for pre-order [as far back as 2013][1], is currently nowhere to be found on the [Meta site][2].  Its dedicated site, spaceglasses.com, has been abandoned. It's like it never existed. 
 
-The Meta 2 might have been more impressive one or two years back, before HoloLens gave us a tantalising glimpse of what an untethered AR device could (and could not) achieve. But today, the Meta 2 stands out as an awkward compromise, an admission of defeat in the face of technology challenges that are still far from being resolved. 
+The Meta 2 might have been more impressive one or two years back, before HoloLens gave us a tantalising glimpse of what an untethered AR device could (and could not) achieve. But today, the Meta 2 stands out as an awkward, if perhaps pragmatic, compromise - an admission of defeat in the face of technology challenges that are still far from being resolved. 
 
 At $949, the Meta 2 does  give developers interested in tinkering with the opportunities of AR a competitive entry point against the $3000 HoloLens, but it's unlikely to appeal to a broad audience. And that's ok. AR is today where VR was three years ago, when the Oculus Rift DK1 was the best VR experience a mere mortal could get their hands on. And those humble beginnings spurred a multi-billion dollar industry and the polished experiences of the Oculus Rift and the HTC Vive.
 
