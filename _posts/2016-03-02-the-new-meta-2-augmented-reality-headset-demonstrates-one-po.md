@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T16:06:52.028Z'
-dateModified: '2016-03-02T16:06:45.062Z'
+datePublished: '2016-03-02T18:33:36.037Z'
+dateModified: '2016-03-02T18:33:28.792Z'
 title: 'The New Meta 2 Augmented Reality Headset Demonstrates One Point: AR is Hard.'
 author: []
 sourcePath: _posts/2016-03-02-the-new-meta-2-augmented-reality-headset-demonstrates-one-po.md
@@ -22,7 +22,7 @@ url: the-new-meta-2-augmented-reality-headset-demonstrates-one-po/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b37f217-4cb8-4a8a-bc58-6670b4b0985b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca5da7ee-6208-4714-beec-75ffa21dbf46.jpg)
 
 # The New Meta 2 Augmented Reality Headset Demonstrates One Point: AR is Hard.
 
