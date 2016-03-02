@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T19:22:25.391Z'
-dateModified: '2016-03-02T19:21:57.472Z'
+datePublished: '2016-03-02T19:27:31.005Z'
+dateModified: '2016-03-02T19:27:17.543Z'
 title: 'The New Meta 2 Augmented Reality Headset Demonstrates One Point: AR is Hard.'
 author: []
 sourcePath: _posts/2016-03-02-the-new-meta-2-augmented-reality-headset-demonstrates-one-po.md
@@ -22,7 +22,7 @@ url: the-new-meta-2-augmented-reality-headset-demonstrates-one-po/index.html
 _type: Article
 
 ---
-![Ben Lang, Executive editor, Roadtovr](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0c798f0-d206-401e-8004-fa53298a8bb4.jpg)
+![Ben Lang, Executive editor, Roadtovr](https://s3-us-west-2.amazonaws.com/the-grid-img/p/26a05b886a4f5933f724a52cfaa5eef4f07fb9c7.jpg)
 
 # The New Meta 2 Augmented Reality Headset Demonstrates One Point: AR is Hard.
 
@@ -49,6 +49,8 @@ The Meta 2 might have been more impressive one or two years back, before HoloLen
 At $949, the Meta 2 does  give developers interested in tinkering with the opportunities of AR a competitive entry point against the $3000 HoloLens, but it's unlikely to appeal to a broad audience. And that's ok. AR is today where VR was three years ago, when the Oculus Rift DK1 was the best VR experience a mere mortal could get their hands on. And those humble beginnings spurred a multi-billion dollar industry and the polished experiences of the Oculus Rift and the HTC Vive.
 
 If, despite its compromises, the Meta 2 becomes the Oculus DK1 of the AR world, it will have at least served an important role in the development of a new industry. But that's a big if.
+
+_Hero image shows Ben Lang, Executive editor, RoadtoVR Image courtesy of RoadtoVR._
 
 [0]: https://twitter.com/augmentl
 [1]: http://www.phonearena.com/news/3000-metaPro-AR-glasses-now-available-for-pre-order_id50774
