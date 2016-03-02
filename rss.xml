@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 14:58:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 14:32:37 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Meta 2 Development Kit - Launch Video]]></title>
+            <description><![CDATA[<article><h1>Meta 2 Development Kit - Launch Video</h1><p>We are proud to unveil the most immersive augmented reality on the planet for the developers, creators, makers and artists who want to change the world. The Meta 2 Development Kit offers the widest field of view, the most intuitive access to digital information and direct hand interaction with holograms. All for only $949!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffe8d9c44b26b9ea092497c335304e1a394ed716.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=xpQuauAoJ7E&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">ef9fdadd-a12a-4cfd-a5fe-69d998cdd22f</guid>
+            <pubDate>Wed, 02 Mar 2016 14:31:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Microsoft is bringing 'Minecraft' to the Oculus Rift]]></title>
-            <description><![CDATA[<article><h1>Microsoft is bringing 'Minecraft' to the Oculus Rift</h1><p>For starters, it's worth noting that this isn't a new version of Minecraft; it has just been updated to work with the Oculus Rift. You can play in survival mode as well as join one of the many multiplayer servers out there. Once you start playing, you're presented with two different view modes.</p><img src="http://o.aolcdn.com/hss/storage/midas/446b049ae99856076c544164a3af9887/203480139/occulus_screens_16.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Microsoft is bringing 'Minecraft' to the Oculus Rift</h1><p>For starters, it's worth noting that this isn't a new version of Minecraft; it has just been updated to work with the Oculus Rift. You can play in survival mode as well as join one of the many multiplayer servers out there. Once you start playing, you're presented with two different view modes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/721ed6022a4b8a6f66ac0f9ed3c281ec76763fa8.jpg"></article>]]></description>
             <link>http://www.engadget.com/2016/03/01/minecraft-oculus-rift-hands-on/</link>
             <guid isPermaLink="false">7a104964-94a9-46cb-bf93-e2412c7ee27c</guid>
             <pubDate>Tue, 01 Mar 2016 14:56:04 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/meet-the-new-sulon-cortex-vr-headset-coming-spring-2016/index.html</link>
             <guid isPermaLink="false">653e81d2-30b4-4a5d-bfa0-8ed37f91a940</guid>
             <pubDate>Fri, 12 Feb 2016 11:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Under the Virtual Tree: Social VR as a Gateway Experience]]></title>
-            <description><![CDATA[<article><h1>Under the Virtual Tree: Social VR as a Gateway Experience</h1><p>Social VR is going to be big, and mobile VR platforms are poised to lead the way. Could this be the "gateway drug" to mass-market VR adoption?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a1fa0898aaded79aef523e5edec1b28eca4a06d.jpg"></article>]]></description>
-            <link>http://augmentl.io/under-the-virtual-tree-social-vr-as-a-gateway-experience/index.html</link>
-            <guid isPermaLink="false">b8321f95-fb4a-420c-b32b-1e10f477e36f</guid>
-            <pubDate>Fri, 12 Feb 2016 10:09:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
