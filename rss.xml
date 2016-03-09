@@ -4,8 +4,15 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 22:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 22:21:48 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Exclusive: Former Oculus VP of Engineering Demonstrates Long Range VR Tracking System]]></title>
+            <description><![CDATA[<article><h1>Exclusive: Former Oculus VP of Engineering Demonstrates Long Range VR Tracking System</h1><p>Tracking is the foundation of great virtual reality. Knowing the position and orientation of the user's head is essential to being able to move the virtual world convincingly around them as they move through it. Oculus and Valve/HTC have the leading tracking systems (dubbed 'Constellation' and 'Lighthouse', respectively), but soon a new entrant could join the VR tracking arena.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c4de2f1373b318ed4fdac48d3f49176aea6c6cc.jpg"></article>]]></description>
+            <link>http://www.roadtovr.com/mts-virtual-reality-vr-tracking-system-jack-mccauley-oculus-vp-engineering/?platform=hootsuite</link>
+            <guid isPermaLink="false">d47be0e8-4233-473b-bfad-1c92f69ef8d9</guid>
+            <pubDate>Wed, 09 Mar 2016 22:20:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Immy grabs patent on how to do AR/VR glasses in a natural way]]></title>
             <description><![CDATA[<article><h1>Immy grabs patent on how to do AR/VR glasses in a natural way</h1><p>Immy, a tech startup based in Michigan, said it has been granted a patent on a way to design a new generation of augmented reality and virtual reality products. The Troy, Michigan-based company said it has been awarded a patent for "natural eye optics" technology, which the company says replicates how humans see in the real world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bc71f54b3c3ea8405b7eada8d6e873e818b9eb5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://augmentl.io/htc-vive-dollar799-pre-orders-feb-29th-shipping-early-april/index.html</link>
             <guid isPermaLink="false">f7dbdfee-1a57-4e25-856a-4c439e994688</guid>
             <pubDate>Sun, 21 Feb 2016 18:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UPDATE: AR Startup Meta Being Accused of Stealing Designs]]></title>
-            <description><![CDATA[<article><h1>UPDATE: AR Startup Meta Being Accused of Stealing Designs</h1><p>Bold claims are being made against Meta by someone claiming to represent PhaseSpace Motion Capture. Did Meta's AR glasses design breach an NDA?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74059869a84fa9d16ded746292768a634cea35c7.jpg"></article>]]></description>
-            <link>http://augmentl.io/ar-manufacturer-meta-being-accused-of-stealing-designs/index.html</link>
-            <guid isPermaLink="false">49952e4b-ef5d-4b68-a74d-083fd00f19c7</guid>
-            <pubDate>Sun, 21 Feb 2016 18:24:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
