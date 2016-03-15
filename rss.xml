@@ -4,8 +4,15 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 08:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 21:29:55 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First look at Sony's new PlayStation VR headset]]></title>
+            <description><![CDATA[<article><h1>First look at Sony's new PlayStation VR headset</h1><p>Sony just took the wraps off of the final consumer version of its PlayStation VR headset at its event at GDC 2016. The final version looks very similar to the headset Sony first showed off way back in 2014, but it has a slightly different lighting pattern on the outside.</p><img src="https://cdn0.vox-cdn.com/thumbor/clhgBtPf1bTXxT_QuMlhGTKq6lQ=/cdn0.vox-cdn.com/uploads/chorus_asset/file/6196733/PSVR-GDC-2016-330.0.JPG"></article>]]></description>
+            <link>http://www.theverge.com/2016/3/15/11225032/sony-playstation-vr-headset-photos-gdc-2016</link>
+            <guid isPermaLink="false">5a058308-dc71-4659-958f-4205fe74ba7f</guid>
+            <pubDate>Tue, 15 Mar 2016 21:29:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AMD-powered Sulon Q is like wearing a VR-capable Windows PC on your head]]></title>
             <description><![CDATA[<article><h1>AMD-powered Sulon Q is like wearing a VR-capable Windows PC on your head</h1><p>The growing virtual reality platform wars got a little more complex this morning. That's because graphics chip maker AMD has thrown in with Toronto-based startup Sulon Technologies to unveil the Sulon Q headset, which aims to provide a PC-based, fully tracked virtual reality experience without the need to tether yourself to a computer tower.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d11f46256c1b36ea80204959f81a97cab2d398e3.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.engadget.com/2016/03/01/minecraft-oculus-rift-hands-on/</link>
             <guid isPermaLink="false">7a104964-94a9-46cb-bf93-e2412c7ee27c</guid>
             <pubDate>Tue, 01 Mar 2016 14:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Dragon Front: The First CCG for VR Coming to Rift]]></title>
-            <description><![CDATA[<article><h1>Introducing Dragon Front: The First CCG for VR Coming to Rift</h1><p>We're very excited to announce , the first collectible card game (CCG) built for VR. Developed by High Voltage and produced by Oculus Studios, Dragon Front combines traditional high fantasy with a dieselpunk aesthetic for a one-of-a-kind experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4097e7eebb0de3777d0bf28c402cfdd01c47e277.jpg"></article>]]></description>
-            <link>https://www.oculus.com/en-us/blog/introducing-dragon-front-the-first-ccg-for-vr-coming-to-rift/</link>
-            <guid isPermaLink="false">97a766da-b185-4ac7-bf6d-7de8d9d9b3c1</guid>
-            <pubDate>Fri, 26 Feb 2016 18:10:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
