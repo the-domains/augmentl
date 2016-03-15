@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 21:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 21:44:51 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Pixar Alum Mark Walsh is Tackling VR with 'Gary the Gull']]></title>
+            <description><![CDATA[<article><h1>Pixar Alum Mark Walsh is Tackling VR with 'Gary the Gull'</h1><p>Have you ever been tricked by a fictional character? I don't mean has a character ever tricked yo because of how the writer orchestrated a scene or how an actor delivered the character's lines, I mean has a fictional cartoon character ever looked you in the eyes with the intent to con you and succeeded?</p><img src="http://uploadvr.com/wp-content/uploads/2016/03/gary-the-gull-featured-image.jpg"></article>]]></description>
+            <link>http://uploadvr.com/pixar-alum-mark-walsh-is-taking-on-vr-with-gary-the-gull/</link>
+            <guid isPermaLink="false">c260fc9a-6830-42f6-9d13-ba5025a27972</guid>
+            <pubDate>Tue, 15 Mar 2016 21:44:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First look at Sony's new PlayStation VR headset]]></title>
-            <description><![CDATA[<article><h1>First look at Sony's new PlayStation VR headset</h1><p>Sony just took the wraps off of the final consumer version of its PlayStation VR headset at its event at GDC 2016. The final version looks very similar to the headset Sony first showed off way back in 2014, but it has a slightly different lighting pattern on the outside.</p><img src="https://cdn0.vox-cdn.com/thumbor/clhgBtPf1bTXxT_QuMlhGTKq6lQ=/cdn0.vox-cdn.com/uploads/chorus_asset/file/6196733/PSVR-GDC-2016-330.0.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>First look at Sony's new PlayStation VR headset</h1><p>Sony just took the wraps off of the final consumer version of its PlayStation VR headset at its event at GDC 2016. The final version looks very similar to the headset Sony first showed off way back in 2014, but it has a slightly different lighting pattern on the outside.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0e8b071dde9e89bce5439f4e1a72861dea67669.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/3/15/11225032/sony-playstation-vr-headset-photos-gdc-2016</link>
             <guid isPermaLink="false">5a058308-dc71-4659-958f-4205fe74ba7f</guid>
             <pubDate>Tue, 15 Mar 2016 21:29:06 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=xpQuauAoJ7E&amp;feature=youtu.be</link>
             <guid isPermaLink="false">ef9fdadd-a12a-4cfd-a5fe-69d998cdd22f</guid>
             <pubDate>Wed, 02 Mar 2016 14:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft is bringing 'Minecraft' to the Oculus Rift]]></title>
-            <description><![CDATA[<article><h1>Microsoft is bringing 'Minecraft' to the Oculus Rift</h1><p>For starters, it's worth noting that this isn't a new version of Minecraft; it has just been updated to work with the Oculus Rift. You can play in survival mode as well as join one of the many multiplayer servers out there. Once you start playing, you're presented with two different view modes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/721ed6022a4b8a6f66ac0f9ed3c281ec76763fa8.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2016/03/01/minecraft-oculus-rift-hands-on/</link>
-            <guid isPermaLink="false">7a104964-94a9-46cb-bf93-e2412c7ee27c</guid>
-            <pubDate>Tue, 01 Mar 2016 14:56:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
