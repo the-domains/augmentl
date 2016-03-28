@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 14:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 15:45:35 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Oculus Rift Review: The Age of Virtual Reality Begins Here - UploadVR]]></title>
+            <description><![CDATA[<article><h1>Oculus Rift Review: The Age of Virtual Reality Begins Here - UploadVR</h1><p>A lot has happened in the four years since the team at Oculus first announced the Kickstarter project for the Rift in 2012. An industry once thought to be dead and buried has risen from the ashes like a phoenix with the top technology companies in the world racing to join the ranks.</p><img src="http://uploadvr.com/wp-content/uploads/2016/03/Oculus-Rift-CV1-Launch-Review.jpg"></article>]]></description>
+            <link>http://uploadvr.com/oculus-rift-cv1-review/</link>
+            <guid isPermaLink="false">6918a3f1-2628-449e-9e3c-dace598db6fb</guid>
+            <pubDate>Mon, 28 Mar 2016 15:43:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Serious Simulations Claim Their 'Zero Frame Latency' Tech Can Make VR Headsets Wireless - Road to VR]]></title>
-            <description><![CDATA[<article><h1>Serious Simulations Claim Their 'Zero Frame Latency' Tech Can Make VR Headsets Wireless - Road to VR</h1><p>Serious Simulations, a virtual reality, military training solutions provider, say they may have a solution to the tethered desktop virtual reality conundrum. Serious claim that their wireless streaming solution is capable of delivering wireless streaming video at a latency low enough to be suitable for VR.</p><img src="http://www.roadtovr.com/wp-content/uploads/2016/03/serious-simulations-1-6.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Serious Simulations Claim Their 'Zero Frame Latency' Tech Can Make VR Headsets Wireless - Road to VR</h1><p>Serious Simulations, a virtual reality, military training solutions provider, say they may have a solution to the tethered desktop virtual reality conundrum. Serious claim that their wireless streaming solution is capable of delivering wireless streaming video at a latency low enough to be suitable for VR.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86ffb29aa514337f50d4f44a133db9b6a1b736de.jpg"></article>]]></description>
             <link>http://www.roadtovr.com/serious-simulations-claim-their-zero-frame-latency-tech-can-make-vr-headsets-wireless/</link>
             <guid isPermaLink="false">a759564a-5e7e-4e9f-a5b9-94452b582bb5</guid>
             <pubDate>Fri, 18 Mar 2016 14:39:35 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Exclusive: Former Oculus VP of Engineering Demonstrates Long Range VR Tracking System</h1><p>Tracking is the foundation of great virtual reality. Knowing the position and orientation of the user's head is essential to being able to move the virtual world convincingly around them as they move through it. Oculus and Valve/HTC have the leading tracking systems (dubbed 'Constellation' and 'Lighthouse', respectively), but soon a new entrant could join the VR tracking arena.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c4de2f1373b318ed4fdac48d3f49176aea6c6cc.jpg"></article>]]></description>
             <link>http://www.roadtovr.com/mts-virtual-reality-vr-tracking-system-jack-mccauley-oculus-vp-engineering/?platform=hootsuite</link>
             <guid isPermaLink="false">d47be0e8-4233-473b-bfad-1c92f69ef8d9</guid>
-            <pubDate>Wed, 09 Mar 2016 22:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Immy grabs patent on how to do AR/VR glasses in a natural way]]></title>
-            <description><![CDATA[<article><h1>Immy grabs patent on how to do AR/VR glasses in a natural way</h1><p>Immy, a tech startup based in Michigan, said it has been granted a patent on a way to design a new generation of augmented reality and virtual reality products. The Troy, Michigan-based company said it has been awarded a patent for "natural eye optics" technology, which the company says replicates how humans see in the real world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bc71f54b3c3ea8405b7eada8d6e873e818b9eb5.jpg"></article>]]></description>
-            <link>http://venturebeat.com/2016/03/09/immy-grabs-patent-on-natural-eye-optics-for-vr-and-ar/</link>
-            <guid isPermaLink="false">5621a7af-c544-4bce-8f5c-8a95318439d3</guid>
             <pubDate>Wed, 09 Mar 2016 22:20:57 GMT</pubDate>
         </item>
     </channel>
