@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 15:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 11:10:46 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The creator of Star Wars' holochess is making a monster-battling AR card game]]></title>
+            <description><![CDATA[<article><h1>The creator of Star Wars' holochess is making a monster-battling AR card game</h1><p>Phil Tippett the man is perhaps best known as the subject of a meme - for failing in his role as "dinosaur supervisor" on Jurassic Park - but the veteran artist's most famous work is his holochess pieces, stop-motion beasts originally seen on the Millennium Falcon's game table in Star Wars: A New Hope, and resurrected in last year's The Force Awakens.</p><img src="https://cdn0.vox-cdn.com/thumbor/daJaAnGyeixOal-nb9-pd5ABJag=/cdn0.vox-cdn.com/uploads/chorus_asset/file/6262577/HoloGridScreens09.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/3/30/11329642/holochess-ar-vr-hologrid-monster-battle-phil-tippett</link>
+            <guid isPermaLink="false">5cb41f7e-365c-4617-b1f9-195118f0bad7</guid>
+            <pubDate>Wed, 30 Mar 2016 11:10:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Oculus Rift Review: The Age of Virtual Reality Begins Here - UploadVR]]></title>
-            <description><![CDATA[<article><h1>Oculus Rift Review: The Age of Virtual Reality Begins Here - UploadVR</h1><p>A lot has happened in the four years since the team at Oculus first announced the Kickstarter project for the Rift in 2012. An industry once thought to be dead and buried has risen from the ashes like a phoenix with the top technology companies in the world racing to join the ranks.</p><img src="http://uploadvr.com/wp-content/uploads/2016/03/Oculus-Rift-CV1-Launch-Review.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Oculus Rift Review: The Age of Virtual Reality Begins Here - UploadVR</h1><p>A lot has happened in the four years since the team at Oculus first announced the Kickstarter project for the Rift in 2012. An industry once thought to be dead and buried has risen from the ashes like a phoenix with the top technology companies in the world racing to join the ranks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84f06f4a6585a2f9937a63ec329280c89d2fc976.jpg"></article>]]></description>
             <link>http://uploadvr.com/oculus-rift-cv1-review/</link>
             <guid isPermaLink="false">6918a3f1-2628-449e-9e3c-dace598db6fb</guid>
             <pubDate>Mon, 28 Mar 2016 15:43:42 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://futurism.com/researchers-studying-can-achieve-matrix-level-immersion-virtual-reality/</link>
             <guid isPermaLink="false">052570e9-cdde-4b1d-ac2f-d60079569420</guid>
             <pubDate>Tue, 15 Mar 2016 08:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive: Former Oculus VP of Engineering Demonstrates Long Range VR Tracking System]]></title>
-            <description><![CDATA[<article><h1>Exclusive: Former Oculus VP of Engineering Demonstrates Long Range VR Tracking System</h1><p>Tracking is the foundation of great virtual reality. Knowing the position and orientation of the user's head is essential to being able to move the virtual world convincingly around them as they move through it. Oculus and Valve/HTC have the leading tracking systems (dubbed 'Constellation' and 'Lighthouse', respectively), but soon a new entrant could join the VR tracking arena.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c4de2f1373b318ed4fdac48d3f49176aea6c6cc.jpg"></article>]]></description>
-            <link>http://www.roadtovr.com/mts-virtual-reality-vr-tracking-system-jack-mccauley-oculus-vp-engineering/?platform=hootsuite</link>
-            <guid isPermaLink="false">d47be0e8-4233-473b-bfad-1c92f69ef8d9</guid>
-            <pubDate>Wed, 09 Mar 2016 22:20:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
