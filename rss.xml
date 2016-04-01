@@ -4,11 +4,18 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 11:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 12:25:26 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Optical Properties of Current VR HMDs]]></title>
+            <description><![CDATA[<article><h1>Optical Properties of Current VR HMDs</h1><p>With the first commercial version of the Oculus Rift (Rift CV1) now trickling out of warehouses, and Rift DK2, HTC Vive DK1, and Vive Pre already being in developers' hands, it's time for a more detailed comparison between these head-mounted displays (HMDs).</p><img src="http://doc-ok.org/wp-content/uploads/2016/04/Home-H-10mm-1.jpg"></article>]]></description>
+            <link>http://doc-ok.org/?p=1414</link>
+            <guid isPermaLink="false">dc1d0612-81be-4ccb-9d58-83a8a1901265</guid>
+            <pubDate>Fri, 01 Apr 2016 12:23:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The creator of Star Wars' holochess is making a monster-battling AR card game]]></title>
-            <description><![CDATA[<article><h1>The creator of Star Wars' holochess is making a monster-battling AR card game</h1><p>Phil Tippett the man is perhaps best known as the subject of a meme - for failing in his role as "dinosaur supervisor" on Jurassic Park - but the veteran artist's most famous work is his holochess pieces, stop-motion beasts originally seen on the Millennium Falcon's game table in Star Wars: A New Hope, and resurrected in last year's The Force Awakens.</p><img src="https://cdn0.vox-cdn.com/thumbor/daJaAnGyeixOal-nb9-pd5ABJag=/cdn0.vox-cdn.com/uploads/chorus_asset/file/6262577/HoloGridScreens09.0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The creator of Star Wars' holochess is making a monster-battling AR card game</h1><p>Phil Tippett the man is perhaps best known as the subject of a meme - for failing in his role as "dinosaur supervisor" on Jurassic Park - but the veteran artist's most famous work is his holochess pieces, stop-motion beasts originally seen on the Millennium Falcon's game table in Star Wars: A New Hope, and resurrected in last year's The Force Awakens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b64661de7654241b86d820c4072ca2d2921ba219.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/3/30/11329642/holochess-ar-vr-hologrid-monster-battle-phil-tippett</link>
             <guid isPermaLink="false">5cb41f7e-365c-4617-b1f9-195118f0bad7</guid>
             <pubDate>Wed, 30 Mar 2016 11:10:11 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://arstechnica.com/gaming/2016/03/amd-powered-sulon-q-is-like-wearing-a-vr-capable-windows-pc-on-your-head/</link>
             <guid isPermaLink="false">b3d8bbd8-d60d-4ae1-b8c9-bf5845bb8f03</guid>
             <pubDate>Tue, 15 Mar 2016 08:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Researchers Are Studying How They Can Achieve Matrix-Level Immersion in Virtual Reality]]></title>
-            <description><![CDATA[<article><h1>Researchers Are Studying How They Can Achieve Matrix-Level Immersion in Virtual Reality</h1><p>The Matrix The burgeoning virtual reality (VR) and augmented reality (AR) industry is paving the way for a host of new and exciting ways for people to interact with (and experience) the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0965f96d0ee300ab1d4d851f177e2dced5b7f95e.jpg"></article>]]></description>
-            <link>http://futurism.com/researchers-studying-can-achieve-matrix-level-immersion-virtual-reality/</link>
-            <guid isPermaLink="false">052570e9-cdde-4b1d-ac2f-d60079569420</guid>
-            <pubDate>Tue, 15 Mar 2016 08:12:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
