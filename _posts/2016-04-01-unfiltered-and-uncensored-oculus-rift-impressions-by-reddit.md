@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'by Augmentl, April 1st 2016'
-datePublished: '2016-04-01T22:31:07.792Z'
-dateModified: '2016-04-01T22:27:46.144Z'
+datePublished: '2016-04-01T22:34:22.641Z'
+dateModified: '2016-04-01T22:31:16.548Z'
 title: 'Unfiltered and Uncensored: Oculus Rift Impressions by Reddit Users'
 author: []
 sourcePath: _posts/2016-04-01-unfiltered-and-uncensored-oculus-rift-impressions-by-reddit.md
@@ -28,9 +28,7 @@ _type: Article
 
 by [Augmentl][0], April 1st 2016
 
-The Oculus Rift is finally out, and while many are still waiting for their unit to ship, some lucky Redditors have had some time to get to know the world's first consumer device for high end PC VR. 
-
-Here is a collection of their experiences:
+The Oculus Rift is finally out, and while many are still waiting for their unit to ship, some lucky Redditors have had some time to get to know the world's first consumer device for high end PC VR. Here is a collection of their experiences, as they have shared them.
 
 [Thedoktorj][1]
 
