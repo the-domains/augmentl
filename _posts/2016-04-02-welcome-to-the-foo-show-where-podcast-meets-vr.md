@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We go inside the first episode of the Foo Show, a new Virtual Reality podcast-meets-chat-show by former Tested.com alumn Will Smith.\_"
-datePublished: '2016-04-02T08:43:45.260Z'
-dateModified: '2016-04-02T08:43:10.406Z'
+datePublished: '2016-04-02T08:48:40.222Z'
+dateModified: '2016-04-02T08:48:22.811Z'
 title: Welcome to the Foo Show. Where Podcast Meets VR
 author: []
+sourcePath: _posts/2016-04-02-welcome-to-the-foo-show-where-podcast-meets-vr.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-02-welcome-to-the-foo-show-where-podcast-meets-vr.md
-published: true
 url: welcome-to-the-foo-show-where-podcast-meets-vr/index.html
 _type: Article
 
@@ -26,7 +26,7 @@ _type: Article
 
 # Welcome to the Foo Show. Where Podcast Meets VR
 
-We go inside the first episode of the Foo Show, a new Virtual Reality podcast-meets-chat-show by former Tested.com alumn Will Smith. 
+We go inside the first episode of the Foo Show, a new Virtual Reality podcast-meets-chat-show by former Tested.com alum Will Smith. 
 
 by [Augmentl][0], 2nd April 2016
 
@@ -54,9 +54,6 @@ Despite its somewhat raw nature, the Foo Show has the potential for brilliance. 
 I look forward to finding out.
 
 Meanwhile, you can access the Foo Show's first episode for free on [Oculus Home][4]. 
-
-  
-
 
 [0]: https://twitter.com/augmentl
 [1]: https://twitter.com/willsmith
