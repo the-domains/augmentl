@@ -4,8 +4,15 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 22:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 08:43:49 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to the Foo Show. Where Podcast Meets VR]]></title>
+            <description><![CDATA[<article><h1>Welcome to the Foo Show. Where Podcast Meets VR</h1><p>We go inside the first episode of the Foo Show, a new Virtual Reality podcast-meets-chat-show by former Tested.com alumn Will Smith. </p></article>]]></description>
+            <link>http://augmentl.io/welcome-to-the-foo-show-where-podcast-meets-vr/index.html</link>
+            <guid isPermaLink="false">0d81d000-986b-4960-91e4-a1d814714675</guid>
+            <pubDate>Sat, 02 Apr 2016 08:43:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unfiltered and Uncensored: Oculus Rift Impressions by Reddit Users]]></title>
             <description><![CDATA[<article><h1>Unfiltered and Uncensored: Oculus Rift Impressions by Reddit Users</h1><p>by Augmentl, April 1st 2016</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=pN6YCFlS8nU</link>
             <guid isPermaLink="false">bd20d0a3-980d-4991-852e-b1a9fd40a7c3</guid>
             <pubDate>Wed, 16 Mar 2016 14:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pixar Alum Mark Walsh is Tackling VR with 'Gary the Gull']]></title>
-            <description><![CDATA[<article><h1>Pixar Alum Mark Walsh is Tackling VR with 'Gary the Gull'</h1><p>Have you ever been tricked by a fictional character? I don't mean has a character ever tricked yo because of how the writer orchestrated a scene or how an actor delivered the character's lines, I mean has a fictional cartoon character ever looked you in the eyes with the intent to con you and succeeded?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5b8808550f36c51fe34719fff7206a1cc9afa9e.jpg"></article>]]></description>
-            <link>http://uploadvr.com/pixar-alum-mark-walsh-is-taking-on-vr-with-gary-the-gull/</link>
-            <guid isPermaLink="false">c260fc9a-6830-42f6-9d13-ba5025a27972</guid>
-            <pubDate>Tue, 15 Mar 2016 21:44:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
