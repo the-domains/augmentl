@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'by Augmentl, April 1st 2016'
-datePublished: '2016-04-01T22:34:22.641Z'
-dateModified: '2016-04-01T22:31:16.548Z'
+datePublished: '2016-04-04T08:54:23.265Z'
+dateModified: '2016-04-04T08:52:42.988Z'
 title: 'Unfiltered and Uncensored: Oculus Rift Impressions by Reddit Users'
 author: []
 sourcePath: _posts/2016-04-01-unfiltered-and-uncensored-oculus-rift-impressions-by-reddit.md
@@ -29,6 +29,8 @@ _type: Article
 by [Augmentl][0], April 1st 2016
 
 The Oculus Rift is finally out, and while many are still waiting for their unit to ship, some lucky Redditors have had some time to get to know the world's first consumer device for high end PC VR. Here is a collection of their experiences, as they have shared them.
+
+...
 
 [Thedoktorj][1]
 
@@ -77,6 +79,10 @@ The Oculus Rift is finally out, and while many are still waiting for their unit 
 > Resolution is definitely significantly better than the DK2\. \[Screen Door Effect\] is very minimal in most circumstances. It's there if you look for it, but it's not obtrusive the way it used to be. However, the resolution is still not good enough to read text in small fonts, for instance.
 > This headset is comfortable! It's a huge step up from the DK2\. Once it's adjusted properly, it's very simple to pop it on and off. The earphones are comfortable and sound good. 
 
+[Fogboundturtle][10]
+
+> My overall experience has been fantastic with the CV1\. I do play in short burst of 45-60 minutes and take a break. I suggest everyone do the same if you are at your first VR experience. For those who are still waiting for their pre-order, it's worth the wait. by the time you get your HMD, game will have better VR support and you will have more choice.
+
 Keep checking back for more impressions as they become available.
 
 [0]: https://twitter.com/augmentl
@@ -89,3 +95,4 @@ Keep checking back for more impressions as they become available.
 [7]: https://www.reddit.com/r/oculus/comments/4ccwsj/cv1_first_impressions/
 [8]: https://www.reddit.com/r/oculus/comments/4cy9n5/my_impression_after_a_12_hour_vr_binge_with_the/
 [9]: https://www.reddit.com/r/oculus/comments/4chxes/my_experience_with_cv1_after_a_full_day_i_love_it/
+[10]: https://www.reddit.com/r/oculus/comments/4d6lcm/cv1_impression_after_2_days/
