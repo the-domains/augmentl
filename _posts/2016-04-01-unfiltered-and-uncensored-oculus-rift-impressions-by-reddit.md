@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'by Augmentl, April 1st 2016'
-datePublished: '2016-04-04T08:54:23.265Z'
-dateModified: '2016-04-04T08:52:42.988Z'
+datePublished: '2016-04-04T10:29:06.202Z'
+dateModified: '2016-04-04T10:28:44.089Z'
 title: 'Unfiltered and Uncensored: Oculus Rift Impressions by Reddit Users'
 author: []
 sourcePath: _posts/2016-04-01-unfiltered-and-uncensored-oculus-rift-impressions-by-reddit.md
@@ -83,6 +83,11 @@ The Oculus Rift is finally out, and while many are still waiting for their unit 
 
 > My overall experience has been fantastic with the CV1\. I do play in short burst of 45-60 minutes and take a break. I suggest everyone do the same if you are at your first VR experience. For those who are still waiting for their pre-order, it's worth the wait. by the time you get your HMD, game will have better VR support and you will have more choice.
 
+CMDR\_
+
+To be honest, having had so much exposure to VR and various "Oh, I get it now" moments in the past, I did not expect to have another one of those with CV1\. I expected Oculus to have addressed some, but not all items on my personal wishlist, like comfort, resolution etc, but if anything I expected a mostly iterative rather than transformative experience. Imagine my surprise when it happened again. The experience was profound enough that it prompted me to, for better or for worse, write down my thoughts about it and post it on reddit. Oculus has done something with VR, that I did not know I wanted until CV1 showed it to me.
+
+  
 Keep checking back for more impressions as they become available.
 
 [0]: https://twitter.com/augmentl
