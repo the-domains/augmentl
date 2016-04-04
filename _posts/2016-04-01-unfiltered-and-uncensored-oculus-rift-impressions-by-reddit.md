@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'by Augmentl, April 1st 2016'
-datePublished: '2016-04-04T10:32:49.809Z'
-dateModified: '2016-04-04T10:29:13.020Z'
+datePublished: '2016-04-04T10:36:10.363Z'
+dateModified: '2016-04-04T10:32:55.647Z'
 title: 'Unfiltered and Uncensored: Oculus Rift Impressions by Reddit Users'
 author: []
 sourcePath: _posts/2016-04-01-unfiltered-and-uncensored-oculus-rift-impressions-by-reddit.md
