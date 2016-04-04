@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'by Augmentl, April 1st 2016'
-datePublished: '2016-04-04T21:49:39.166Z'
-dateModified: '2016-04-04T21:49:17.864Z'
+datePublished: '2016-04-04T21:55:44.746Z'
+dateModified: '2016-04-04T21:49:46.738Z'
 title: 'Unfiltered and Uncensored: Oculus Rift Impressions by Reddit Users'
 author: []
 sourcePath: _posts/2016-04-01-unfiltered-and-uncensored-oculus-rift-impressions-by-reddit.md
@@ -89,8 +89,8 @@ The Oculus Rift is finally out, and while many are still waiting for their unit 
 
 [amorphous714][12]
 
-HOLY SHIT
-This screen is amazing! With the above notes about SDE, I had no issues using for everything but regular desktop use (more on that later). I am slightly colour deficient so any notes about colour reproduction I wont comment on, but I saw no issues with it personally. But, screen is amazing, no issues whatsoever with SDE, mild issues with resolution in dekstop use.
+> HOLY SHIT
+> This screen is amazing! With the above notes about SDE, I had no issues using for everything but regular desktop use (more on that later). I am slightly colour deficient so any notes about colour reproduction I wont comment on, but I saw no issues with it personally. But, screen is amazing, no issues whatsoever with SDE, mild issues with resolution in desktop use.
 
 Keep checking back for more impressions as they become available...
 
