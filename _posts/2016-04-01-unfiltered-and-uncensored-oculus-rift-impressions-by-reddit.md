@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'by Augmentl, April 1st 2016'
-datePublished: '2016-04-04T21:55:44.746Z'
-dateModified: '2016-04-04T21:49:46.738Z'
+datePublished: '2016-04-05T07:11:47.809Z'
+dateModified: '2016-04-05T07:11:44.701Z'
 title: 'Unfiltered and Uncensored: Oculus Rift Impressions by Reddit Users'
 author: []
 sourcePath: _posts/2016-04-01-unfiltered-and-uncensored-oculus-rift-impressions-by-reddit.md
@@ -87,7 +87,13 @@ The Oculus Rift is finally out, and while many are still waiting for their unit 
 
 > To be honest, having had so much exposure to VR and various "Oh, I get it now" moments in the past, I did not expect to have another one of those with CV1\. I expected Oculus to have addressed some, but not all items on my personal wishlist, like comfort, resolution etc, but if anything I expected a mostly iterative rather than transformative experience. Imagine my surprise when it happened again. The experience was profound enough that it prompted me to, for better or for worse, write down my thoughts about it and post it on reddit. Oculus has done something with VR, that I did not know I wanted until CV1 showed it to me.
 
-[amorphous714][12]
+[Karkmark][12]
+
+> Bottom line, compared to DK2: - \[Field of View\] seems slightly bigger - \[Screen Door Effect\] has noticably been reduced, but is still there - Resolution 'appears' higher but is still quite low. However, allows for acceptable experiences in Project Cars, EVE etc. - Scope of positional tracking camera is much bigger - Unit is lighter, more comfortable - the product, setup and software appear very polished.
+> 
+> 
+
+[amorphous714][13]
 
 > HOLY SHIT
 > This screen is amazing! With the above notes about SDE, I had no issues using for everything but regular desktop use (more on that later). I am slightly colour deficient so any notes about colour reproduction I wont comment on, but I saw no issues with it personally. But, screen is amazing, no issues whatsoever with SDE, mild issues with resolution in desktop use.
@@ -106,4 +112,5 @@ Keep checking back for more impressions as they become available...
 [9]: https://www.reddit.com/r/oculus/comments/4chxes/my_experience_with_cv1_after_a_full_day_i_love_it/
 [10]: https://www.reddit.com/r/oculus/comments/4d6lcm/cv1_impression_after_2_days/
 [11]: https://www.reddit.com/r/oculus/comments/4da3k7/story_time_for_old_vr_geezers_about_oh_i_get_it/
-[12]: https://www.reddit.com/r/oculus/comments/4dcr4l/rift_cv1_reviewimpressionsusing_it_as_primary/
+[12]: https://www.reddit.com/r/oculus/comments/4d3gl4/disappointment_cv1_experience_is_about_30_better/
+[13]: https://www.reddit.com/r/oculus/comments/4dcr4l/rift_cv1_reviewimpressionsusing_it_as_primary/
