@@ -4,7 +4,7 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 07:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 07:54:32 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Unfiltered and Uncensored: Oculus Rift Impressions by Reddit Users]]></title>
@@ -12,6 +12,13 @@
             <link>http://augmentl.io/unfiltered-and-uncensored-oculus-rift-impressions-by-reddit/index.html</link>
             <guid isPermaLink="false">759c09ef-bd14-4e53-a88a-a45389017caf</guid>
             <pubDate>Tue, 05 Apr 2016 07:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HTC Vive VR review: great ideas, unfinished execution]]></title>
+            <description><![CDATA[<article><h1>HTC Vive VR review: great ideas, unfinished execution</h1><p>One month ago, I tested a virtual reality headset called the HTC Vive Pre. The Pre was a development kit created by gaming behemoth Valve and smartphone maker HTC, and it was one of the most exciting new pieces of hardware I've had the pleasure of writing about - a device that offered full-body, room-scale VR.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b895d1003893ddf27618bf1c3d5e044ff05375a9.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/4/5/11358618/htc-vive-vr-review</link>
+            <guid isPermaLink="false">b0e90b3a-94d5-46bf-bf84-cc6798ecf1f0</guid>
+            <pubDate>Wed, 06 Apr 2016 07:53:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Welcome to the Foo Show. Where Podcast Meets VR]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.roadtovr.com/oculus-names-30-rift-launch-titles-and-their-prices/</link>
             <guid isPermaLink="false">2e6edf62-43be-451a-a863-29ac903cb1bb</guid>
             <pubDate>Wed, 16 Mar 2016 14:13:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing the Games Coming to Oculus!]]></title>
-            <description><![CDATA[<article><h1>Introducing the Games Coming to Oculus!</h1><p>We're excited to announce the VR games launching with Oculus Rift! This incredible lineup represents years of work from a global community of developers who are pioneering the future of VR. These games take you to the outer reaches of space, mysterious labyrinths of wonder, and fantastic worlds of adventure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94acbbcb056c529ede8507d3cba6adc59d5cf82a.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=pN6YCFlS8nU</link>
-            <guid isPermaLink="false">bd20d0a3-980d-4991-852e-b1a9fd40a7c3</guid>
-            <pubDate>Wed, 16 Mar 2016 14:12:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
