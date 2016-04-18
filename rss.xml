@@ -4,7 +4,7 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 07:54:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 10:27:53 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Unfiltered and Uncensored: Oculus Rift Impressions by Reddit Users]]></title>
@@ -12,6 +12,13 @@
             <link>http://augmentl.io/unfiltered-and-uncensored-oculus-rift-impressions-by-reddit/index.html</link>
             <guid isPermaLink="false">759c09ef-bd14-4e53-a88a-a45389017caf</guid>
             <pubDate>Tue, 05 Apr 2016 07:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Oculus Rift: Seamless, if not Perfect, VR]]></title>
+            <description><![CDATA[<article><h1>The Oculus Rift: Seamless, if not Perfect, VR</h1><p>It's been a long time coming. Years in fact. Ever since I first laid my hands on my Oculus DK1 - and thereafter through many, many hours with my eyes ensconced in a DK2 - I knew one day I'd be holding the first consumer VR headset by the company that arguably started it all: the Oculus Rift CV1. </p></article>]]></description>
+            <link>http://augmentl.io/the-oculus-rift-seamless-if-not-perfect-vr/index.html</link>
+            <guid isPermaLink="false">d55ffabd-c8c2-45cb-9594-08779f267b1d</guid>
+            <pubDate>Mon, 18 Apr 2016 10:27:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HTC Vive VR review: great ideas, unfinished execution]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=fQkzKhbEuJE</link>
             <guid isPermaLink="false">dd4a880d-54b9-4b91-bb24-480203264a10</guid>
             <pubDate>Thu, 17 Mar 2016 08:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oculus Names 30 Rift Launch Titles and Their Prices - Road to VR]]></title>
-            <description><![CDATA[<article><h1>Oculus Names 30 Rift Launch Titles and Their Prices - Road to VR</h1><p>Oculus' pre-GDC 'Game Days' event was an opportunity for the company to flaunt its substantial line up of original virtual reality content for the forthcoming Rift headset. But how many games will there be at launch and how much can you expect to pay for them?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8a68923c50c44a02e6c14933e694ec857e80044.jpg"></article>]]></description>
-            <link>http://www.roadtovr.com/oculus-names-30-rift-launch-titles-and-their-prices/</link>
-            <guid isPermaLink="false">2e6edf62-43be-451a-a863-29ac903cb1bb</guid>
-            <pubDate>Wed, 16 Mar 2016 14:13:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
