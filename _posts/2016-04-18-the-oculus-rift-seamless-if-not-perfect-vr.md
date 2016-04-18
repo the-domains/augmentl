@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "It's been a long time coming. Years in fact. Ever since I first laid my hands on my Oculus DK1 - and thereafter through many, many hours with my eyes ensconced in a DK2 - I knew one day I'd be holding the first consumer VR headset by the company that arguably started it all: the Oculus Rift CV1. "
-datePublished: '2016-04-18T10:27:05.695Z'
-dateModified: '2016-04-18T10:26:55.541Z'
+datePublished: '2016-04-18T10:32:04.627Z'
+dateModified: '2016-04-18T10:31:55.072Z'
 title: 'The Oculus Rift: Seamless, if not Perfect, VR'
 author: []
+sourcePath: _posts/2016-04-18-the-oculus-rift-seamless-if-not-perfect-vr.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-the-oculus-rift-seamless-if-not-perfect-vr.md
-published: true
 url: the-oculus-rift-seamless-if-not-perfect-vr/index.html
 _type: Article
 
@@ -26,9 +26,9 @@ _type: Article
 
 # The Oculus Rift: Seamless, if not Perfect, VR
 
-by [Augmentl][0], 18th April 2016
-
 It's been a long time coming. Years in fact. Ever since I first laid my hands on my Oculus DK1 - and thereafter through many, many hours with my eyes ensconced in a DK2 - I knew one day I'd be holding the first consumer VR headset by the company that arguably started it all: the Oculus Rift CV1\. 
+
+by [Augmentl][0], 18th April 2016
 
 I wasn't even expecting it. With all the shipping delays and component shortages, I'd received little communication from Oculus regarding my early pre-order. When I finally did, I was given a mid-May shipping date. Yet, as soon as I resigned myself to waiting yet another month, boom: shipping notification. And two days later, my CV1 was in my hands.
 
@@ -119,7 +119,5 @@ The Oculus launch catalog feels like a solid collection of titles which, while l
 That said, it is clear that the Rift is currently only half of what it can be. With the Oculus Touch still several months away, Rift owners will have to sit by and watch as HTC Vive users enjoy the new and exciting experiences that fully tracked motion controllers can offer. But, these experiences are still somewhat raw, and with a few notable exceptions (Hover Junkers and Budget Cuts come to mind) they fail to raise above the level of novel technical demo.
 
 By the time Touch lands in the second half of the year, we can expect those experiences to have matured somewhat, and be worth the extra $150-200 the controllers can reasonably be expected to cost. And with its high quality display, superior comfort, and superb audio solution, I expect the complete Rift and Touch package will, by the end of this year, define the base standard for future VR generations. 
-
-
 
 [0]: https://twitter.com/augmentl
