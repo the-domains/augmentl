@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'by Augmentl, 21st April 2016'
-datePublished: '2016-04-21T13:48:19.431Z'
-dateModified: '2016-04-21T13:47:59.999Z'
+datePublished: '2016-04-21T13:51:23.896Z'
+dateModified: '2016-04-21T13:51:16.673Z'
 title: "In Praise of Farlands, the Oculus Rift's Most Underrated Experience"
 author: []
+sourcePath: _posts/2016-04-21-in-praise-of-farlands-the-oculus-rifts-most-underrated-exp.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-in-praise-of-farlands-the-oculus-rifts-most-underrated-exp.md
-published: true
 url: in-praise-of-farlands-the-oculus-rifts-most-underrated-exp/index.html
 _type: Article
 
@@ -28,7 +28,7 @@ _type: Article
 
 by [Augmentl][0], 21st April 2016
 
-After a week with my Oculus Rift, having completed Adr1ft and spent hours in Lucky's Tale, Elite: Dangerous, Eve Valkyrie and a multitude of other titles, there is one Virtual Reality experience that, against all expectations, I feel regularly compelled to return to: Farlands, one of the least talked about free titles from the Oculus Rift's launch lineup.
+After a week with my Oculus Rift, having completed Adr1ft and spent hours in Lucky's Tale, Elite: Dangerous, Eve Valkyrie and a multitude of other titles, there is one Virtual Reality experience that, against all expectations, I feel regularly compelled to return to: [Farlands][1], one of the least talked about free titles from the Oculus Rift's launch lineup.
 
 Maybe it's partly because of its simplicity: After a hard day at work, I stand in the middle of the room with the Oculus Remote hanging from my wrist, don the Rift, and with a couple of clicks of a button jump into this gorgeous, colourful alien world. 
 
@@ -38,7 +38,7 @@ Farlands also does a great job of implying a sense of depth and complexity where
 
 Coincidence? Maybe. But it does nothing to take away from the sense of being David Attenborough on an alien planet, quietly and patiently waiting for the sun to set in order to observe the curious and endearing behaviours of Giffles, Wibwoms, Wisples and Kolerons in their natural environments. 
 
-For a game whose aesthetic and tone seem squarely targeted at a pre-teen audience (an odd choice for a launch title for a device [not recommended for under 13's][1]), Farlands somehow succeeds where more "adult" VR experiences fail: in leveraging the VR medium to instil a sense of whimsy and wonder while offering a space you actually want to spend time in. 
+For a game whose aesthetic and tone seem squarely targeted at a pre-teen audience (an odd choice for a launch title for a device [not recommended for under 13's][2]), Farlands somehow succeeds where more "adult" VR experiences fail: in leveraging the VR medium to instil a sense of whimsy and wonder while offering a space you actually want to spend time in. 
 
 Farlands' core game mechanic is centred around the building of experience points and rank (mostly acquired by interacting with the creatures and taking photos of new behaviours), and is specifically designed to keep the user coming back for the first week. Rank in fact unlocks new areas, interactions and mechanics that only become available the day after a certain rank is reached. There's even an underlying "story" thread, a mystery woven between the more mundane discoveries and daily interactions with the creatures. 
 
@@ -49,4 +49,5 @@ If nothing else, Farlands is a showcase of how to create a visually stunning, re
 Farlands is a simple game that hints at greater depths, even is said depths may well rest as much in the player's mind as in the game designer's intentions. And that's ok. VR is, after all, the perfect medium to let our imagination run wild. 
 
 [0]: https://twitter.com/augmentl
-[1]: https://www.inverse.com/article/12648-vr-age-limits-are-where-risk-aversion-bad-science-and-legit-worries-meet
+[1]: https://www.youtube.com/watch?v=UWEqMxCx7Is
+[2]: https://www.inverse.com/article/12648-vr-age-limits-are-where-risk-aversion-bad-science-and-legit-worries-meet
