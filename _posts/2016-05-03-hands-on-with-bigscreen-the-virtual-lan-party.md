@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Hands-on With BigScreen, The Virtual LAN Party'
-datePublished: '2016-05-03T09:05:02.259Z'
-dateModified: '2016-05-03T09:02:11.264Z'
-title: ''
+description: 'by Augmentl, 3rd May 2016.'
+datePublished: '2016-05-03T09:11:22.975Z'
+dateModified: '2016-05-03T09:10:13.650Z'
+title: 'Hands-On With BigScreen, The Virtual LAN Party'
 author: []
 sourcePath: _posts/2016-05-03-hands-on-with-bigscreen-the-virtual-lan-party.md
 published: true
@@ -17,14 +17,14 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: hands-on-with-bigscreen-the-virtual-lan-party/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7db5dc6-64f8-40f3-96d8-b30a0faac806.jpg)
 
-Hands-on With BigScreen, The Virtual LAN Party
+# Hands-On With BigScreen, The Virtual LAN Party
 
 by [Augmentl][0], 3rd May 2016\.
 
