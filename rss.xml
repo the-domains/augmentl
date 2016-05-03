@@ -4,7 +4,7 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 13:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 09:02:13 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Oculus Rift: Seamless, if not Perfect, VR]]></title>
@@ -19,6 +19,13 @@
             <link>http://augmentl.io/unfiltered-and-uncensored-oculus-rift-impressions-by-reddit/index.html</link>
             <guid isPermaLink="false">759c09ef-bd14-4e53-a88a-a45389017caf</guid>
             <pubDate>Tue, 05 Apr 2016 07:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hands-on With BigScreen, The Virtual LAN Party</p>]]></description>
+            <link>http://augmentl.io/hands-on-with-bigscreen-the-virtual-lan-party/index.html</link>
+            <guid isPermaLink="false">96ce7eb9-27fb-49db-813d-513e3f994060</guid>
+            <pubDate>Tue, 03 May 2016 09:02:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Praise of Farlands, the Oculus Rift's Most Underrated Experience]]></title>
@@ -68,13 +75,6 @@
             <link>http://doc-ok.org/?p=1414</link>
             <guid isPermaLink="false">dc1d0612-81be-4ccb-9d58-83a8a1901265</guid>
             <pubDate>Fri, 01 Apr 2016 12:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The creator of Star Wars' holochess is making a monster-battling AR card game]]></title>
-            <description><![CDATA[<article><h1>The creator of Star Wars' holochess is making a monster-battling AR card game</h1><p>Phil Tippett the man is perhaps best known as the subject of a meme - for failing in his role as "dinosaur supervisor" on Jurassic Park - but the veteran artist's most famous work is his holochess pieces, stop-motion beasts originally seen on the Millennium Falcon's game table in Star Wars: A New Hope, and resurrected in last year's The Force Awakens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b64661de7654241b86d820c4072ca2d2921ba219.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/3/30/11329642/holochess-ar-vr-hologrid-monster-battle-phil-tippett</link>
-            <guid isPermaLink="false">5cb41f7e-365c-4617-b1f9-195118f0bad7</guid>
-            <pubDate>Wed, 30 Mar 2016 11:10:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
