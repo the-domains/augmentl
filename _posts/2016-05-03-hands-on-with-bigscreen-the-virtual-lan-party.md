@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Hands-on With BigScreen, The Virtual LAN Party'
-datePublished: '2016-05-03T09:01:44.253Z'
-dateModified: '2016-05-03T09:01:33.238Z'
+datePublished: '2016-05-03T09:05:02.259Z'
+dateModified: '2016-05-03T09:02:11.264Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-03-hands-on-with-bigscreen-the-virtual-lan-party.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-hands-on-with-bigscreen-the-virtual-lan-party.md
-published: true
 url: hands-on-with-bigscreen-the-virtual-lan-party/index.html
 _type: Article
 
