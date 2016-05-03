@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "It's been a long time coming. Years in fact. Ever since I first laid my hands on my Oculus DK1 - and thereafter through many, many hours with my eyes ensconced in a DK2 - I knew one day I'd be holding the first consumer VR headset by the company that arguably started it all: the Oculus Rift CV1. "
-datePublished: '2016-04-18T10:32:04.627Z'
-dateModified: '2016-04-18T10:31:55.072Z'
+datePublished: '2016-05-03T09:05:50.125Z'
+dateModified: '2016-04-20T08:51:07.975Z'
 title: 'The Oculus Rift: Seamless, if not Perfect, VR'
 author: []
 sourcePath: _posts/2016-04-18-the-oculus-rift-seamless-if-not-perfect-vr.md
