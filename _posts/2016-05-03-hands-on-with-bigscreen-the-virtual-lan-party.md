@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'by Augmentl, 3rd May 2016.'
-datePublished: '2016-05-03T09:11:22.975Z'
-dateModified: '2016-05-03T09:10:13.650Z'
+datePublished: '2016-05-04T08:54:50.380Z'
+dateModified: '2016-05-04T08:54:49.816Z'
 title: 'Hands-On With BigScreen, The Virtual LAN Party'
 author: []
 sourcePath: _posts/2016-05-03-hands-on-with-bigscreen-the-virtual-lan-party.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: hands-on-with-bigscreen-the-virtual-lan-party/index.html
 _type: Article
 
