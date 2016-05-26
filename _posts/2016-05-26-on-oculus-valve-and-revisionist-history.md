@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'by Augmentl, 26th May 2016.'
-datePublished: '2016-05-26T09:10:58.586Z'
-dateModified: '2016-05-26T09:09:21.803Z'
+datePublished: '2016-05-26T09:25:01.796Z'
+dateModified: '2016-05-26T09:24:49.990Z'
 title: 'On Oculus, Valve and Revisionist History'
 author: []
+sourcePath: _posts/2016-05-26-on-oculus-valve-and-revisionist-history.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-26-on-oculus-valve-and-revisionist-history.md
+starred: true
 url: on-oculus-valve-and-revisionist-history/index.html
 _type: Article
 
@@ -37,11 +37,11 @@ _This made the Wizard very angry, and so he sent one of his angriest elves to ba
 
 _The End "_
 
-I didn't say it was a _good_ bedtime story. But the newly popularised saga of how Oculus appropriated Valve's VR technology during its early days and then proceeded to turn it against them following the Facebook acquisition, while a nice story, smacks of revisionist history. Valve's Alan Yates and his anti-Oculus tweets, rather than highlighting Oculus and Facebook's implied duplicity, smack in fact of sour grapes and missed opportunities. 
+I didn't say it was a _good_ bedtime story. But the newly popularised saga of how Oculus appropriated Valve's VR technology during its early days and then proceeded to turn it against them following the Facebook acquisition, while a cute little tale, smacks of revisionist history. Valve's Alan Yates and his anti-Oculus statements, rather than highlighting Oculus and Facebook's implied duplicity, smack in fact of sour grapes and missed opportunities. 
 
 What history boils down to is this. When Palmer, Carmack and the scrappy little VR startup that would later be bought by Facebook for two billion dollars were struggling to solve the motion sickness issues plaguing their early VR prototypes, Valve stepped in and, in the spirit of collaboration, shared one of their own VR prototype, a dual-screen contraption that seemed to solve the problem. ![The Valve Room and its VR prototype as it appeared in January 2014 at Steam Dev Days.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/959a263d-f837-4e4d-87c4-fa5ec1efe1cc.png)
 
-Oculus then ran with the concept, and used what it learned from it to accelerate its development of a polished consumer VR experience. When Facebook acquired Oculus, the major cash influx resulted in both an extension of the Rift's scope (from an improved DK2 to what it is today) and Oculus's overall ambitions - to be not only a provider of the best possible VR hardware for consumers, but to become the de-facto marketplace for the digital distribution of VR content.
+Oculus then ran with the concept, and used what it learned from it to accelerate its development of a polished consumer VR experience. When Facebook acquired Oculus a few months later, the major cash influx resulted in both an extension of the Rift's scope (from an improved DK2 to what it is today) and Oculus's overall ambitions - to be not only a provider of the best possible VR hardware for consumers, but to become the de-facto marketplace for the digital distribution of VR content.
 
 That last part, which materialised in the form of the Oculus Home digital storefront catering to all of the Rift's exclusive content, is the part Valve is taking issue with. It is clear that Valve's original intentions in sharing their technology was to foster the development of a hardware ecosystem that would have created yet another avenue with which to expand their Steam digital distribution quasi-monopoly. What Valve did not expect was for Oculus to step on their storefront's turf.
 
@@ -64,9 +64,6 @@ Without Oculus's achievements in validating the whole VR market opportunity and 
 So yes, Valve handed Oculus some core technology two years ago. But Oculus handed Valve (and the whole industry) the most disruptive and significant market opportunity since the advent of the smartphone. 
 
 I'd say the debt is paid in full.
-
-  
-
 
 [0]: http://twitter.com/augmentl
 [1]: http://uploadvr.com/valve-shared-vr-oculus/
