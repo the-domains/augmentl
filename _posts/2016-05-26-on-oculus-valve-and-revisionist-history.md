@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'by Augmentl, 26th May 2016.'
-datePublished: '2016-05-26T09:25:01.796Z'
-dateModified: '2016-05-26T09:24:49.990Z'
+datePublished: '2016-05-26T10:58:13.032Z'
+dateModified: '2016-05-26T09:25:03.679Z'
 title: 'On Oculus, Valve and Revisionist History'
 author: []
 sourcePath: _posts/2016-05-26-on-oculus-valve-and-revisionist-history.md
@@ -37,7 +37,7 @@ _This made the Wizard very angry, and so he sent one of his angriest elves to ba
 
 _The End "_
 
-I didn't say it was a _good_ bedtime story. But the newly popularised saga of how Oculus appropriated Valve's VR technology during its early days and then proceeded to turn it against them following the Facebook acquisition, while a cute little tale, smacks of revisionist history. Valve's Alan Yates and his anti-Oculus statements, rather than highlighting Oculus and Facebook's implied duplicity, smack in fact of sour grapes and missed opportunities. 
+I didn't say it was a _good_ bedtime story. But the newly popularised saga of how Oculus appropriated Valve's VR technology during its early days and then proceeded to turn it against them following the Facebook acquisition, while a cute little tale, smacks of revisionist history. Valve's Alan Yates and his anti-Oculus [statements][2], rather than highlighting Oculus and Facebook's implied duplicity, smack in fact of sour grapes and missed opportunities. 
 
 What history boils down to is this. When Palmer, Carmack and the scrappy little VR startup that would later be bought by Facebook for two billion dollars were struggling to solve the motion sickness issues plaguing their early VR prototypes, Valve stepped in and, in the spirit of collaboration, shared one of their own VR prototype, a dual-screen contraption that seemed to solve the problem. ![The Valve Room and its VR prototype as it appeared in January 2014 at Steam Dev Days.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/959a263d-f837-4e4d-87c4-fa5ec1efe1cc.png)
 
@@ -57,7 +57,7 @@ Left to their own devices, Valve would likely not have ben able (or willing) to 
 
 Why else would Michael Abrash, Atman Binstock and Aaron Nichols, Valve's own VR dream team, have felt the need to defect to Oculus in order to realise their passion? Because they knew Valve's own commitment to making VR happen would not match Oculus's.
 
-Alan Yates, the architect of Valve's Lighthouse solution for the HTC Vive, has been [very outspoken][2] in trying to remind the world that Valve's early research is responsible for much of the Rift's core technology. But Yates also conveniently fails to acknowledge that research, no matter how critical, is only as good as its execution.
+Alan Yates, the architect of Valve's Lighthouse solution for the HTC Vive, has been [very outspoken][3] in trying to remind the world that Valve's early research is responsible for much of the Rift's core technology. But Yates also conveniently fails to acknowledge that research, no matter how critical, is only as good as its execution.
 
 Without Oculus's achievements in validating the whole VR market opportunity and defining the highest standards for the VR hardware and software experience, Valve would not have a found a partner in HTC. Neither would Valve have VR industry to help foster, or a VR consumer base to which to market its wares. Without Oculus, Valve's early VR prototype would likely be collecting dust in a cabinet somewhere while the company mulled how to best expand into the mobile gaming market.
 
@@ -67,4 +67,5 @@ I'd say the debt is paid in full.
 
 [0]: http://twitter.com/augmentl
 [1]: http://uploadvr.com/valve-shared-vr-oculus/
-[2]: https://www.reddit.com/r/Vive/comments/4klu94/oculus_becoming_bad_for_vr_industry/d3g6e6j?context=3
+[2]: http://www.roadtovr.com/alan-yates-rift-is-direct-copy-of-valves-vr-research/
+[3]: https://www.reddit.com/r/Vive/comments/4klu94/oculus_becoming_bad_for_vr_industry/d3g6e6j?context=3
