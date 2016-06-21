@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Why timed exclusives are (temporarily) good for VR. '
-datePublished: '2016-06-21T14:56:23.446Z'
-dateModified: '2016-06-21T14:53:33.591Z'
+datePublished: '2016-06-21T15:03:10.476Z'
+dateModified: '2016-06-21T15:03:02.363Z'
 title: 'On VR, Exclusivity, and Misdirected Outrage'
 author: []
 sourcePath: _posts/2016-06-21-on-vr-exclusivity-and-misdirected-outrage.md
