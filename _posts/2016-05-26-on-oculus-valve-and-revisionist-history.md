@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'by Augmentl, 26th May 2016.'
-datePublished: '2016-05-26T10:58:13.032Z'
-dateModified: '2016-05-26T09:25:03.679Z'
+datePublished: '2016-06-21T14:56:18.952Z'
+dateModified: '2016-06-21T14:53:36.971Z'
 title: 'On Oculus, Valve and Revisionist History'
 author: []
 sourcePath: _posts/2016-05-26-on-oculus-valve-and-revisionist-history.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: on-oculus-valve-and-revisionist-history/index.html
 _type: Article
 
