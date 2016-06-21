@@ -4,7 +4,7 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 10:59:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 14:53:22 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[On Oculus, Valve and Revisionist History]]></title>
@@ -19,6 +19,13 @@
             <link>http://augmentl.io/c98e1e36-d7f8-41f5-9cfa-d4f3c5cde745/index.html</link>
             <guid isPermaLink="false">c98e1e36-d7f8-41f5-9cfa-d4f3c5cde745</guid>
             <pubDate>Wed, 04 May 2016 08:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On VR, Exclusivity, and Misdirected Outrage]]></title>
+            <description><![CDATA[<article><h1>On VR, Exclusivity, and Misdirected Outrage</h1><p>Why timed exclusives are (temporarily) good for VR. </p></article>]]></description>
+            <link>http://augmentl.io/on-vr-exclusivity-and-misdirected-outrage/index.html</link>
+            <guid isPermaLink="false">f99e9875-5b2f-4f03-a3b6-c9927de1b77d</guid>
+            <pubDate>Tue, 21 Jun 2016 14:53:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hands-On With BigScreen, The Virtual LAN Party]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/4/5/11358618/htc-vive-vr-review</link>
             <guid isPermaLink="false">b0e90b3a-94d5-46bf-bf84-cc6798ecf1f0</guid>
             <pubDate>Wed, 06 Apr 2016 07:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to the Foo Show. Where Podcast Meets VR]]></title>
-            <description><![CDATA[<article><h1>Welcome to the Foo Show. Where Podcast Meets VR</h1><p>We go inside the first episode of the Foo Show, a new Virtual Reality podcast-meets-chat-show by former Tested.com alum Will Smith. </p></article>]]></description>
-            <link>http://augmentl.io/welcome-to-the-foo-show-where-podcast-meets-vr/index.html</link>
-            <guid isPermaLink="false">0d81d000-986b-4960-91e4-a1d814714675</guid>
-            <pubDate>Sat, 02 Apr 2016 08:50:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
