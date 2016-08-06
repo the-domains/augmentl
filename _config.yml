@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0
-  brandStrength: 0.125
-  rhythmicContrast: 0.75
+  brandStrength: 0.562724
+  lightness: 0.6875
   brandColors:
     - '#afafaf'
     - '#ff9400'
     - '#ffffff'
     - '#323232'
     - '#d2d2d2'
-  lightness: 0.6875
+  rhythmicContrast: 0.75
 cta:
   bucket: null
   version: null
@@ -31,12 +31,12 @@ analytics:
   twitter: null
   google: UA-46059547-1
   facebook: null
-favicon: null
 name: ɅUGMΞNTL.IO
+favicon: null
 style: the-composer
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.37706
-layout_spectrum: 0.2795699
+layout_spectrum: 0.8189964
