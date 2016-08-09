@@ -4,7 +4,7 @@
         <description><![CDATA[ɅUGMΞNTL]]></description>
         <link>http://augmentl.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 07:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 07:16:31 GMT</lastBuildDate>
         <atom:link href="http://augmentl.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[On VR, Exclusivity, and Misdirected Outrage]]></title>
@@ -12,13 +12,6 @@
             <link>http://augmentl.io/on-vr-exclusivity-and-misdirected-outrage/index.html</link>
             <guid isPermaLink="false">f99e9875-5b2f-4f03-a3b6-c9927de1b77d</guid>
             <pubDate>Tue, 09 Aug 2016 07:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ ]]></title>
-            <description><![CDATA[<p>by Augmentl, May 4th 2016.</p>]]></description>
-            <link>http://augmentl.io/c98e1e36-d7f8-41f5-9cfa-d4f3c5cde745/index.html</link>
-            <guid isPermaLink="false">c98e1e36-d7f8-41f5-9cfa-d4f3c5cde745</guid>
-            <pubDate>Tue, 09 Aug 2016 07:16:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In Praise of Farlands, the Oculus Rift's Most Underrated Experience]]></title>
@@ -40,6 +33,13 @@
             <link>http://augmentl.io/hands-on-with-bigscreen-the-virtual-lan-party/index.html</link>
             <guid isPermaLink="false">96ce7eb9-27fb-49db-813d-513e3f994060</guid>
             <pubDate>Sat, 06 Aug 2016 19:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<p>by Augmentl, May 4th 2016.</p>]]></description>
+            <link>http://augmentl.io/c98e1e36-d7f8-41f5-9cfa-d4f3c5cde745/index.html</link>
+            <guid isPermaLink="false">c98e1e36-d7f8-41f5-9cfa-d4f3c5cde745</guid>
+            <pubDate>Sat, 06 Aug 2016 19:10:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Oculus Rift: Seamless, if not Perfect, VR]]></title>
