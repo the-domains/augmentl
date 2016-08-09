@@ -1,8 +1,31 @@
-name: ɅUGMΞNTL.IO
-favicon: null
-layout_spectrum: 0.73624
 typography_spectrum: 0.37706
-title: ɅUGMΞNTL
+color:
+  brandColors:
+    - '#afafaf'
+    - '#ff9400'
+    - '#ffffff'
+    - '#323232'
+    - '#d2d2d2'
+  brandStrength: 0.0625
+  lightness: 0
+  saturation: 0.25
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.73624
+analytics:
+  google: UA-46059547-1
+  facebook: null
+  twitter: null
+name: ɅUGMΞNTL.IO
+cta:
+  domain: null
+  bucket: null
+  version: null
+style: the-composer
+favicon: null
 collections:
   - index:
       path: /
@@ -15,28 +38,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-style: the-composer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-46059547-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#afafaf'
-    - '#ff9400'
-    - '#ffffff'
-    - '#323232'
-    - '#d2d2d2'
-  brandStrength: 0.0625
-  lightness: 0
-  saturation: 0.25
-  rhythmicContrast: 0.75
+title: ɅUGMΞNTL
+description: News and Opinions on Virtual Reality
 purpose: []
