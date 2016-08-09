@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T18:26:06.048Z'
+datePublished: '2016-08-09T18:28:26.547Z'
 sourcePath: _posts/2016-06-21-on-vr-exclusivity-and-misdirected-outrage.md
 inFeed: true
 authors: []
@@ -7,13 +7,13 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T18:26:04.274Z'
+dateModified: '2016-08-09T18:28:25.721Z'
 title: 'On VR, Exclusivity, and Misdirected Outrage'
 publisher: {}
 description: Why timed exclusives are (temporarily) good for VR.
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: on-vr-exclusivity-and-misdirected-outrage/index.html
 _type: Article
 
@@ -23,9 +23,9 @@ _type: Article
 Why timed exclusives are (temporarily) good for VR.
 
 By [Augmentl][0], June 21 2016
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ffd6d361aad79b976399ab582fa2e7d3/croprotate.jpg?cropheight=250&cropwidth=440&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6e37de88-8658-436b-87f1-92fd2fb8fa00.jpg&x=0&y=17)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f45477529b31250ac81518eafd18b39f6f676cc9.jpg)
 
-Over the past few weeks, the long running debate over software exclusivity in the VR space has reached unprecedented levels of intensity, hostility, and vitriol. Does Oculus's approach of funding game development in return for timed exclusivity foster the development of VR content, or does its strategy threaten to splinter a market still in the process of finding its feet?
+Over the past few weeks, the long running debate over software exclusivity in the VR space has reached unprecedented levels of intensity, hostility and vitriol. Does Oculus's approach of funding game development in return for timed exclusivity foster the development of VR content, or does its strategy threaten to splinter a market still in the process of finding its feet?
 
 Like most internet dramas, the latest instalment in the exclusivity debate started with a throwaway comment on Reddit, where Mario Kotlar, a member of the Croteam team developing Serious Sam VR, implied that Croteam had turned down "[a shitton of money][1]" from Oculus offered in exchange for the game's exclusive release on the Oculus platform.
 
