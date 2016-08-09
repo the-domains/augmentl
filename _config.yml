@@ -36,7 +36,7 @@ color:
     - '#323232'
     - '#d2d2d2'
   brandStrength: 0.0625
-  lightness: 1
+  lightness: 0
   saturation: 0.25
   rhythmicContrast: 0.75
 purpose: []
