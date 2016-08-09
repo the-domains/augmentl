@@ -1,5 +1,8 @@
+name: ɅUGMΞNTL.IO
+favicon: null
+layout_spectrum: 0.73624
+typography_spectrum: 0.37706
 title: ɅUGMΞNTL
-purpose: []
 collections:
   - index:
       path: /
@@ -12,31 +15,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+style: the-composer
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-46059547-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6577061
-  brandStrength: 0.562724
-  lightness: 1
   brandColors:
     - '#afafaf'
     - '#ff9400'
     - '#ffffff'
     - '#323232'
     - '#d2d2d2'
+  brandStrength: 0.375
+  lightness: 1
+  saturation: 0.25
   rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-46059547-1
-  facebook: null
-favicon: null
-name: ɅUGMΞNTL.IO
-style: the-composer
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.37706
-layout_spectrum: 0.6756272
+purpose: []
