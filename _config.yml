@@ -19,6 +19,12 @@ analytics:
   google: UA-46059547-1
   facebook: null
   twitter: null
+author:
+  url: 'http://augmentl.io'
+  name: Augmentl
+  email: write@augmentl.io
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a1bbe8e-ef4f-4c29-afdb-4cf9a08647c4.jpg
 name: ɅUGMΞNTL.IO
 cta:
   domain: null
@@ -42,6 +48,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ɅUGMΞNTL
+title: News and Opinions on Virtual Reality
 description: News and Opinions on Virtual Reality
 purpose: []
