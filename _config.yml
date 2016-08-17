@@ -31,6 +31,10 @@ cta:
   bucket: null
   version: null
 style: the-composer
+navigation:
+  - name: About
+    id: 224b47f6-c7e5-49c1-a745-b7217c466694
+    type: content
 favicon: null
 collections:
   - index:
