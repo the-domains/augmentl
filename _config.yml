@@ -1,4 +1,5 @@
-typography_spectrum: 0.1266586985439062
+layout_spectrum: 0.3574878133367747
+typography_spectrum: 0.4863825172651559
 color:
   brandColors:
     - '#2B3A42'
@@ -6,15 +7,14 @@ color:
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
-  brandStrength: 0.5858077076263726
-  lightness: 0.011922984616830945
-  saturation: 0.026748454431071877
-  rhythmicContrast: 0.006467956816777587
+  brandStrength: 0.4197964807972312
+  lightness: 0.8491698591969907
+  saturation: 0.5941526019014418
+  rhythmicContrast: 0.6991295153275132
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.44809027086012065
 analytics:
   google: UA-46059547-1
   facebook: null
@@ -30,7 +30,6 @@ cta:
   domain: null
   bucket: null
   version: null
-style: the-composer
 navigation:
   - name: About
     id: 224b47f6-c7e5-49c1-a745-b7217c466694
