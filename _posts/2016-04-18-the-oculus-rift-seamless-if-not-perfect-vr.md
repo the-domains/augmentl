@@ -4,13 +4,16 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "It's been a long time coming. Years in fact. Ever since I first laid my hands on my Oculus DK1 - and thereafter through many, many hours with my eyes ensconced in a DK2 - I knew one day I'd be holding the first consumer VR headset by the company that arguably started it all: the Oculus Rift CV1. "
-datePublished: '2016-05-04T07:03:46.677Z'
-dateModified: '2016-05-04T07:03:23.611Z'
+description: >-
+  It's been a long time coming. Years in fact. Ever since I first laid my hands
+  on my Oculus DK1 - and thereafter through many, many hours with my eyes
+  ensconced in a DK2 - I knew one day I'd be holding the first consumer VR
+  headset by the company that arguably started it all: the Oculus Rift CV1. 
+datePublished: '2016-08-26T10:36:57.413Z'
+dateModified: '2016-05-04T07:13:31.309Z'
 title: 'The Oculus Rift: Seamless, if not Perfect, VR'
 author: []
 sourcePath: _posts/2016-04-18-the-oculus-rift-seamless-if-not-perfect-vr.md
-published: true
 authors: []
 publisher:
   name: null
@@ -22,7 +25,7 @@ url: the-oculus-rift-seamless-if-not-perfect-vr/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/085d1501-b09c-4554-b48f-043983d01cb3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/64c814a4a356b57ccc94b451cdee7e54fc85b9a2.jpg)
 
 # The Oculus Rift: Seamless, if not Perfect, VR
 
@@ -48,10 +51,10 @@ A breeze. Plug in the camera and headset, Position the camera where it can see y
 
 * NVIDIA GTX 970 / AMD 290 equivalent or greater 
 * Intel i5-4590 equivalent or greater 
-* 8GB+ RAM 
-* Compatible HDMI 1.3 video output 
+* 8GB+ RAM Compatible 
+* HDMI 1.3 video output 
 * 2x USB 3.0 ports 
-* Windows 7 SP1 or newer 
+* Windows 7 SP1 or newer
 
 **The Fit**
 
